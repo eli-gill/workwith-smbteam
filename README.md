@@ -29,7 +29,7 @@ Add a CNAME record in your DNS provider:
 
 | Type  | Name     | Value                        |
 |-------|----------|------------------------------|
-| CNAME | workwith | smbteam.github.io            |
+| CNAME | workwith | placeholder.value.text         |
 
 Then in GitHub repo settings → Pages → Custom domain → enter `workwith.smbteam.com`.
 
