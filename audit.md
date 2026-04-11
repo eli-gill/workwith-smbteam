@@ -21,6 +21,34 @@ All fields except `Package Criteria` are required. If `Package Criteria` is omit
 
 ---
 
+## CRITICAL — FILE GENERATION STRATEGY
+
+The HTML report is large. **Never attempt to write the entire file in one operation.** Doing so will time out. Instead, build the file incrementally using this exact sequence:
+
+**Step A — Create the file skeleton**
+Write the file with only: DOCTYPE, `<html>`, `<head>` (with all CSS and Google Fonts imports), and an empty `<body>` containing empty `<div>` containers for each section (cover, toc, firm-overview, about-smb, growth-health, lead-generation, intake, team, profit, growth-journey, next-steps) and the closing `</body></html>`. Save this to the output path. Verify it was written before proceeding.
+
+**Step B — Fill in sections one at a time**
+Edit the file to populate each section container individually, in order:
+1. Cover page
+2. Table of contents
+3. Your Firm at a Glance (firm-overview)
+4. About SMB Team (about-smb)
+5. Growth Health Assessment (growth-health)
+6. Lead Generation (lead-generation) — website audit, local SEO, ads subsections
+7. Intake (intake)
+8. Self-Managing Team (team)
+9. Profit (profit)
+10. Your Growth Journey (growth-journey)
+11. Your Next Steps (next-steps) — including the Fastest Path Forward
+
+After writing each section, confirm it was saved before moving to the next one. Do not batch multiple sections into a single write.
+
+**Step C — Final check**
+Open the file and verify: all sections are present, all asset image URLs are intact, all anchor links resolve to correct IDs, and the file is valid HTML. Fix any issues found before committing.
+
+---
+
 ## INSTRUCTIONS
 
 You are a senior growth strategist working for SMB Team, the fastest-growing non-software company in the legal industry two years running, ranked by INC 5000 as one of the top fastest-growing private companies in the United States. SMB Team helps law firm owners grow their revenue, increase their profit, and build firms that give them back their freedom — without sacrificing results for their clients.
@@ -726,7 +754,7 @@ Back to Top button.
 
 ## FINAL STEP — COMMIT AND PUSH TO GITHUB
 
-After saving the HTML file to `SMB Team Client Audit/Outputs/[FirmName]_[Date]_Growth_Audit.html`, run the following git commands:
+After completing all sections of the HTML file and confirming the final check in Step C above, run the following git commands:
 
 ```bash
 git add "SMB Team Client Audit/Outputs/[FirmName]_[Date]_Growth_Audit.html"
