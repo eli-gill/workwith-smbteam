@@ -7,6 +7,7 @@ Run a full Law Firm Growth Audit for a prospective client, then save the branded
 ```
 /audit
 Firm Name: [Name]
+Friendly Name: [url-safe folder name, e.g. angel-law or mandel-law-firm]
 URL: [website URL]
 Sales Rep: [Rep Name]
 Date: [MMDDYYYY]
@@ -19,6 +20,8 @@ Package Criteria: [optional — include if ready to build the Fastest Path Forwa
 
 All fields except `Package Criteria` are required. If `Package Criteria` is omitted, include the placeholder in the Fastest Path Forward section per the instructions below.
 
+**Friendly Name rules:** lowercase, hyphens only (no spaces or underscores), short and readable. Examples: `angel-law`, `mandel-law-firm`, `smith-injury-law`.
+
 ---
 
 ## CRITICAL — FILE GENERATION STRATEGY
@@ -26,7 +29,7 @@ All fields except `Package Criteria` are required. If `Package Criteria` is omit
 The HTML report is large. **Never attempt to write the entire file in one operation.** Doing so will time out. Instead, build the file incrementally using this exact sequence:
 
 **Step A — Create the file skeleton**
-Write the file with only: DOCTYPE, `<html>`, `<head>` (with all CSS and Google Fonts imports), and an empty `<body>` containing empty `<div>` containers for each section (cover, toc, firm-overview, about-smb, growth-health, lead-generation, intake, team, profit, growth-journey, next-steps) and the closing `</body></html>`. Save this to the output path. Verify it was written before proceeding.
+Create the directory `SMB Team Client Audit/[friendly-name]/` if it does not exist. Then write the file with only: DOCTYPE, `<html>`, `<head>` (with all CSS and Google Fonts imports), and an empty `<body>` containing empty `<div>` containers for each section (cover, toc, firm-overview, about-smb, growth-health, lead-generation, intake, team, profit, growth-journey, next-steps) and the closing `</body></html>`. Save to `SMB Team Client Audit/[friendly-name]/index.html`. Verify it was written before proceeding.
 
 **Step B — Fill in sections one at a time**
 Edit the file to populate each section container individually, in order:
@@ -57,20 +60,22 @@ Your job is to perform a comprehensive growth audit on the prospective client la
 
 Parse the following from `$ARGUMENTS`:
 - **Firm Name** → use everywhere `[Firm Name]` appears
+- **Friendly Name** → used as the folder name (e.g. `angel-law`)
 - **URL** → the firm's website
 - **Sales Rep** → appears on cover page
-- **Date** → in MMDDYYYY format; use as `[Date]` in filename and cover
+- **Date** → in MMDDYYYY format; use as `[Date]` in cover page
 - **Revenue** → used for package eligibility logic in Step 11
 - **Practice Area** → used for package eligibility and ad spend rules
 - **Market Competitiveness** → used for package eligibility rules
 - **Transcript** → the full discovery call text
 - **Package Criteria** → if provided, complete the Fastest Path Forward section in full; if not, insert a clearly marked navy placeholder noting the section will be completed by the sales rep prior to delivery
 
-**Save the completed audit to:** `SMB Team Client Audit/Outputs/[FirmName]_[Date]_Growth_Audit.html`
-(Replace spaces in firm name with underscores. Date is MMDDYYYY.)
-Example: `SMB Team Client Audit/Outputs/Mandel_Law_Firm_04042026_Growth_Audit.html`
+**Save the completed audit to:** `SMB Team Client Audit/[friendly-name]/index.html`
+Example: `SMB Team Client Audit/angel-law/index.html`
 
-**Do not output the HTML in the chat window. Save it directly to the Outputs folder.**
+Create the folder `SMB Team Client Audit/[friendly-name]/` if it does not already exist.
+
+**Do not output the HTML in the chat window. Save it directly to the firm's folder.**
 
 ---
 
@@ -757,9 +762,10 @@ Back to Top button.
 After completing all sections of the HTML file and confirming the final check in Step C above, run the following git commands:
 
 ```bash
-git add "SMB Team Client Audit/Outputs/[FirmName]_[Date]_Growth_Audit.html"
+git checkout main
+git add "SMB Team Client Audit/[friendly-name]/index.html"
 git commit -m "Add growth audit: [Firm Name] ([Date])"
-git push
+git push origin main
 ```
 
-Replace `[FirmName]`, `[Firm Name]`, and `[Date]` with the actual values used in the filename. Confirm the push succeeded and report the commit hash in the chat.
+Replace `[friendly-name]`, `[Firm Name]`, and `[Date]` with the actual values. Always commit directly to main — never create a branch. Confirm the push succeeded and report the commit hash in the chat.

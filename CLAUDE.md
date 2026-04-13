@@ -20,14 +20,13 @@ Each audit is a branded HTML report produced by the `/audit` slash command. Repo
 
 ```
 SMB Team Client Audit/
-└── Outputs/
-    └── [FirmName]_[Date]_Growth_Audit.html
+└── [friendly-name]/
+    └── index.html
 ```
 
-File naming convention: `[FirmName]_[Date]_Growth_Audit.html`
-- Spaces in firm name replaced with underscores
-- Date in MMDDYYYY format
-- Example: `Mandel_Law_Firm_04102026_Growth_Audit.html`
+Each firm gets its own folder named with a lowercase hyphenated friendly name. The report is always saved as `index.html` inside that folder.
+- Example: `SMB Team Client Audit/mandel-law-firm/index.html`
+- Example: `SMB Team Client Audit/angel-law/index.html`
 
 ## How to Run an Audit
 
