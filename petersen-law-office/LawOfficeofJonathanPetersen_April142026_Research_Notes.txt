@@ -1,0 +1,300 @@
+LAW FIRM GROWTH AUDIT — RESEARCH NOTES
+Firm: Law Office of Jonathan Petersen
+Friendly Name: petersen-law-office
+Date: April 14, 2026
+Sales Rep: Eli Gill
+Researcher: Claude Code (AI-assisted browser research)
+
+NOTE ON WEBSITE ACCESS: The firm's website (attorneypetersen.com) returns HTTP 403 "host_not_allowed" to all
+automated requests, including Google PageSpeed Insights API, curl, and WebFetch tools. This is consistent with
+a strict WAF/CDN configuration that blocks non-browser access. All website observations are derived from Google
+search snippets, directory listings, and cached data. PageSpeed scores could not be retrieved due to (a) the
+website's bot-blocking configuration and (b) Google PageSpeed API quota exhaustion. This must be tested
+manually via pagespeed.web.dev before the report is finalized.
+
+===========================
+PASS 1 — RESEARCH NOTES
+===========================
+
+--- ABOUT THE FIRM ---
+Full name: Law Office of Jonathan Petersen (also listed as "Petersen Jonathan Law Office")
+Address: 1544 45th Ave, Suite 3, Munster, IN 46321
+Phone: 219-803-4550 (also listed as 219-803-5550 on some directories)
+Office hours: Mon–Thu 9:00 AM–4:00 PM | Fri 9:00 AM–12:00 PM | Closed weekends
+Founded: ~2007 per Dun & Bradstreet; attorney bio states "Since 1999" as a trusted advisor
+Employees: 3 (per D&B)
+Estimated annual revenue: ~$347,728 (per D&B / business databases)
+Attorney: Jonathan D. Petersen
+Licensed in: Indiana, Illinois, Florida
+Attorney background: Lifelong Munster, IN resident; graduate of Munster High School (1984); B.A. in
+Chemistry & Spanish from Wabash College; MBA from University of Notre Dame; J.D. from The John Marshall
+Law School. Worked in business and real estate development across Midwest and Chicago before entering law.
+Also serves as 5th Ward Town Councilman for Munster (re-election campaign site: petersen4munster.com).
+
+--- PRACTICE AREAS (confirmed from website, directories, and search results) ---
+1. Evictions / Landlord-Tenant (primary — explicitly highlighted on website, NWI focus)
+2. Bankruptcy — consumer and business
+3. Real Estate Documents / Transactions (leases, applications, closing docs, land trusts)
+4. Family Law
+5. Land Trusts (through Great Lakes Trust Company)
+6. Real Estate Tax Sale
+
+---
+
+WEBSITE DATA
+- Website URL confirmed live: yes (confirmed via Google search snippets and directory links)
+- Website title tag: "Jonathan Petersen, Attorney, Lawyer, Northwest Indiana, Eviction, Bankruptcy, Real Estate Documents"
+- Last redesign date or estimated age: appears older; site structure consistent with a 2010–2015 era design;
+  website has a Document Center (static HTML file at /documentcenter/doccenter.html) suggesting minimal CMS
+- PageSpeed mobile score: NOT OBTAINED — website blocks all automated access (403 "host_not_allowed");
+  Google PageSpeed API returned quota-exceeded error; must be tested manually at pagespeed.web.dev
+- PageSpeed desktop score: NOT OBTAINED — same reason as above
+- Mobile responsive: not observed (could not access site directly)
+- Homepage headline: "Jonathan Petersen, Attorney, Lawyer, Northwest Indiana, Eviction, Bankruptcy, Real
+  Estate Documents" (from title tag / search snippet)
+- CTA above fold: not observed (site not accessible to automated tools)
+- Contact form location: not observed
+- Live chat present: not observed
+- Attorney bio present: yes — confirmed (bio available via campaign site petersen4munster.com/bio and
+  directory listings; includes education, background, Munster roots, council role)
+- Video present: not observed
+- Blog present: not observed; site has a static Document Center for landlords (lease templates,
+  applications, etc.) but no time-stamped blog content found
+- Document Center observed: yes — at /documentcenter/doccenter.html; includes Single-Family Lease,
+  Multi-Family/Apartment Lease, Application, Indiana Security Deposit Letter, Replacement Costs Sheet
+- Notable trust signals observed: Town Council position (5th Ward), multi-state licensure (IN, IL, FL),
+  Wabash + Notre Dame + John Marshall education, 17+ years experience, local Munster roots
+- Technical issues: Not directly observable (can't access site); no broken link signals found in search
+  index; copyright year and footer status not confirmed
+
+---
+
+GOOGLE BUSINESS PROFILE
+- GBP found: yes (confirmed — appears in directory aggregators pulling from GBP)
+- Star rating: 3.7/5 (Birdeye aggregated — likely reflects Google as primary source)
+- Total review count (aggregated across platforms via Birdeye): 67
+- Chamber of Commerce shows: 3.4/5 from 36 reviewers
+- Avvo shows: 6.7 Avvo rating; 1 client review (5.0 stars, from 2016)
+- Most recent review date: not confirmed (Yelp page updated January 2026 suggesting profile activity)
+- Primary category: Bankruptcy Law (Yelp); Landlord & Tenant (Avvo); Real Estate (directory listings)
+- Photos active: not observed
+- Posts active: not observed
+- Review response behavior: not observed
+- NAP consistency: Slight phone number discrepancy between sources (219-803-4550 vs 219-803-5550);
+  address consistently listed as 1544 45th Ave, Suite 3, Munster, IN 46321
+
+---
+
+LOCAL 3-PACK — Practice Area 1: Eviction / Landlord-Tenant
+
+Note: Search result ranking positions could not be confirmed directly due to automated search limitations.
+The following reflects observed organic ranking positions and directory data.
+
+- Search 1 "eviction attorney Munster Indiana": firm appears in organic results (yes) —
+  competitors observed in results: Steve E. Haddad (Hammond, IN), Clegg & Faulkner (Hammond, IN),
+  Eric Oden Clark (Munster, IN — primarily family law); 3-pack positions not directly confirmed
+- Search 2 "eviction lawyer northwest Indiana": firm appears in organic results (yes) —
+  competitors: Haddad Law (haddad-law.com), Howes & Howes Law Firm; 3-pack positions not confirmed
+- Search 3 "landlord tenant attorney Munster Indiana": firm appears in directory results (yes via Avvo,
+  Justia, Martindale) — competitors in Justia Lake County list: multiple, specific 3-pack not confirmed
+
+Key competitors in eviction/landlord-tenant:
+- Steve E. Haddad, Attorney at Law (Hammond, IN) — haddad-law.com — practicing since 2000;
+  licensed IN and IL; full-service practice including landlord-tenant; Avvo: 9 reviews (avg ~5.0);
+  specific Google review count not confirmed
+- Clegg & Faulkner, P.C. (Hammond, IN — 15 Lawndale) — real estate/estate focus; practicing since
+  1996; BBB A+ rating; Google review count not confirmed
+- Haddad also competes in: criminal defense, immigration, real estate, civil, estate planning
+
+---
+
+LOCAL 3-PACK — Practice Area 2: Bankruptcy
+
+- Search 1 "bankruptcy attorney Munster Indiana": firm appears in organic/directory results (yes) —
+  competitors dominant in results: Daniel L. Freeland & Associates (Highland, IN), Manning & Mouratides
+  (Crown Point, IN), Christopher C. Hedges (Crown Point, IN — note: faced bar discipline per Avvo);
+  3-pack positions not directly confirmed
+- Search 2 "bankruptcy lawyer northwest Indiana": competitors: Freeland, Manning & Mouratides;
+  Petersen appears in directories but 3-pack position not confirmed
+- Search 3 "Chapter 7 attorney Munster Indiana": not directly observed; Freeland ranks for this
+
+Key competitors in bankruptcy:
+- Daniel L. Freeland & Associates, P.C. (Highland, IN — 9105 Indianapolis Blvd) — dfreeland.com —
+  40+ years in practice; Chapter 7 Trustee, U.S. Bankruptcy Court, Northern District Indiana;
+  Super Lawyers 2009–2026; Martindale 4.7 peer rating; Lawyers.com: 4.1/5 (10 reviews);
+  specific Google review count not confirmed
+- Manning & Mouratides, P.C. (Crown Point, IN — 120 W Clark St) — manningandmouratides.com —
+  45+ years combined experience; Chapter 7, 13, 11; also covers real estate, probate;
+  specific Google review count not confirmed
+
+---
+
+COMPETITOR REVIEW COUNTS — Verified from available sources
+
+Note: Google-specific review counts could not be confirmed live for any competitor due to search
+result limitations. Numbers below reflect third-party aggregated data only. Must be verified live
+before using in the report.
+
+- Steve E. Haddad (Hammond, IN): Avvo: 9 reviews, ~5.0 stars | Yelp: listed (July 2025) |
+  Google count: NOT CONFIRMED LIVE
+- Daniel L. Freeland & Associates (Highland, IN): Lawyers.com: 4.1/5 (10 reviews) |
+  Google count: NOT CONFIRMED LIVE
+- Manning & Mouratides (Crown Point, IN): Directory listings only; Google count: NOT CONFIRMED LIVE
+- Law Office of Jonathan Petersen (Munster, IN): Birdeye aggregate: 3.7/5 (67 reviews);
+  Chamber of Commerce: 3.4/5 (36 reviews); Avvo: 5.0/5 (1 review); Yellow Pages: 5 stars;
+  Google-specific count: NOT CONFIRMED LIVE (must verify before report)
+
+CRITICAL NOTE: Google review counts for ALL parties above must be verified live via Google Maps before
+the report is written. Do NOT cite any competitor as having more reviews than this firm without
+confirming the firm's actual Google review count first.
+
+---
+
+GOOGLE ADS — Practice Area 1: Eviction / Landlord-Tenant
+
+- Firm ads observed: not observed — no Jonathan Petersen / Law Office of Jonathan Petersen ads
+  identified for eviction-related searches; firm may not be running Google Ads for this practice area,
+  may not be configured correctly to show for these searches, or may be getting outbid by competitors
+- Named local competitors running ads: not directly observed through search results; Haddad Law has
+  a full-service website suggesting potential ad spend; specific ad copy not confirmed
+
+---
+
+GOOGLE ADS — Practice Area 2: Bankruptcy
+
+- Firm ads observed: not observed — same framing as above applies; not confirmed running or not running
+- Named local competitors running ads: Freeland and Manning & Mouratides have active websites but
+  specific ad copy not observed in search results
+
+---
+
+GOOGLE ADS — Practice Area 3: Real Estate
+
+- Firm ads observed: not observed
+- Named local competitors running ads: not observed
+
+---
+
+LOCAL SERVICE ADS
+- Firm appears in LSA: not observed — no LSA box observed in search result snippets for this firm
+- Google Screened: not observed
+- LSA review count: not applicable if not in LSA
+- Named local competitors in LSA: not confirmed; LSA box contents not captured from search results
+- Opportunity: Munster / Lake County attorneys doing landlord-tenant and bankruptcy are eligible for
+  LSA (Google Screened); if competitors hold LSA positions, this firm is invisible above organic results
+
+---
+
+META ADS — Facebook Ad Library
+- Firm has active ads: not observed — Facebook page confirmed exists
+  (facebook.com/JonathanPetersenLaw/) but no active campaigns found in ad library search
+- Facebook page URL: https://www.facebook.com/JonathanPetersenLaw/
+- Note: Absence of ads in library does not confirm the firm is definitely not advertising; may be
+  running ads under different account or campaigns may not be surfacing
+- Named local competitor 1: Steve E. Haddad — active Meta ads: not observed in search
+- Named local competitor 2: Daniel L. Freeland — active Meta ads: not observed in search
+- Named local competitor 3: Manning & Mouratides — Facebook page confirmed; active ads: not confirmed
+  (Manning & Mouratides PC Facebook: facebook.com/Manning-Mouratides-PC-160909420600733)
+
+---
+
+TRANSCRIPT DATA POINTS
+(No transcript was provided. All below is "N/A — no transcript" except where confirmed by research.)
+
+- Practice areas confirmed from research: Evictions/Landlord-Tenant, Consumer Bankruptcy, Business
+  Bankruptcy, Real Estate Documents, Family Law, Land Trusts, Real Estate Tax Sale
+- Current lead sources: not stated (no transcript) — likely referral/word of mouth based on solo
+  practice profile and absence of observed paid advertising
+- Ads ever run: not stated (no transcript) — not observed running any Google, LSA, or Meta ads
+- Team size: 3 employees total (including attorney) per D&B; specific roles not confirmed
+- Annual revenue: not stated from transcript; estimated ~$347,728 from D&B business database
+- Revenue goal: not stated (no transcript)
+- Dominant buying motive: not stated (no transcript) — inferred: likely wants predictable client flow
+  and to reduce dependence on referrals; as a solo with civic role (Town Council), may also desire more
+  systematic, less time-intensive client acquisition
+- Any profitability claims made by prospect: none stated (no transcript)
+- Any claims about case types or practice areas: none stated (no transcript)
+
+---
+
+DIRECTORY LISTINGS OBSERVED
+- Avvo: yes — Jonathan David Petersen, Munster IN (landlord-tenant, bankruptcy, personal injury,
+  litigation); Avvo rating 6.7; 1 client review (5.0 stars); no endorsements recently noted
+- Justia: yes — listed for Lake County landlord-tenant and real estate attorneys
+- FindLaw: yes — listed as Hammond, IN banking/finance and real estate
+- Martindale: yes — Mr. Jonathan David Petersen profile active
+- Yelp: yes — Petersen Jonathan Law Office, 1544 45th Ave, Munster (updated January 2026,
+  category: Bankruptcy Law); specific Yelp star count not confirmed in search snippets
+- Yellow Pages: yes — listed (5 stars noted in one result snippet)
+- Lawyer.com: yes — Law Office of Jonathan D. Petersen
+- Chamber of Commerce: yes — 3.4/5 from 36 reviewers
+- Birdeye: yes — 3.7/5 from 67 aggregated reviews
+- LinkedIn: company page exists — Law Office of Jonathan Petersen
+- Facebook: business page active — facebook.com/JonathanPetersenLaw/
+
+---
+
+GEO-TARGETING / CITY LANDING PAGES
+- Not observed — no evidence of landing pages targeting nearby suburbs or cities beyond "Northwest
+  Indiana" and "Chicagoland" general service area language on homepage
+- Competitors: not observed running geo-targeted landing pages either based on current data
+
+---
+
+MARKET COMPETITIVENESS ASSESSMENT (preliminary)
+
+Munster / Lake County, Indiana is a small-to-mid market with a moderate competitive landscape for
+landlord-tenant and bankruptcy legal services. Key observations:
+- Petersen is one of a small number of attorneys explicitly advertising eviction services in NWI;
+  his focus makes him a market specialist but the lack of Google Ads and LSA presence limits visibility
+- Bankruptcy competitors (Freeland, Manning) have decades of established presence and directory dominance
+- No competitor observed running aggressive multi-channel paid marketing (Google + Meta + LSA)
+- Mixed review profile (3.7/5 aggregate) is a risk — below the 4.0+ threshold that strongly influences
+  local pack rankings
+- Market appears to be at a competitive urgency score of approximately 5–6 (preliminary); competitors
+  have meaningful directory and experience advantages but no one is running comprehensive digital campaigns
+- This market has an open window for a firm that activates paid advertising + review improvement
+
+---
+
+PASS 2 — VERIFICATION CHECKLIST (completed pre-report)
+
+[ ] Every number in report matches a number recorded in Pass 1 notes
+  → NOTE: Google review counts for ALL parties MUST be verified live before report is written
+  → PageSpeed scores MUST be tested manually at pagespeed.web.dev before report is written
+[ ] Every competitor review count verified live — prospect does not have more than any I cite as "dominating"
+  → NOT verified live; all review counts must be checked on Google Maps before report finalization
+[ ] Every ad section covers ALL practice areas listed in transcript
+  → Covered: Evictions, Bankruptcy, Real Estate; Family Law noted but less searchable
+[X] No section says "you are not running ads" — only "does not appear to be running" framing
+[X] No profitability claim appears unless from transcript — correct; transcript was N/A
+[X] No competitor reference uses generic labels — using specific named local firms only
+[X] Live chat not mentioned as SMB Team offering
+[X] CRM setup not listed as first 90 days deliverable
+[X] Stage 6 not referenced in blind spots
+[X] First 90 days bullets connect to actual SMB Team deliverables
+[ ] PageSpeed scores are real numbers — MUST be obtained manually before final report
+
+---
+
+ITEMS REQUIRING MANUAL VERIFICATION BEFORE REPORT IS WRITTEN
+
+1. PageSpeed mobile and desktop scores — must be run manually at pagespeed.web.dev
+   (website blocks all automated access; API quota was exceeded during research)
+2. Google Business Profile — actual Google review count and star rating (not aggregated)
+3. Google review counts for all three named competitors (Haddad, Freeland, Manning & Mouratides)
+4. Local 3-pack results — which firms actually appear for:
+   "eviction attorney Munster Indiana"
+   "eviction lawyer Hammond Indiana"
+   "eviction attorney Lake County Indiana"
+   "bankruptcy attorney Munster Indiana"
+   "bankruptcy lawyer Lake County Indiana"
+   "bankruptcy lawyer Hammond Indiana"
+5. Google Ads — what ads are currently running (if any) for all practice areas
+6. Local Service Ads — which firms hold LSA positions for these searches
+7. Meta Ads — whether any local competitors are actively running Facebook/Instagram campaigns
+8. Jonathan Petersen's Facebook page activity level and follower count
+
+---
+
+END OF RESEARCH NOTES
