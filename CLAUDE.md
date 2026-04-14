@@ -19,14 +19,35 @@ Each audit is a branded HTML report produced by the `/audit` slash command. Repo
 ## Folder Structure
 
 ```
+Design Files/                          ← templates, read-only, never modified
+├── SMB_Team_Audit_Agent_System_Prompt.txt
+├── audit_styles.css
+├── audit_master_assembly.html
+├── section_01_cover.html
+├── section_02_toc.html
+├── section_03_firm_overview.html
+├── section_04_about_smb.html
+├── section_05_growth_health.html
+├── section_06_lead_generation.html
+├── section_07_08_09_intake_team_profit.html
+├── section_10_whats_possible.html
+└── section_11_next_steps.html
+
 SMB Team Client Audit/
 └── [friendly-name]/
-    └── index.html
+    ├── index.html                     ← final assembled output
+    ├── audit_styles.css               ← copied from Design Files at assembly
+    ├── [FirmName]_[Date]_Research_Notes.txt
+    └── sections/                      ← working copies of filled-in section files
+        ├── section_01_cover.html
+        └── ...
 ```
 
-Each firm gets its own folder named with a lowercase hyphenated friendly name. The report is always saved as `index.html` inside that folder.
+Each firm gets its own folder named with a lowercase hyphenated friendly name.
 - Example: `SMB Team Client Audit/mandel-law-firm/index.html`
 - Example: `SMB Team Client Audit/angel-law/index.html`
+
+**Design Files are permanent templates. Never modify them.** Claude Code reads from them and writes working copies to the firm's folder.
 
 ## How to Run an Audit
 
