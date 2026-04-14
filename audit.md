@@ -41,12 +41,12 @@ Follow every instruction in that file exactly. The sections below override or ex
 The system prompt references a "project folder" and a "Design Files subfolder." In this repo, those map as follows:
 
 - **Design Files folder** → `Design Files/` at the repo root
-- **Research notes file** → `SMB Team Client Audit/[friendly-name]/[FirmName]_[Date]_Research_Notes.txt`
-- **Working section files** → write filled-in copies to `SMB Team Client Audit/[friendly-name]/sections/` — do NOT write back into `Design Files/`
-- **Final assembled output** → `SMB Team Client Audit/[friendly-name]/index.html`
-- **CSS file** → copy `Design Files/audit_styles.css` to `SMB Team Client Audit/[friendly-name]/audit_styles.css` at assembly time so the relative path in the HTML resolves correctly
+- **Research notes file** → `[friendly-name]/[FirmName]_[Date]_Research_Notes.txt`
+- **Working section files** → write filled-in copies to `[friendly-name]/sections/` — do NOT write back into `Design Files/`
+- **Final assembled output** → `[friendly-name]/index.html`
+- **CSS file** → copy `Design Files/audit_styles.css` to `[friendly-name]/audit_styles.css` at assembly time so the relative path in the HTML resolves correctly
 
-Create `SMB Team Client Audit/[friendly-name]/` and its subdirectories if they do not already exist.
+Create `[friendly-name]/` and its subdirectories at the repo root if they do not already exist.
 
 **Design Files are read-only.** Never modify, overwrite, move, rename, or delete any file inside `Design Files/`. Read from them. Write working copies elsewhere.
 
@@ -57,10 +57,10 @@ Create `SMB Team Client Audit/[friendly-name]/` and its subdirectories if they d
 When assembling the final output:
 
 1. Open `Design Files/audit_master_assembly.html` — read it, do not modify it
-2. Build a new file by replacing each `<!-- INSERT SECTION XX CONTENT HERE -->` comment with the full HTML content of the corresponding completed working section file from `SMB Team Client Audit/[friendly-name]/sections/`
+2. Build a new file by replacing each `<!-- INSERT SECTION XX CONTENT HERE -->` comment with the full HTML content of the corresponding completed working section file from `[friendly-name]/sections/`
 3. In the `<link rel="stylesheet" href="audit_styles.css">` tag, confirm the href is `audit_styles.css` — this resolves correctly because the CSS will be copied to the same folder
-4. Save the assembled file as `SMB Team Client Audit/[friendly-name]/index.html`
-5. Copy `Design Files/audit_styles.css` to `SMB Team Client Audit/[friendly-name]/audit_styles.css`
+4. Save the assembled file as `[friendly-name]/index.html`
+5. Copy `Design Files/audit_styles.css` to `[friendly-name]/audit_styles.css`
 6. Verify the output file exists and is not empty before proceeding
 
 ---
@@ -71,7 +71,7 @@ After the final output is confirmed saved:
 
 ```bash
 git checkout main
-git add "SMB Team Client Audit/[friendly-name]/"
+git add "[friendly-name]/"
 git commit -m "Add growth audit: [Firm Name] ([Date])"
 git push origin main
 ```

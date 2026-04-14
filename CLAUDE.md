@@ -33,19 +33,18 @@ Design Files/                          ← templates, read-only, never modified
 ├── section_10_whats_possible.html
 └── section_11_next_steps.html
 
-SMB Team Client Audit/
-└── [friendly-name]/
-    ├── index.html                     ← final assembled output
-    ├── audit_styles.css               ← copied from Design Files at assembly
-    ├── [FirmName]_[Date]_Research_Notes.txt
-    └── sections/                      ← working copies of filled-in section files
-        ├── section_01_cover.html
-        └── ...
+[friendly-name]/                       ← at the repo root
+├── index.html                         ← final assembled output
+├── audit_styles.css                   ← copied from Design Files at assembly
+├── [FirmName]_[Date]_Research_Notes.txt
+└── sections/                          ← working copies of filled-in section files
+    ├── section_01_cover.html
+    └── ...
 ```
 
-Each firm gets its own folder named with a lowercase hyphenated friendly name.
-- Example: `SMB Team Client Audit/mandel-law-firm/index.html`
-- Example: `SMB Team Client Audit/angel-law/index.html`
+Each firm gets its own folder at the repo root, named with a lowercase hyphenated friendly name.
+- Example: `mandel-law-firm/index.html`
+- Example: `angel-law/index.html`
 
 **Design Files are permanent templates. Never modify them.** Claude Code reads from them and writes working copies to the firm's folder.
 
