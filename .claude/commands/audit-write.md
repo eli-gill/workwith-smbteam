@@ -10,7 +10,6 @@ Firm Name: [Full legal name of the firm]
 Friendly Name: [same value used in /audit-research, e.g. angel-law]
 Sales Rep: [rep's full name]
 Date: [same date used in /audit-research — Month DD, YYYY]
-Package Criteria: [optional — include if ready to complete the recommendation section]
 ```
 
 ---
@@ -118,8 +117,6 @@ Apply package eligibility rules below before filling anything. Fill: firm name (
 - Block 6: three phase cards with dynamic milestone triggers and DBM sentences.
 - Block 7: three outcome cards (More Profit, More Freedom, Better Client Results) tied to DBM.
 - Block 8: personal closing paragraph and final line with firm name.
-
-**If Package Criteria was not provided:** insert a clearly marked navy placeholder in place of blocks 2–8 stating this section will be completed by the sales rep prior to delivery.
 
 Save to `[friendly-name]/sections/section_11_next_steps.html`.
 
