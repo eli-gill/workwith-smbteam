@@ -22,7 +22,22 @@ Transcript: [paste full discovery call transcript here — or write "none" if no
 
 Create `[friendly-name]/` at the repo root if it does not exist. The research notes file saves to `[friendly-name]/[FirmName]_[Date]_Research_Notes.txt`.
 
-Save after each major section below — do not wait until the end. If research is interrupted, the completed sections are preserved.
+Save after each major section below — do not wait until the end. If research is interrupted, completed sections are preserved.
+
+---
+
+## TRANSCRIPT-FIRST RULE — READ BEFORE OPENING ANY BROWSER TAB
+
+The discovery call transcript is ground truth. Before searching for any data point, check whether the transcript already provides it. If yes, use it directly — do not open a browser to verify.
+
+**Trust the transcript for:** practice areas, revenue, revenue goal, team size and roles, average case value, close rate, current lead sources, whether ads have ever been run, ad budgets and platforms, hiring plans, technology in use, pain points, and DBM.
+
+**Only verify these live — they change too frequently to trust a transcript:**
+- Google review count and star rating for the firm
+- Competitor review counts and star ratings
+- Whether ads are currently running right now
+- PageSpeed scores
+- Local 3-pack positions
 
 ---
 
@@ -158,7 +173,7 @@ Only use specific named local firms. Never use national brands.
 
 ## STEP 9 — TRANSCRIPT EXTRACTION
 
-Extract from the discovery call transcript:
+Extract from the discovery call transcript. Trust these values exactly as stated — do not search for them:
 
 ```
 - Practice areas confirmed: [list all]
@@ -166,10 +181,14 @@ Extract from the discovery call transcript:
 - Ads ever run: [yes/no — what platform, what budget, what result]
 - Team size: [number and roles]
 - Annual revenue: [stated figure or range]
-- Revenue goal: [stated figure]
+- Revenue goal: [stated figure — if not stated, note "not stated, use 2x current revenue"]
+- Average case value: [stated figure or practice area]
+- Current close rate: [stated figure or "not stated — default to 15%"]
+- Number of locations: [stated figure or "1 if not mentioned"]
+- Spanish campaign needed: [yes/no]
 - Dominant buying motive: [exact quote or closest inference]
 - Any profitability claims made by prospect: [exact quotes only — if none stated, write "none stated"]
-- Any claims about case types or practice areas made by prospect: [exact quotes only]
+- Any claims about case types or practice areas: [exact quotes only]
 ```
 
 **Dominant buying motive:** Do not accept surface answers. "More money" and "more clients" are not DBMs. The real answer is what the money or growth will allow the owner to do personally — coach their kid's team, retire, take a vacation, stop missing weekends. If not clearly stated, infer from context. Most fall into: (1) firm that runs itself so they have more time, (2) grow and sell, (3) scale and dominate.
@@ -207,6 +226,9 @@ Before finishing, check every item. Fix anything unchecked before saving.
 - [ ] No competitor reference uses generic labels — only specific named local firms
 - [ ] PageSpeed scores are real numbers — not estimates
 - [ ] DBM is recorded (exact quote or clear inference)
+- [ ] Revenue goal is recorded (or flagged if not stated)
+- [ ] Close rate is recorded (stated or defaulted to 15%)
+- [ ] Average case value is recorded (stated or practice area default noted)
 
 ---
 
@@ -216,7 +238,8 @@ Before finishing, check every item. Fix anything unchecked before saving.
 git checkout main
 git add "[friendly-name]/[FirmName]_[Date]_Research_Notes.txt"
 git commit -m "Add research notes: [Firm Name] ([Date])"
-git push origin main
+GIT_TERMINAL_PROMPT=0 git push origin main
+git log -1 --format="%H %s"
 ```
 
-Confirm the push succeeded and report the commit hash. Then tell the user: **research complete — run `/audit-write` to generate the report.**
+Report the commit hash. Then tell the user: **research complete — run `/audit-write` to generate the report.**
