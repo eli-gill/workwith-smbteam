@@ -196,7 +196,7 @@ story.append(Paragraph("<b>What it does for her:</b>", S["subsection"]))
 story.append(bd("Fills her calendar from a system — not from whoever happened to refer someone this week."))
 story.append(bd("Reaches Vietnamese- and Spanish-speaking communities that only Rose and her team can authentically serve."))
 
-story.append(Paragraph("<b>Full Service Marketing — Growth Tier  |  $5,397/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Full Service Marketing — Growth Tier  |  $7,397/mo bundled</b>", S["subsection"]))
 story.append(b("$1M+ goal and 7/10 Competitive Urgency Score exceed the Starter tier's scope and ad spend cap."))
 story.append(b("Multilingual Vietnamese and Spanish campaigns require full-service execution, not an ads-only package."))
 story.append(b("Prior PPC failed because of structure and landing pages — rebuilding correctly requires full-service support."))
@@ -211,7 +211,7 @@ story.append(Paragraph("<b>What it does for her:</b>", S["subsection"]))
 story.append(bd("Turns a 4-person team running on Rose's personal effort into a 4-person team running on systems."))
 story.append(bd("Preserves the 95% close rate at higher volume by building an intake framework that works without Rose present."))
 
-story.append(Paragraph("<b>Elite Coach Plus  |  $2,200/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Elite Coach Plus  |  $3,200/mo bundled</b>", S["subsection"]))
 story.append(b("Path to $1M+ is operational as much as it is marketing — the team has capacity but lacks structure."))
 story.append(b("Transcript confirmed task assignments with deadlines as an improvement area — coaching addresses this directly."))
 story.append(b("Weekly coaching cadence keeps the roadmap on track as lead volume increases and the team scales up."))
@@ -245,7 +245,7 @@ story.append(Paragraph("<i>Estimates based on OC immigration/estate planning CPL
 story.append(Paragraph("<b>How the range was calculated:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> Immigration PPC $3,000 + LSA $2,000 = $5,000 (channel minimums, Garden Grove market)."))
 story.append(b("<b>Aggressive:</b> $1M goal × 20% ÷ 12 × 1.3 (Tier 2 OC) × 1.33 (Spanish) = $28,817 available; $8,000 is the recommended starting entry point."))
-story.append(b("Total at aggressive: $8,000 + $7,597 = $15,597/mo = 31.2% of revenue — under the 35% cap."))
+story.append(b("Total at aggressive: $8,000 + $10,597 = $18,597/mo = 37.2% of current revenue. Validated against $1M goal: 22.3% — well under cap."))
 
 story.append(thin_rule())
 
@@ -259,7 +259,7 @@ story.append(Paragraph('"We\'re already at $600K on referrals — why change wha
 story.append(Paragraph("Rose is at 8 of 16 possible cases/month. Getting to $1M+ requires ~64 additional cases per year — referrals cannot reliably deliver that volume or be predicted, controlled, or scaled.", S["objection_a"]))
 
 story.append(Paragraph('"The monthly investment feels high for where we are."', S["objection_q"]))
-story.append(Paragraph("At conservative ad spend, total SMB cost is ~$12,597/mo vs. ~$40,000 projected new revenue — a net-positive position from month one at Rose's 95% close rate.", S["objection_a"]))
+story.append(Paragraph("At conservative ad spend, total SMB cost is ~$15,597/mo vs. ~$40,000 projected new revenue — a net-positive position from month one at Rose's 95% close rate.", S["objection_a"]))
 
 story.append(thin_rule())
 
@@ -268,13 +268,13 @@ story.append(Paragraph("Investment At A Glance", S["section"]))
 
 price_data = [
     [Paragraph("<b>Full Service Marketing — Growth Tier</b>", S["price_main"]),
-     Paragraph("$5,397/mo", S["price_main"])],
+     Paragraph("$7,397/mo", S["price_main"])],
     [Paragraph("Google Ads, LSA, Meta, landing pages, GBP, multilingual campaigns.", S["price_detail"]),
-     Paragraph("<strike>$5,997</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$8,997</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Elite Coach Plus</b>", S["price_main"]),
-     Paragraph("$2,200/mo", S["price_main"])],
+     Paragraph("$3,200/mo", S["price_main"])],
     [Paragraph("Weekly coaching, intake system design, team accountability framework.", S["price_detail"]),
-     Paragraph("<strike>$2,497</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$3,497</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Recommended Ad Spend</b>", S["price_main"]),
      Paragraph("$5,000–$8,000/mo", S["price_main"])],
     [Paragraph("Goes to Google, LSA, and Meta — not to SMB Team.", S["price_detail"]),
@@ -293,7 +293,7 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total: $7,597/mo + $5,000–$8,000 ad spend  |  Save $897/mo by bundling  |  25.2%–31.2% of revenue (under 35% cap)",
+    "Total: $10,597/mo + $5,000–$8,000 ad spend  |  Save $1,897/mo by bundling  |  31.2%–37.2% of current revenue",
     S["savings"]))
 
 # ── Build ──
