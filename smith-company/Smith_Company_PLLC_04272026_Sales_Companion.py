@@ -201,7 +201,7 @@ story.append(bd("Federal criminal and removal cases arrive from Google — not f
 story.append(bd("A consolidated, rebuilt website at smithelaw.com captures leads 24/7, including when Eon is in court."))
 story.append(bd("The review gap to Norte closes systematically — Eon stops losing cases to competitors at the search result stage."))
 
-story.append(Paragraph("<b>Full Service Marketing — Starter  |  $2,847/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Full Service Marketing — Starter  |  $4,847/mo bundled</b>", S["subsection"]))
 story.append(b("Criminal Defense + High competitiveness blocks all Essentials tiers — Starter is minimum eligible."))
 story.append(b("3 competing websites require consolidation and full rebuild — ads-only cannot fix the domain authority split."))
 story.append(b("Immigration LSA is underutilized in Hartford — early-mover advantage available right now."))
@@ -216,7 +216,7 @@ story.append(bd("Kim becomes the intake owner — Eon stops being the first pers
 story.append(bd("The 2026 full-time hire happens on a plan, not a hope — Elite Coach builds the hiring blueprint so Eon makes that decision with a financial model, not a gut feeling."))
 story.append(bd("Revenue tracking by case type goes live from day one — Eon knows which practice area is more profitable within 90 days."))
 
-story.append(Paragraph("<b>Elite Coach  |  $1,400/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Elite Coach  |  $2,600/mo bundled</b>", S["subsection"]))
 story.append(b("Revenue under $500K rules out FCOO and FCFO — Elite Coach is the correct package at this stage."))
 story.append(b("Kim is on the team; the gap is process — coaching builds intake around the person already in place."))
 story.append(b("$350K goal in 2026 has no financial model behind it — coaching builds that model before marketing dollars flow."))
@@ -248,8 +248,8 @@ story.append(Paragraph("<i>All figures are estimates based on industry averages 
 
 story.append(Paragraph("<b>How the range was calculated:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> Immigration PPC $1,000 + LSA $500 + Meta retargeting $500 = $2,000/mo."))
-story.append(b("<b>Aggressive:</b> $600K x 20% ÷ 12 = $10,000. Tier 4 (1.0x). Minus $2,847 fee = $7,153 available. Capped at $3,000 to stay under 35% cap at current revenue."))
-story.append(b("$4,247 + $3,000 = $7,247/mo = 34.8% of revenue — within the 35% cap."))
+story.append(b("<b>Aggressive:</b> $600K x 20% ÷ 12 = $10,000. Tier 4 (1.0x). Minus $4,847 fee = $5,153 available. Capped at $3,000 to match current intake capacity as systems are built."))
+story.append(b("Total at aggressive: $7,447 + $3,000 = $10,447/mo — scales as revenue grows to $600K target."))
 
 story.append(thin_rule())
 
@@ -262,8 +262,8 @@ story.append(Paragraph("Norte has 228 reviews and owns Hartford removal defense 
 story.append(Paragraph('"I\'m already at 60+ hours — I don\'t have bandwidth for more leads."', S["objection_q"]))
 story.append(Paragraph("That is exactly why coaching and marketing start simultaneously. Kim owns intake before leads arrive — the system is built first. Elite Coach runs in parallel so volume and process scale together.", S["objection_a"]))
 
-story.append(Paragraph('"$4,247 a month feels like a lot for a firm our size."', S["objection_q"]))
-story.append(Paragraph("One retained case per month from ads covers the full SMB investment at a $5,100 blended case value. Conservative projections show 1–2 cases/month — the program pays for itself at the low end.", S["objection_a"]))
+story.append(Paragraph('"$7,447 a month feels like a lot for a firm our size."', S["objection_q"]))
+story.append(Paragraph("Two retained cases per month from ads covers the full SMB investment at a $5,100 blended case value. Conservative projections show 1–2 cases/month — and the $600K revenue goal by 2027 makes the investment self-liquidating within months.", S["objection_a"]))
 
 story.append(Paragraph('"What if Kim can\'t handle intake alone?"', S["objection_q"]))
 story.append(Paragraph("Elite Coach builds her script, qualification criteria, and follow-up sequence — she is trained into it, not thrown into it. The system does the heavy lifting.", S["objection_a"]))
@@ -275,13 +275,13 @@ story.append(Paragraph("Investment At A Glance", S["section"]))
 
 price_data = [
     [Paragraph("<b>Full Service Marketing — Starter</b>", S["price_main"]),
-     Paragraph("$2,847/mo", S["price_main"])],
+     Paragraph("$4,847/mo", S["price_main"])],
     [Paragraph("Website rebuild, Google Ads, LSA, Local SEO, review generation — all channels.", S["price_detail"]),
-     Paragraph("<strike>$3,397</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$5,697</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Elite Coach</b>", S["price_main"]),
-     Paragraph("$1,400/mo", S["price_main"])],
+     Paragraph("$2,600/mo", S["price_main"])],
     [Paragraph("Intake system build, hiring blueprint, financial tracking, KPI dashboard.", S["price_detail"]),
-     Paragraph("<strike>$1,600</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$3,097</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Recommended Ad Spend</b>", S["price_main"]),
      Paragraph("$2,000–$3,000/mo", S["price_main"])],
     [Paragraph("Goes to Google, LSA, and Meta — not to SMB Team.", S["price_detail"]),
@@ -300,7 +300,7 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total: $4,247/mo + $2,000–$3,000 ad spend  |  Save $750/mo by bundling  |  30.0%–34.8% of revenue (under 35% cap)",
+    "Total: $7,447/mo + $2,000–$3,000 ad spend  |  Save $1,347/mo by bundling",
     S["savings"]))
 
 # ── Build ──
