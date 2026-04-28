@@ -194,7 +194,7 @@ story.append(Paragraph("<b>What it does for her:</b>", S["subsection"]))
 story.append(bd("Replaces referral dependency with paid channels — leads arrive whether or not Cynthia is networking."))
 story.append(bd("First dedicated Spanish campaign in Compton, South Gate, Huntington Park — no competitor is running this yet."))
 
-story.append(Paragraph("<b>Full Service Growth Marketing — Growth Tier  |  $3,397/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Full Service Growth Marketing — Growth Tier  |  $7,397/mo bundled</b>", S["subsection"]))
 story.append(b("Revenue $1.08M — Growth tier ($1M–$3M) is the correct match; Essentials excluded at $1M+."))
 story.append(b("Spanish campaign required — ICP is Spanish-speaking working-class families; English-only misses them."))
 story.append(b("No website rebuild needed — newly redesigned site; optimization only (header CTA, footer NAP, H1)."))
@@ -207,7 +207,7 @@ story.append(Paragraph("<b>What it does for her:</b>", S["subsection"]))
 story.append(bd("Closes the 36-point intake gap — script and training that brings all three reps to the 58% standard."))
 story.append(bd("Builds the accountability layer that lets Cynthia step back without being the fallback during disruptions."))
 
-story.append(Paragraph("<b>Elite Coach Plus  |  $1,200/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Elite Coach Plus  |  $3,200/mo bundled</b>", S["subsection"]))
 story.append(b("Cynthia is already CEO — she needs systems coaching, not delegation coaching."))
 story.append(b("Lawmatics + CallRail already in place — coaching can use live data from day one."))
 story.append(b("Intake conversion fix is six-figure annual ROI at zero additional marketing spend."))
@@ -258,13 +258,13 @@ story.append(Paragraph("Investment At A Glance", S["section"]))
 
 price_data = [
     [Paragraph("<b>Full Service Growth Marketing</b>", S["price_main"]),
-     Paragraph("$3,397/mo", S["price_main"])],
+     Paragraph("$7,397/mo", S["price_main"])],
     [Paragraph("LSA + Google PPC (English &amp; Spanish) + Meta + website optimization.", S["price_detail"]),
-     Paragraph("<strike>$3,997</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$7,997</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Elite Coach Plus</b>", S["price_main"]),
-     Paragraph("$1,200/mo", S["price_main"])],
+     Paragraph("$3,200/mo", S["price_main"])],
     [Paragraph("Weekly coaching, intake scripting + training, KPI dashboards, ops design.", S["price_detail"]),
-     Paragraph("<strike>$1,497</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$3,497</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Recommended Ad Spend</b>", S["price_main"]),
      Paragraph("$3,000–$5,000/mo", S["price_main"])],
     [Paragraph("Goes to Google, LSA, and Meta — not to SMB Team.", S["price_detail"]),
@@ -283,7 +283,7 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total: $4,597/mo + $3,000–$5,000 ad spend  |  Save $897/mo by bundling  |  8.4%–10.7% of revenue (under 35% cap)",
+    "Total: $10,597/mo + $3,000–$5,000 ad spend  |  Save $897/mo by bundling  |  15.1%–17.3% of revenue (under 35% cap)",
     S["savings"]))
 
 # ── Build ──
