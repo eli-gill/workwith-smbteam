@@ -212,7 +212,7 @@ story.append(thin_rule())
 # ── Why This Marketing Package ──
 story.append(Paragraph("Why This Marketing Package", S["section"]))
 
-story.append(Paragraph("<b>Full Service Growth Marketing  |  $4,397/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Full Service Growth Marketing  |  $7,397/mo bundled</b>", S["subsection"]))
 story.append(b("Revenue ~$1M places the firm in the Growth marketing tier ($1M-$3M range)."))
 story.append(b("B2B regulated industries niche requires national keyword targeting — cannabis, hemp, kratom, supplements, nicotine."))
 story.append(b("Website rebuild needed: dormant blog, no practice-area landing pages, no clickable phone in header."))
@@ -251,7 +251,7 @@ story.append(thin_rule())
 story.append(Paragraph("If She Pushes Back", S["section"]))
 
 story.append(Paragraph('"I need to think about the cost."', S["objection_q"]))
-story.append(Paragraph("$7,694/mo = 9.2% of revenue — well under the 35% benchmark. Conservative ads alone project $40K/mo in new revenue. Every month without a lead system is another month of 100% referral dependency.", S["objection_a"]))
+story.append(Paragraph("$10,694/mo = 12.9% of revenue — well under the 35% benchmark. Conservative ads alone project $40K/mo in new revenue. Every month without a lead system is another month of 100% referral dependency.", S["objection_a"]))
 
 story.append(Paragraph('"I want to start with just the COO, not marketing."', S["objection_q"]))
 story.append(Paragraph("COO builds the engine; marketing brings the fuel. Starting with ops alone means no new clients to run those systems on. Both are needed.", S["objection_a"]))
@@ -269,9 +269,9 @@ story.append(Paragraph("Investment At A Glance", S["section"]))
 
 price_data = [
     [Paragraph("<b>Full Service Growth Marketing</b>", S["price_main"]),
-     Paragraph("$4,397/mo", S["price_main"])],
+     Paragraph("$7,397/mo", S["price_main"])],
     [Paragraph("Website rebuild, Google Ads, GBP optimization, Meta retargeting — fully managed.", S["price_detail"]),
-     Paragraph("<strike>$4,997</strike> stand alone", S["price_detail"])],
+     Paragraph("<strike>$7,997</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Fractional COO Advisor</b>", S["price_main"]),
      Paragraph("$3,297/mo", S["price_main"])],
     [Paragraph("SOPs, role definitions, Clio optimization, intake design, weekly operating rhythm.", S["price_detail"]),
@@ -294,7 +294,7 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total: $7,694/mo + $3,500–$7,000 ad spend  |  Save $1,100/mo by bundling  |  8.4%–17.6% of revenue (well under 35% cap)",
+    "Total: $10,694/mo + $3,500–$7,000 ad spend  |  Save $1,100/mo by bundling  |  12.9%–21.3% of revenue (well under 35% cap)",
     S["savings"]))
 
 # ── Build ──
