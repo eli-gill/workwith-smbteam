@@ -38,9 +38,9 @@ SELECTED NON-MARKETING PACKAGE
 ================================================================
 
 Package: Elite Coach Plus
-Bundled Price: $2,200/month
+Bundled Price: $3,200/month
 Stand-alone (retail) Price: $3,497/month
-Savings vs. stand-alone: $1,297/month
+Savings vs. stand-alone: $297/month
 
 Rationale: Revenue $400K–$1M with growing team (daughter joining, targeting second attorney
 within 3 years). Elite Coach Plus is the correct tier. FCOO Advisor could be added in Phase 2
@@ -51,13 +51,13 @@ TOTAL MONTHLY INVESTMENT
 ================================================================
 
 Starter Marketing: $4,847/month
-Elite Coach Plus: $2,200/month
-TOTAL MONTHLY INVESTMENT: $7,047/month
+Elite Coach Plus: $3,200/month
+TOTAL MONTHLY INVESTMENT: $8,047/month
 
 Total savings (retail vs. bundled):
   Starter: $5,697 - $4,847 = $850/month
-  Elite Coach Plus: $3,497 - $2,200 = $1,297/month
-  TOTAL SAVINGS: $2,147/month by bundling
+  Elite Coach Plus: $3,497 - $3,200 = $297/month
+  TOTAL SAVINGS: $1,147/month by bundling
 
 ================================================================
 AD SPEND CALCULATION

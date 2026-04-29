@@ -161,10 +161,10 @@ story.append(Paragraph("<b>What it does for him:</b>", S["subsection"]))
 story.append(bd("Builds intake system and daughter's onboarding framework before September — she joins with a process, not just a mentor."))
 story.append(bd("Monthly financial reporting gives Dan the visibility to commit to her salary with data, not hope."))
 
-story.append(Paragraph("<b>Elite Coach Plus  |  $2,200/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Elite Coach Plus  |  $3,200/mo bundled</b>", S["subsection"]))
 story.append(b("Revenue $400K–$1M, growing team — Elite Coach Plus is the correct tier."))
 story.append(b("FCOO Advisor available Phase 2 once revenue crosses $900K and daughter is fully integrated."))
-story.append(b("Stand-alone $3,497/mo; bundled saves $1,297/month. Combined bundle savings: $2,147/month."))
+story.append(b("Stand-alone $3,497/mo; bundled saves $297/month. Combined bundle savings: $1,147/month."))
 
 
 # PAGE 2
@@ -190,7 +190,7 @@ story.append(Paragraph("<i>Avg case value $5,000 per Dan Kaiser. Close rate 15% 
 story.append(Paragraph("<b>How calculated:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> Criminal Defense channel minimums: PPC $2,500 + LSA $2,000. Note: slightly above $4,000 Starter cap; discuss Growth tier or 10% overage at May 13."))
 story.append(b("<b>Aggressive:</b> $3M goal x 20% ÷ 12 x 0.85 (Tier 5) = $42,500. Capped at $6,500 for current revenue stage."))
-story.append(b("Total aggressive: $7,047 fees + $6,500 ads = $13,547/mo = ~17% of $800K planning revenue. Under 35% cap."))
+story.append(b("Total aggressive: $8,047 fees + $6,500 ads = $14,547/mo = ~22% of $800K planning revenue. Under 35% cap."))
 
 story.append(thin_rule())
 
@@ -215,7 +215,7 @@ price_data = [
     [Paragraph("Google PPC + LSA + Meta + SEO alignment + GBP optimization.", S["price_detail"]),
      Paragraph("<strike>$5,697</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Elite Coach Plus</b>", S["price_main"]),
-     Paragraph("$2,200/mo", S["price_main"])],
+     Paragraph("$3,200/mo", S["price_main"])],
     [Paragraph("Weekly coaching, intake system, onboarding framework, financial reporting.", S["price_detail"]),
      Paragraph("<strike>$3,497</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Recommended Ad Spend</b>", S["price_main"]),
@@ -236,7 +236,7 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total: $7,047/mo (fees) + $4,500–$6,500/mo ad spend  |  Save $2,147/mo by bundling  |  ~14–17% of revenue (under 35% cap)",
+    "Total: $8,047/mo (fees) + $4,500–$6,500/mo ad spend  |  Save $1,147/mo by bundling  |  ~19–22% of revenue (under 35% cap)",
     S["savings"]))
 
 doc.build(story, onFirstPage=add_page_elements, onLaterPages=add_page_elements)
