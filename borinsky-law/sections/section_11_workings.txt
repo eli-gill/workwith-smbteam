@@ -33,19 +33,19 @@ SELECTED NON-MARKETING PACKAGE
 
 Package: Elite Coach
 Revenue tier: <$400K → Elite Coach
-Bundled price: $1,600/mo
+Bundled price: $2,600/mo
 Stand-alone price: $3,497/mo
-Savings: $3,497 - $1,600 = $1,897/mo
+Savings: $3,497 - $2,600 = $897/mo
 
 ========================================================
 INVESTMENT SUMMARY
 ========================================================
 
-Total monthly management fees: $3,397 + $1,600 = $4,997/mo
-Total savings from bundling: $1,897/mo (coaching only; marketing has no stand-alone)
-Total all-in (with conservative ad spend): $4,997 + $1,500 = $6,497/mo
-Total all-in (with aggressive ad spend): $4,997 + $2,000 = $6,997/mo
-Client's stated comfort: ~$7,000/month all-in ✓
+Total monthly management fees: $3,397 + $2,600 = $5,997/mo
+Total savings from bundling: $897/mo (coaching only; marketing has no stand-alone)
+Total all-in (with conservative ad spend): $5,997 + $1,500 = $7,497/mo
+Total all-in (with aggressive ad spend): $5,997 + $2,000 = $7,997/mo
+Client's stated comfort: ~$7,000/month all-in (management fees alone at $5,997 — confirm budget before close)
 
 ========================================================
 AD SPEND CALCULATIONS
@@ -58,7 +58,7 @@ Conservative Ad Spend:
 
 Aggressive Ad Spend:
   Method: Client's $7K budget minus management fees
-  $7,000 - $4,997 = $2,003 ≈ $2,000/mo
+  $7,000 - $5,997 = $1,003 (below $1,500 PPC minimum — use $1,500 floor; confirm budget)
 
   20% rule check (for reference):
   Revenue goal: $500,000/year

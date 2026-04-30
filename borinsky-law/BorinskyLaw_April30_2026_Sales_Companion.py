@@ -216,7 +216,7 @@ story.append(Paragraph("<b>What it does for him:</b>", S["subsection"]))
 story.append(bd("Builds the intake protocol that converts paid leads into cases without David handling every call personally."))
 story.append(bd("Provides external accountability for the business operations David finds uninteresting — so they get done, not deferred."))
 
-story.append(Paragraph("<b>Elite Coach  |  $1,600/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Elite Coach  |  $2,600/mo bundled</b>", S["subsection"]))
 story.append(b("David described limited interest in business ops — external accountability is essential, not optional."))
 story.append(b("Admin/paralegal has no defined scope — coaching builds the intake framework before ads launch."))
 story.append(b("Revenue goal of $500K (2.8x current) requires systematic execution, not just more ad spend."))
@@ -239,17 +239,17 @@ story.append(bd("Converts David's rare expertise into a measurable lead pipeline
 
 story.append(Paragraph("<b>Recommended Ad Spend Range:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> $1,500/mo — Business Law Google PPC minimum; no LSA (GBP required first), no Meta in initial phase."))
-story.append(b("<b>Aggressive:</b> $2,000/mo — client's stated $7,000 all-in budget minus $4,997 management fees = $2,003 available for ads."))
+story.append(b("<b>Aggressive:</b> $1,500/mo — mgmt fees ($5,997) absorb client's $7K budget; use PPC floor. Confirm budget before close."))
 
 story.append(Paragraph("<b>Estimated Return on Investment:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> ~1 case x $25,000 = $25,000/mo vs. $1,500 spend = ~16.7x return."))
-story.append(b("<b>Aggressive:</b> 1–2 cases x $25,000 = ~$37,500/mo vs. $2,000 spend = ~18.8x return."))
+story.append(b("<b>Aggressive:</b> ~1 case x $25,000 = $25,000/mo vs. $1,500 spend = ~16.7x return."))
 story.append(Paragraph("<i>All figures are estimates based on $25,000 avg case value (stated) and 15% default close rate. Not guaranteed.</i>", S["disclaimer"]))
 
 story.append(Paragraph("<b>How the range was calculated:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> Business Law PPC minimum $1,500. LSA ineligible (no GBP yet). Meta deferred to Phase 2."))
-story.append(b("<b>Aggressive:</b> Client budget-constrained — $7,000 all-in minus $4,997 fees = $2,000. (20% rule yields $3,336 but exceeds budget.)"))
-story.append(b("<b>Cap note:</b> Total spend ($6,497–$6,997) = 43–47% of $15K/mo revenue. Above 35% cap — scoping approval required."))
+story.append(b("<b>Aggressive:</b> $7K all-in minus $5,997 fees = $1,003 — below floor; use $1,500 minimum. Budget discussion required."))
+story.append(b("<b>Cap note:</b> Mgmt fees ($5,997) alone = 40% of $15K/mo revenue. Above 35% cap — scoping approval required."))
 
 story.append(thin_rule())
 
@@ -285,11 +285,11 @@ price_data = [
     [Paragraph("Website build, GBP setup, Google Ads management, local SEO, reporting.", S["price_detail"]),
      Paragraph("N/A stand alone", S["price_detail"])],
     [Paragraph("<b>Elite Coach</b>", S["price_main"]),
-     Paragraph("$1,600/mo", S["price_main"])],
+     Paragraph("$2,600/mo", S["price_main"])],
     [Paragraph("Weekly group coaching, practice area masterminds, quarterly workshops, annual in-person.", S["price_detail"]),
      Paragraph("<strike>$3,497</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Recommended Ad Spend</b>", S["price_main"]),
-     Paragraph("$1,500–$2,000/mo", S["price_main"])],
+     Paragraph("$1,500/mo (floor)", S["price_main"])],
     [Paragraph("Goes to Google and LSA — not to SMB Team.", S["price_detail"]),
      Paragraph("", S["price_detail"])],
 ]
@@ -306,8 +306,8 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total mgmt fees: $4,997/mo + $1,500–$2,000 ad spend  |  Save $1,897/mo by bundling  |  "
-    "43–47% of current revenue — SCOPING APPROVAL REQUIRED before close",
+    "Total mgmt fees: $5,997/mo + $1,500 ad spend  |  Save $897/mo by bundling  |  "
+    "Mgmt fees = 40% of revenue — SCOPING APPROVAL REQUIRED before close",
     S["savings"]))
 
 # ── Build ──
