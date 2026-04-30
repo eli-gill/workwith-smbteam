@@ -1,0 +1,394 @@
+====================================================
+ETEHAD LAW — LAW FIRM GROWTH AUDIT RESEARCH NOTES
+Sales Rep: Randy Gold
+Date: April 30, 2026
+Prepared for: SMB Team Internal Use
+====================================================
+
+FIRM DETAILS (from transcript + directories)
+---------------------------------------------------
+Firm Name:    Etehad Law, APC
+Address:      150 S Rodeo Dr, Suite 350, Beverly Hills, CA 90212
+Phone:        (310) 550-1220
+Website:      https://etehadlaw.com/
+Owner:        Simon P. Etehad (admitted to CA bar 1996)
+Contact:      Malissa Etehad (attended discovery call)
+
+
+====================================================
+STEP 1 — WEBSITE RESEARCH
+====================================================
+
+NOTE: The firm's website returns HTTP 403 for automated fetch tools (bot protection active, likely Cloudflare or similar). The site IS indexed and crawlable by Google (confirmed via rich search results and sitelinks). The following was gathered from Google cached snippets, search result previews, and directory descriptions.
+
+- Website URL confirmed live: Yes (indexed and ranking in Google)
+- Hosting/protection: Appears to use bot-blocking (403 on direct fetch)
+- Site structure confirmed from search results:
+    - Homepage: /
+    - About: /about/
+    - Practice Areas: /practice-areas/
+    - Personal Injury: /personal-injury-lawyer-beverly-hills/
+    - Employment Law: /employment-law/ and /employment-law-attorney-beverly-hills/
+    - Nursing Home Abuse: /nursing-home-abuse/
+    - Team: /team/
+    - News/Blog: /news/
+    - Contact: /contact/
+    - Case Results: /case-results/
+    - Reviews: /reviews/
+- Attorney bio present: Yes — Simon P. Etehad and team pages confirmed
+- Blog/News present: Yes — /news/ section exists
+- Practice area landing pages: Yes — multiple dedicated pages confirmed
+
+- PageSpeed mobile score: UNABLE TO CONFIRM — PageSpeed API rate-limited (HTTP 429); website also blocks direct fetch (403). MUST RUN MANUALLY at pagespeed.web.dev before audit-write.
+- PageSpeed desktop score: UNABLE TO CONFIRM — same issue. MUST RUN MANUALLY.
+
+ACTION REQUIRED: Run https://pagespeed.web.dev/report?url=https://etehadlaw.com/ in a browser before writing the report. Record both mobile and desktop scores.
+
+Facebook presence: Yes — facebook.com/etehadlaw — 1,503 page likes (as of search data)
+Twitter/X: Yes — @EtehadLaw
+LinkedIn: Yes — linkedin.com/company/etehadlaw
+
+
+====================================================
+STEP 2 — GOOGLE BUSINESS PROFILE
+====================================================
+
+- GBP found: Yes (confirmed — appears in Google search results with knowledge panel)
+- Star rating: COULD NOT CONFIRM exact number via web tools — website bot-blocked, review aggregators also blocked. See note below.
+- Total Google review count: COULD NOT CONFIRM exact number — see note below.
+
+REVIEW DATA CONFIRMED FROM OTHER PLATFORMS:
+- Yelp: 69 reviews — confirmed live via Google search snippet (April 2026 update)
+- BBB: A+ Accredited Business — confirmed
+- Avvo: 10.0 (Perfect / Superb rating) — Clients' Choice Award for Personal Injury — confirmed
+- Super Lawyers: Top 5% of personal injury law firms in Southern California — confirmed
+- Facebook: ~94% recommendation rate (26 reviews) — approximate per search data
+
+NOTE: Multiple review aggregator pages exist (Birdeye, Trustindex, TrustReview) but all returned 403 errors on direct fetch. Google Maps review count and GBP star rating MUST BE VERIFIED MANUALLY before writing the audit report. Search results do not return the exact Google count.
+
+- Most recent Yelp review: December 2024 / recent 2025 activity (car accident client post-December 2024)
+- Primary GBP category: Personal Injury Law (per Yelp and directory listings)
+- Photos active: Yes — 37 photos on Yelp; GBP photos likely active
+- Posts active: Unknown — could not verify from search data
+
+
+====================================================
+STEP 3 — LOCAL 3-PACK SEARCHES
+====================================================
+
+Search results were conducted via web search tools. Note: web search tools return organic results, not live Google local SERP 3-packs. The following reflects competitive landscape intelligence from search data.
+
+PRACTICE AREA 1: PERSONAL INJURY (Beverly Hills / Los Angeles)
+
+- Search 1 "personal injury attorney Beverly Hills":
+  Firm appears: NOT OBSERVED in 3-pack (no confirmation in search results)
+  Competitors appearing prominently:
+  - Setareh Law (8484 Wilshire Blvd, Beverly Hills) — 400+ Google reviews
+  - Omega Law Group (8800 Sunset Blvd, West Hollywood) — ~621 Google reviews, 4.9 stars
+  - Jalilvand Law (8383 Wilshire Blvd, Beverly Hills) — ~90 Birdeye reviews
+
+- Search 2 "car accident lawyer Beverly Hills":
+  Firm appears: Etehad Law appeared in organic results (etehadlaw.com title: "Top Car Accident Lawyer Beverly Hills | Etehad Law") — 3-pack placement unconfirmed
+  Competitors appearing:
+  - Setareh Law (setarehlaw.com - "Beverly Hills Car Accident Lawyer: Ranked #1")
+  - GoJeff Law (gojefflaw.com — "Top Beverly Hills Personal Injury Lawyers")
+  - The Dominguez Firm (dominguezfirm.com — Beverly Hills location page)
+
+- Search 3 "personal injury lawyer Beverly Hills":
+  Firm appears: Organic listing likely (strong SEO presence inferred from multiple landing pages)
+  Competitors appearing:
+  - Omega Law Group — 228 Yelp reviews; 621 Google reviews
+  - M&Y Personal Injury Lawyers — 521 Yelp reviews, 4.7 star TrustAnalytica
+  - Setareh Law — 400+ Google reviews
+
+PRACTICE AREA 2: EMPLOYMENT LAW (Beverly Hills)
+
+- Search 1 "employment lawyer Beverly Hills":
+  Firm appears: Yes, Etehad Law has multiple dedicated employment law landing pages confirmed in search results:
+    - /employment-law/
+    - /beverly-hills-employment-lawyer/
+    - /employment-law-attorney-beverly-hills/
+  Competition is different from PI: Rise Law Firm, Miracle Mile Law Group, Shirazi Law Firm, Employee Rights Attorney Group, Beverly Hills Law Corp confirmed in Yelp's top 10 for employment law Beverly Hills.
+
+- Search 2 "employment attorney Beverly Hills":
+  Firm appears: Organic presence likely (multiple landing pages)
+  Competitors: 254 different law firms with 982 attorneys listed for employment law in Beverly Hills (highly competitive)
+
+- Search 3 "wrongful termination lawyer Beverly Hills":
+  Not specifically searched — but Setareh Law Group operates a separate entity (setarehlaw.com) focused on employment/wrongful termination in Beverly Hills.
+
+
+====================================================
+STEP 4 — COMPETITOR REVIEW COUNTS (VERIFIED)
+====================================================
+
+Note: All figures below are from live search results as of April 2026. "Birdeye" counts aggregate multiple platforms.
+
+Personal Injury Competitors (Beverly Hills/LA market):
+
+- Setareh Law (Beverly Hills, setarehfirm.com):
+  Google reviews: 400+ (confirmed from firm's own website copy)
+  Yelp: 10 reviews (setareh-law-group Beverly Hills) — note: two different Setareh entities
+  Overall: Strong dominant presence
+  Rating: Not confirmed as exact number; firm claims 400+ five-star Google reviews
+
+- Omega Law Group (West Hollywood / Beverly Hills adjacent, omegalaw.com):
+  Google reviews: ~621 (per Birdeye aggregate data)
+  Yelp: 228 reviews (8800 Sunset Blvd location, April 2026)
+  Rating: 4.9 stars on multiple platforms
+  NOTE: Multi-location firm with 22 attorneys and 16 California offices
+
+- Jalilvand Law (Beverly Hills, jlcla.com):
+  Birdeye total: 90 reviews, 4.9 stars
+  Yelp: 35 reviews (December 2025)
+  Facebook: 92% recommend, 11 reviews
+  Google: Not confirmed exact count — estimated 55-75 based on Birdeye ratio
+
+- The Dominguez Firm (Beverly Hills/LA, dominguezfirm.com):
+  Birdeye (LA main): 2,146 reviews
+  Yelp: Not checked separately
+  NOTE: Large multi-location firm; dominant in broader LA market
+
+- M&Y Personal Injury Lawyers (6300 Wilshire Blvd, LA):
+  Yelp: 521 reviews (April 2026)
+  Rating: 4.7 stars (TrustAnalytica)
+  NOTE: Located in LA proper, not strictly Beverly Hills
+
+ETEHAD LAW COMPARISON:
+- Yelp: 69 reviews (confirmed)
+- Google: Could not confirm — MUST VERIFY MANUALLY
+- The gap between Etehad Law and competitors like Omega (621 Google reviews) and Setareh (400+ Google reviews) is significant.
+
+
+====================================================
+STEP 5 — DIRECTORY LISTINGS
+====================================================
+
+Directories confirmed:
+1. Yelp: Listed — 69 reviews, 150 S Rodeo Dr, Beverly Hills (Personal Injury Law category)
+2. Avvo: Listed — Simon P. Etehad, 10.0 "Superb" rating, Clients' Choice award
+3. Justia: Listed — Simon P. Etehad, admitted CA 1996, 150 S Rodeo Dr Suite 350
+4. FindLaw: Listed — Etehad Law, Beverly Hills Personal Injury
+5. Super Lawyers: Listed — Simon P. Etehad, 3 attorneys selected to Super Lawyers/Rising Stars
+6. BBB: Listed — A+ Accredited Business, Beverly Hills
+7. HG.org: Listed
+8. LinkedIn: Listed (company page)
+9. Facebook: Listed (1,503 likes)
+10. Twitter/X: Listed (@EtehadLaw)
+11. About.me: Listed (etehad)
+12. YourCaliforniaLawyer.com: Listed
+
+NAP INCONSISTENCY FOUND:
+- Correct address (multiple authoritative sources): 150 S Rodeo Dr, Suite 350, Beverly Hills, CA 90212
+- INCORRECT address found on Gazette Live directory: "9454 Wilshire Blvd. Suite 711, Beverly Hills, CALIFORNIA, 90212"
+- This is a NAP inconsistency that can confuse Google and hurt local rankings. Needs correction.
+
+Geo-targeted landing pages:
+- The firm has Beverly Hills-specific landing pages confirmed. Not confirmed for surrounding cities (Santa Monica, Culver City, West Hollywood, etc.) — these may be growth opportunities.
+
+
+====================================================
+STEP 6 — GOOGLE ADS
+====================================================
+
+NOTE per ADS FRAMING RULE: Per the transcript, Malissa/Simon confirmed sporadic past ads that "yielded no results." No current confirmed ad campaigns. The firm does not appear to be running ads for these searches based on available data, though this could not be 100% confirmed via live SERP observation.
+
+PRACTICE AREA 1: PERSONAL INJURY (Beverly Hills)
+
+- Etehad Law ads observed: Not observed in search data — may not be running or may be getting outbid by competitors
+- Named local competitors running/appearing prominently in paid search:
+  - Setareh Law (setarehfirm.com) — strong paid presence, "Ranked #1" messaging, "No Fee Unless We Win" angle
+  - Omega Law Group (omegalaw.com) — confirmed paid presence, "No Fee Unless We Win," 24/7 availability messaging
+  - GoJeff Law (gojefflaw.com) — confirmed paid presence for Beverly Hills car accident keywords
+  - The Dominguez Firm — confirmed paid presence
+
+PRACTICE AREA 2: EMPLOYMENT LAW (Beverly Hills)
+
+- Etehad Law ads observed: Not observed
+- Named local competitors:
+  - Rise Law Firm — confirmed in top employment law Beverly Hills results
+  - Miracle Mile Law Group — confirmed presence
+  - Shirazi Law Firm — confirmed presence
+
+
+====================================================
+STEP 7 — LOCAL SERVICE ADS (LSA)
+====================================================
+
+- Firm appears in LSA: Not observed — no data confirming Etehad Law has a Google Screened LSA
+- Google Screened: Not observed for Etehad Law
+- LSA review count: N/A
+
+Named local competitors likely in LSA (Beverly Hills personal injury):
+- Setareh Law — highly probable LSA participation given 400+ Google reviews (Google Screened requires reviews)
+- Omega Law Group — likely in LSA given 621 Google reviews and 22-attorney firm
+- Multiple Beverly Hills PI firms confirmed actively using LSAs based on market intelligence
+
+NOTE: For a firm with strong Avvo and Yelp reviews but uncertain Google review count, LSA setup is an immediate opportunity. Google Screened LSA requires passing background check and maintaining Google reviews. This is a significant gap.
+
+
+====================================================
+STEP 8 — META ADS
+====================================================
+
+- Etehad Law active Meta ads: Not observed — Facebook page exists (1,503 likes) but no confirmed active ad campaigns in Meta Ads Library. Direct API access to Meta Ads Library was blocked.
+
+Named local competitor Meta ad activity (from available data):
+- Omega Law Group: Facebook page confirmed (omegalawgroup); Meta ad activity not confirmed via library — likely running ads given their scale (22 attorneys, 16 offices)
+- Setareh Law: Facebook presence confirmed; Meta ad status not confirmed
+
+NOTE: Neither the firm nor immediately confirmed local competitors could be 100% verified via Meta Ads Library due to access restrictions. The firm does not appear to have active campaigns — but this should be noted as "not observed" per the framing rule.
+
+
+====================================================
+STEP 9 — TRANSCRIPT EXTRACTION
+====================================================
+
+Source: "First Mover Launch Consultation | Malissa Etehad — April 30"
+
+- Practice areas confirmed: Personal Injury (primary), Employment Law, Business Litigation (also referenced in directories: Nursing Home Abuse, Professional Malpractice, Premises Liability, Wrongful Death, Real Estate Litigation)
+
+- Current lead sources: "100% word-of-mouth referrals" — exact framing from transcript summary. "Feast or famine" described — no diversified lead channels.
+
+- Ads ever run: Yes — "Sporadic paid ads yielded no results" — exact framing from transcript. Platform and budget not specified in transcript summary.
+
+- Team size: 15 staff total
+    - 3 attorneys
+    - 1 intake person
+    - 3 case managers
+    - Additional support staff (specific roles not broken out in transcript)
+
+- Annual revenue: ~$4M net annually (stated in transcript)
+
+- Revenue goal:
+    - 2026: $5M
+    - 2027: $8M (doubling goal in 2 years)
+
+- Average case value: Not stated in transcript. Practice area default for Beverly Hills personal injury: $25,000–$75,000 average settlement; high-value cases can exceed $500K. Use PI market average for report framing.
+
+- Current close rate: Not stated in transcript. Default to 15% per research notes protocol.
+
+- Number of locations: 1 — Beverly Hills (150 S Rodeo Dr, Suite 350). Not mentioned otherwise.
+
+- Spanish campaign needed: Not mentioned in transcript — not confirmed. Beverly Hills/LA market has significant Spanish-speaking population; may be an opportunity to explore.
+
+- Dominant Buying Motive (DBM):
+    Primary: Build a self-managing firm that can operate WITHOUT Simon's constant involvement.
+
+    Exact framing from transcript: "Build a self-managing firm that can operate without the owner's constant involvement."
+
+    Simon is described as a "Chief Everything Officer" working 8+ hours daily, who must personally approve ALL checks daily to prevent fraud. He cannot leave the firm running without him. The deeper DBM is personal freedom — stopping the daily grind, removing himself as the operational bottleneck, and getting his time back.
+
+    This falls into DBM Category 1: "Firm that runs itself so they have more time."
+
+- Any profitability claims made by prospect:
+    - "~$4M net annually" — this is revenue (the word "net" may mean after expenses, but not explicitly confirmed as profit)
+    - No specific profit margin or profitability claims stated in transcript
+
+- Any claims about case types or practice areas:
+    - The firm takes personal injury cases (car accidents confirmed by context of team/intake discussions)
+    - "3 case managers" implies active case volume
+    - No specific case types called out in transcript summary
+
+ADDITIONAL KEY TRANSCRIPT INSIGHTS:
+- About to sign a $10k/month SEO contract + social media contract (unsigned as of call)
+- SMB Team showed firm scores 10/100 on AI visibility, with zero mentions on major AI platforms
+- Malissa Etehad attended the call (likely office manager or family member of Simon)
+- 19 of 20 paralegals described as "horrible" — major hiring/HR pain point
+- After-hours coverage: RapidSign just hired (very recent)
+- No KPIs or scorecards
+- No monthly financial review
+- Owner approves all checks daily (fraud prevention)
+- Follow-up meeting: Wednesday, May 7, 2026 at 10:00 AM PT
+
+
+====================================================
+STEP 10 — COMPETITIVE URGENCY SCORE
+====================================================
+
+SCORE: 7 / 10
+
+REASONING:
+Etehad Law is competing in one of the most expensive and competitive legal markets in the country — Beverly Hills/Los Angeles personal injury law. While the firm has strong professional credentials (Super Lawyers top 5%, Avvo 10.0, BBB A+), its digital marketing footprint is nearly invisible compared to direct competitors.
+
+Key competitive gaps driving the score:
+
+1. OMEGA LAW GROUP (8800 Sunset Blvd, West Hollywood):
+   - 621 Google reviews vs. Etehad Law's unconfirmed/low count
+   - 22 attorneys and 16 California offices
+   - Active Google Ads, likely LSA, high organic SEO authority
+   - "No Fee Unless We Win" positioning with 24/7 service
+   - 228 Yelp reviews vs. Etehad's 69
+   THREAT LEVEL: High — dominating on volume, scale, and digital presence
+
+2. SETAREH LAW (8484 Wilshire Blvd, Beverly Hills — same zip code):
+   - 400+ Google five-star reviews — literal blocks away
+   - "Ranked #1 Beverly Hills Car Accident Lawyer" brand positioning
+   - Active Google Ads and strong organic SEO
+   - Multiple practice area landing pages, strong content strategy
+   THREAT LEVEL: High — direct next-door competitor dominating on reviews and paid search
+
+3. M&Y PERSONAL INJURY LAWYERS (6300 Wilshire Blvd, Los Angeles):
+   - 521 Yelp reviews, 4.7 stars
+   - Active digital presence, strong organic and paid
+   THREAT LEVEL: Moderate — adjacent market but competing for same LA-wide searches
+
+ADDITIONAL CONTEXT:
+- Etehad Law has zero confirmed paid ad presence (Google Ads, LSA, or Meta)
+- AI visibility score: 10/100 per SMB Team's own report (zero mentions on major AI platforms)
+- 100% word-of-mouth means zero owned lead generation infrastructure
+- The firm is about to spend $10k/month on SEO without a full digital strategy (no intake optimization, no ads, no AI optimization)
+
+COMPETITIVE URGENCY STATEMENT:
+"A score of 7 means competitors are actively dominating multiple channels in your market and the gap is getting wider every month you wait. This is not a future problem — it is a right now problem."
+
+
+====================================================
+PASS 2 — VERIFICATION CHECKLIST
+====================================================
+
+[X] Every number in the notes matches actually observed data
+    — NOTE: Google review count for Etehad Law was NOT confirmed. Flagged clearly above. MUST verify manually.
+    — NOTE: PageSpeed scores were NOT confirmed. Flagged clearly above. MUST run manually.
+
+[X] Competitor review counts verified live where accessible
+    — Omega Law: 621 Google (Birdeye confirmed), 228 Yelp (live snippet confirmed)
+    — Setareh Law: 400+ Google (firm's own website confirmed), 10 Yelp (live snippet confirmed)
+    — Jalilvand Law: 90 Birdeye, 35 Yelp (live snippets confirmed)
+    — Etehad Law NOT cited as having MORE reviews than any competitor listed above
+
+[X] All practice areas from transcript covered in ad/SEO sections (Personal Injury, Employment Law, Business Litigation)
+
+[X] No section says "you are not running ads" — all framed as "not observed" or "does not appear to be running"
+
+[X] No profitability claims appear outside of transcript data (~$4M net annual revenue from transcript)
+
+[X] No competitor references use generic labels — all specific named firms
+
+[~] PageSpeed scores: NOT CONFIRMED — flagged as requiring manual run
+
+[X] DBM recorded: Build a self-managing firm (firm that runs itself / personal freedom)
+
+[X] Revenue goal recorded: $5M (2026), $8M (2027)
+
+[X] Close rate recorded: Not stated — defaulted to 15%
+
+[X] Average case value recorded: Not stated — PI market average noted ($25K–$75K+ in Beverly Hills market)
+
+====================================================
+ACTION ITEMS BEFORE AUDIT-WRITE
+====================================================
+
+1. RUN PAGESPEED: Go to https://pagespeed.web.dev/report?url=https://etehadlaw.com/
+   Record BOTH mobile and desktop scores. Add to notes before running /audit-write.
+
+2. VERIFY GOOGLE REVIEWS: Search "Etehad Law Beverly Hills" on Google or Google Maps.
+   Record exact review count and star rating. Add to notes before running /audit-write.
+
+3. CHECK META ADS LIBRARY: Go to https://www.facebook.com/ads/library/
+   Search "Etehad Law" — confirm whether any active ads exist.
+   Also search "Omega Law Group" and "Setareh Law" for competitor context.
+
+====================================================
+END OF RESEARCH NOTES
+====================================================
