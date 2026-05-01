@@ -17,17 +17,17 @@ Goals: Aggressive ($500K → $1M in 12 months) → move to Growth tier (ad spend
 SELECTED PACKAGES
 -----------------
 Marketing: Full Service Marketing Growth
-  - Bundled price: $6,397/mo
+  - Bundled price: $7,397/mo
   - Stand-alone price: $7,997/mo
-  - Savings: $1,600/mo
+  - Savings: $600/mo
 
 Non-Marketing: Elite Coach Plus
-  - Bundled price: $2,200/mo
+  - Bundled price: $3,200/mo
   - Stand-alone price: $3,497/mo
-  - Savings: $1,297/mo
+  - Savings: $297/mo
 
-Total Monthly Investment (bundled): $8,597/mo
-Total Savings by Bundling: $2,897/mo
+Total Monthly Investment (bundled): $10,597/mo
+Total Savings by Bundling: $897/mo
 
 Rationale for Growth tier over Starter:
   - Eric's goals are aggressive: 2x revenue in 12 months
@@ -39,12 +39,12 @@ Rationale for Growth tier over Starter:
 ESCALATION FLAGS (internal — not in client report)
 ---------------------------------------------------
 - Personal Injury in top 40 metro (Houston = #4 US metro): ESCALATION REQUIRED before going live
-- Ad spend at aggressive level ($15,000) + management fee ($6,397) = $21,397/mo = 51.4% of revenue
+- Ad spend at aggressive level ($15,000) + management fee ($7,397) = $22,397/mo = 53.8% of revenue
   → NOTE: 35% cap is based on GOAL revenue ($1M/yr = $83,333/mo).
-  → At goal revenue: ($15,000 + $6,397) / $83,333 = 25.7% — UNDER cap ✓
-  → At current revenue: ($15,000 + $6,397) / $41,667 = 51.4% — over cap
-  → Flag for discussion: start at conservative ($10,000) which is 39.4% of current revenue
-     ($10,000 + $6,397) / $41,667 = 39.4% — marginally over on current but under on goal
+  → At goal revenue: ($15,000 + $7,397) / $83,333 = 26.9% — UNDER cap ✓
+  → At current revenue: ($15,000 + $7,397) / $41,667 = 53.8% — over cap
+  → Flag for discussion: start at conservative ($10,000) which is 41.8% of current revenue
+     ($10,000 + $7,397) / $41,667 = 41.8% — marginally over on current but under on goal
   → Recommend starting at conservative and scaling to aggressive as revenue grows
 
 AD SPEND CALCULATIONS
@@ -58,7 +58,7 @@ Aggressive = 20% Rule:
   - Revenue goal: $1,000,000 × 20% ÷ 12 = $16,667/mo
   - Houston geographic multiplier: Tier 1 (1.5x) = $16,667 × 1.5 = $25,000
   - Spanish campaign: NOT applied (not confirmed on call)
-  - Minus management fee: $25,000 - $6,397 = $18,603 available ad spend
+  - Minus management fee: $25,000 - $7,397 = $17,603 available ad spend
   - Reverse math validation:
     → Revenue goal ÷ 12 = $83,333/month target
     → ÷ Average case value $6,500 = 12.8 cases/month needed

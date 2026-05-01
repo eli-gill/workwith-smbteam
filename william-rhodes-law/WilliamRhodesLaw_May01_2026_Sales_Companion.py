@@ -212,11 +212,11 @@ story.append(Paragraph("<b>What it does for him:</b>", S["subsection"]))
 story.append(bd("Replaces referral dependency with a predictable PI and commercial litigation lead flow every month."))
 story.append(bd("Fixes the dual-domain split and rebuilds the website so paid traffic has a site that converts."))
 
-story.append(Paragraph("<b>Full Service Marketing Growth  |  $6,397/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Full Service Marketing Growth  |  $7,397/mo bundled</b>", S["subsection"]))
 story.append(b("PI + aggressive goals + $10K PI floor exceed Starter cap ($8K) — Growth tier required."))
 story.append(b("Houston = Tier 1 market; PI CPCs exceed $100/click; Growth cap ($15K) covers full ad spend range."))
 story.append(b("Website rebuild needed: site blocks crawlers, no bio or video, authority split across two domains."))
-story.append(b("Stand-alone $7,997/mo — bundling saves $1,600/mo."))
+story.append(b("Stand-alone $7,997/mo — bundling saves $600/mo."))
 
 story.append(thin_rule())
 
@@ -227,11 +227,11 @@ story.append(Paragraph("<b>What it does for him:</b>", S["subsection"]))
 story.append(bd("Builds the intake script and SOP library so the next paralegal hire actually succeeds."))
 story.append(bd("Coaches Eric from solo operator to firm manager — $500K to $1M is a systems gap, not a talent gap."))
 
-story.append(Paragraph("<b>Elite Coach Plus  |  $2,200/mo bundled</b>", S["subsection"]))
+story.append(Paragraph("<b>Elite Coach Plus  |  $3,200/mo bundled</b>", S["subsection"]))
 story.append(b("$400K–$1M, solo, aggressive goals — maps directly to Elite Coach Plus."))
 story.append(b("Previous hires failed without SOPs; coaching builds the infrastructure before the next hire."))
 story.append(b("Includes weekly coaching, PI/commercial lit masterminds, quarterly workshops, and annual in-person."))
-story.append(b("Stand-alone $3,497/mo — bundling saves $1,297/mo."))
+story.append(b("Stand-alone $3,497/mo — bundling saves $297/mo."))
 
 
 # ══════════════════════════════════════════════════════════
@@ -260,8 +260,8 @@ story.append(Paragraph("<i>Estimates only. 15% close rate, $6,500 Accident &amp;
 
 story.append(Paragraph("<b>How calculated:</b>", S["subsection"]))
 story.append(b("<b>Conservative:</b> Channel minimums sum to $6,700; PI Houston hard floor = $10,000."))
-story.append(b("<b>Aggressive:</b> $1M x 20% / 12 = $16,667. Tier 1 (1.5x) = $25,000. Minus $6,397 fee = $18,603. Capped at $15,000 (Growth tier)."))
-story.append(b("At aggressive: $21,397 / $83,333 goal revenue = 25.7% — under the 35% cap."))
+story.append(b("<b>Aggressive:</b> $1M x 20% / 12 = $16,667. Tier 1 (1.5x) = $25,000. Minus $7,397 fee = $17,603. Capped at $15,000 (Growth tier)."))
+story.append(b("At aggressive: $22,397 / $83,333 goal revenue = 26.9% — under the 35% cap."))
 
 story.append(thin_rule())
 
@@ -284,11 +284,11 @@ story.append(Paragraph("Investment At A Glance", S["section"]))
 
 price_data = [
     [Paragraph("<b>Full Service Marketing Growth</b>", S["price_main"]),
-     Paragraph("$6,397/mo", S["price_main"])],
+     Paragraph("$7,397/mo", S["price_main"])],
     [Paragraph("Website rebuild, SEO, Google Ads, LSA, Meta Ads — full managed service.", S["price_detail"]),
      Paragraph("<strike>$7,997</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Elite Coach Plus</b>", S["price_main"]),
-     Paragraph("$2,200/mo", S["price_main"])],
+     Paragraph("$3,200/mo", S["price_main"])],
     [Paragraph("Weekly coaching, masterminds, workshops, SOPs, hiring roadmap, intake system.", S["price_detail"]),
      Paragraph("<strike>$3,497</strike> stand alone", S["price_detail"])],
     [Paragraph("<b>Recommended Ad Spend</b>", S["price_main"]),
@@ -309,7 +309,7 @@ pt.setStyle(TableStyle([
 ]))
 story.append(pt)
 story.append(Paragraph(
-    "Total: $8,597/mo + $10,000–$15,000 ad spend  |  Save $2,897/mo by bundling  |  25.7%–39.4% of revenue (under 35% cap at goal revenue)",
+    "Total: $10,597/mo + $10,000–$15,000 ad spend  |  Save $897/mo by bundling  |  26.9%–41.8% of revenue (under 35% cap at goal revenue)",
     S["savings"]))
 
 # ── Build ──
