@@ -31,7 +31,7 @@ Create `[friendly-name]/sections/` if it does not exist.
 ## CRITICAL RULES — NEVER BREAK THESE
 
 - **NO CSS.** No `<style>` blocks. No inline styles. No `style=""` attributes. Ever.
-- Only use class names that already exist in `audit_styles.css`. Never invent new ones.
+- Only use class names that already exist in `audit_styles.css`. Never invent new ones. The executive summary section uses classes prefixed with `exec-` (e.g. `exec-summary`, `exec-block`, `exec-pillar-circle`) — these are defined in `audit_styles.css` and are valid.
 - Replace only `<!-- FILL: -->` placeholder content — do not touch anything else in any template.
 - Direct transcript quotes go in quote boxes only — never paraphrase into a quote box.
 - Never say "you are not running ads" — only "does not appear to be running" or "not observed."
@@ -150,6 +150,20 @@ Edit `[friendly-name]/sections/section_11_next_steps.html` to fill in blocks 5�
 - Block 8: personal closing paragraph (2–3 italic sentences) + final line with firm name.
 
 Save (edit) the file. Verify no FILL: placeholders remain.
+
+**STEP J — section_executive_summary.html** *(fill this last)*
+Copy `Design Files/section_executive_summary.html` to `[friendly-name]/sections/section_executive_summary.html`. Fill:
+- `FIRM_NAME`: firm name
+- `URGENCY_SCORE`: copy the number from the urgency-score element in your completed `section_05_growth_health.html`
+- Pillar circles (4 items): copy the class (`red` / `amber` / `green`) from each `sc-card` traffic light in your completed `section_05_growth_health.html`
+- `TOP_PRIORITY_1` through `TOP_PRIORITY_4`: 3–4 of the most critical firm-specific findings from sections 05–09. One sentence each. Lead with the consequence. Delete the fourth `<li>` if only 3 priorities.
+- `PACKAGE_ONE_NAME` / `BUNDLED_PRICE_ONE`: copy from your completed `section_11_next_steps.html` investment grid
+- `PACKAGE_TWO_NAME` / `BUNDLED_PRICE_TWO`: copy from investment grid; delete this row if only one package
+- `AD_SPEND`: copy "Recommended ad spend" value from investment grid
+- `TOTAL_INVESTMENT`: sum of bundled package prices only (not ad spend); copy from investment-total in section 11
+- `EXEC_CLOSING`: one sentence tied to this firm's central opportunity and owner's DBM. No placeholders.
+
+Save to `[friendly-name]/sections/section_executive_summary.html`.
 
 ---
 
@@ -325,7 +339,7 @@ Note these in the research notes file for the sales team. Do not include in the 
 
 ## ASSEMBLY — PYTHON SCRIPT
 
-After all 9 sections are saved, run:
+After all 10 sections are saved, run:
 
 ```bash
 pip install reportlab pypdf --break-system-packages --quiet
@@ -344,6 +358,7 @@ with open("Design Files/audit_master_assembly.html", "r") as f:
 
 sections = [
     ("<!-- INSERT SECTION 01 CONTENT HERE -->", "section_01_cover.html"),
+    ("<!-- INSERT EXECUTIVE SUMMARY CONTENT HERE -->", "section_executive_summary.html"),
     ("<!-- INSERT SECTION 02 CONTENT HERE -->", "section_02_toc.html"),
     ("<!-- INSERT SECTION 03 CONTENT HERE -->", "section_03_firm_overview.html"),
     ("<!-- INSERT SECTION 04 CONTENT HERE -->", "section_04_about_smb.html"),
