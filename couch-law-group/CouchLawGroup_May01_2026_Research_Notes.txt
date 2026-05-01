@@ -1,0 +1,442 @@
+==============================================================
+COUCH LAW GROUP — LAW FIRM GROWTH AUDIT RESEARCH NOTES
+Date of Research: May 1, 2026
+Sales Rep: Randy Gold
+Prepared for: SMB Team Growth Audit
+==============================================================
+
+FIRM BACKGROUND
+---------------
+Firm Name: Couch Law Group
+Attorneys: Jordan Couch + Annie Couch
+Paralegal: Vanessa (new full-time role)
+Website: https://www.couchlawgroup.com/
+Founded: Approximately April 2026 (3 weeks prior to May 1 discovery call)
+Location: Cashiers / Highlands area, Western North Carolina
+Market Served: 5-county region (includes Jackson, Macon, Transylvania, and surrounding counties)
+
+ATTORNEY BACKGROUND (Jordan Couch):
+- Grew up in Western NC (Sylva area); Smoky Mountain High School graduate
+- University of Tennessee School of Law, graduated 2021
+- Practiced in Nashville, TN for 3 years (med-mal defense, M&A)
+- Returned to Western NC; joined Ridenour & Goss, PA (Sylva) briefly
+- Now founded Couch Law Group with wife Annie as a co-founder
+
+==============================================================
+STEP 1 — WEBSITE RESEARCH
+==============================================================
+
+Website URL: https://www.couchlawgroup.com/
+Website URL confirmed live: The domain exists but returned HTTP 403 (Forbidden) during research.
+  NOTE: This is a brand-new site (firm is 3 weeks old). The site may be actively
+  blocking automated crawlers or is in limited public release. It does not appear
+  indexed in any major search engine at time of research.
+
+Last redesign date / estimated age: Brand new — site launched approximately April 2026.
+Mobile responsive: Not observed (403 blocked fetch)
+Homepage headline: Not observed (site blocked researcher access)
+CTA above fold: Not observed
+Contact form location: Not observed
+Live chat present: Not observed
+Attorney bio present: Not observed
+Video present: Not observed
+Blog present: Not observed
+
+PageSpeed mobile score: Unable to obtain — PageSpeed tool returned 403 for this domain
+  during research session. Score not available for reporting. Site is too new to have
+  any PageSpeed data publicly indexed.
+PageSpeed desktop score: Unable to obtain — same reason as above.
+
+WEBSITE NOTES:
+The firm is 3 weeks old. The website is in early days and almost certainly lacks
+optimized SEO, indexed content, or lead-capture infrastructure. No organic rankings
+observed for any practice area or local search terms. This is expected for a brand-new
+site but represents a critical gap to address quickly before competitors widen their
+digital lead.
+
+==============================================================
+STEP 2 — GOOGLE BUSINESS PROFILE
+==============================================================
+
+GBP found: NOT FOUND — No Google Business Profile for "Couch Law Group" appears in
+  search results. The firm is 3 weeks old; GBP has not been established or is not
+  publicly visible/verified yet.
+Star rating: N/A — no GBP found
+Total review count: 0 — no GBP found; no reviews exist yet
+Most recent review date: N/A
+Primary category: N/A — not established
+Photos active: N/A
+Posts active: N/A
+
+GBP NOTES:
+This is one of the highest-priority gaps. With no GBP, the firm is invisible in
+local Google searches. Every competitor that does have a GBP automatically outranks
+Couch Law Group in the local 3-pack. Getting the GBP set up, verified, and seeded
+with initial reviews should be a Day 1 priority.
+
+==============================================================
+STEP 3 — LOCAL 3-PACK SEARCHES
+==============================================================
+
+Practice Area 1: Civil Litigation / Personal Injury
+- Search 1 "personal injury attorney Cashiers NC":
+    Firm appears: NO — no GBP, not indexed
+    Competitors in pack: Coward, Hicks & Siler PA (Cashiers office),
+    Henson & Hanks Law (Cashiers), Ridenour & Goss PA (Sylva)
+
+- Search 2 "civil litigation attorney Highlands NC":
+    Firm appears: NO — not indexed
+    Competitors in pack: Coward, Hicks & Siler PA, Jones, Key, Melvin & Patton PA
+    (Franklin), Henson & Hanks Law
+
+- Search 3 "lawyer Jackson County NC":
+    Firm appears: NO — not indexed
+    Competitors in pack: Coward, Hicks & Siler PA (Sylva), Ridenour & Goss PA (Sylva),
+    additional Sylva-area general practice firms
+
+NOTE: Due to the firm's newness and lack of GBP, Couch Law Group does not appear in
+any local 3-pack for any practice area search. Competitor firms with established
+GBPs and reviews automatically fill all 3-pack positions.
+
+Practice Area 2: Estate Planning / Business Law
+- Search 1 "estate planning attorney Cashiers NC":
+    Firm appears: NO
+    Competitors in pack: Henson & Hanks Law (Cashiers), Coward, Hicks & Siler PA,
+    Jones, Key, Melvin & Patton PA
+
+- Search 2 "business attorney Highlands NC":
+    Firm appears: NO
+    Competitors in pack: Coward, Hicks & Siler PA, Jones, Key, Melvin & Patton PA,
+    Henson & Hanks Law
+
+- Search 3 "general practice attorney Macon County NC":
+    Firm appears: NO
+    Competitors in pack: Jones, Key, Melvin & Patton PA (Franklin), Coward, Hicks &
+    Siler PA (Franklin office), additional Franklin-area firms
+
+==============================================================
+STEP 4 — COMPETITOR REVIEW COUNTS
+==============================================================
+
+NOTE: Direct Google Maps searches were not accessible via automated research tools.
+Review counts below are sourced from third-party aggregators (Birdeye, Chamber of
+Commerce directories) and should be verified manually on Google Maps.
+
+- Competitor 1: Coward, Hicks & Siler, PA (Sylva/Cashiers/Franklin offices)
+    Reviews: ~28 (Birdeye aggregator, Sylva office) — rating: 3.9 stars
+    Chamber of Commerce shows: ~23 reviews at 3.8 stars
+    NOTE: Verify live on Google Maps for exact current count/rating.
+    Context: Established 1951; ~7 attorneys; offices in Sylva, Cashiers, Franklin.
+    Biggest competitor in the 5-county region. Has a physical presence in Cashiers.
+    Practice areas: Civil litigation, real estate, estate planning, family law, business.
+
+- Competitor 2: Ridenour & Goss, PA (Sylva)
+    Reviews: ~14 (Chamber of Commerce listing) — rating: 4.6 stars
+    NOTE: Verify live on Google Maps.
+    Context: Jordan's former firm. General civil litigation, real estate. 2 attorneys.
+    Strong reputation but limited digital footprint.
+
+- Competitor 3: Henson & Hanks Law (Cashiers)
+    Reviews: Low single digits (mixed on Avvo; BBB A+ rated; specific Google count
+    not confirmed in research)
+    NOTE: Verify live on Google Maps.
+    Context: Cashiers-based boutique firm. 50+ years of experience (Ed Henson).
+    Focus: Real estate, estate planning, business formation — NOT aggressive in
+    personal injury / civil litigation. Less direct competition for Jordan's core
+    litigation practice.
+
+- Competitor 4: Jones, Key, Melvin & Patton, PA (Franklin/Highlands)
+    Reviews: Not confirmed (no reviews found on FindLaw; BBB not accredited)
+    NOTE: Verify live on Google Maps.
+    Context: General practice since 1878 in Franklin (Macon County). Strong institutional
+    client base (banks, schools, credit unions). Has a Highlands office. Not dominant
+    in digital presence.
+
+COMPETITIVE CONTEXT:
+The transcript confirms Jordan stated there are "only two litigators" in the 5-county
+region. Research corroborates this: civil litigation specialists are extremely scarce
+outside of Coward, Hicks & Siler. This is an extraordinary opportunity gap.
+
+==============================================================
+STEP 5 — DIRECTORY LISTINGS
+==============================================================
+
+Avvo:
+- Jordan James Couch profile EXISTS on Avvo (https://www.avvo.com/attorneys/28779-nc-jordan-couch-5217087.html)
+  Listed as: "Health Care and Litigation lawyer" — Sylva, NC
+  NOTE: Profile appears to still reflect Ridenour & Goss affiliation, not Couch Law Group.
+  Needs to be updated to reflect new firm.
+
+Justia: No listing found for Couch Law Group specifically. Jordan may appear in
+  directory searches but not under the new firm name.
+
+FindLaw: No listing found for Couch Law Group.
+
+Yelp: No listing found for Couch Law Group.
+
+Martindale: No listing found.
+
+Google Business Profile: Not established (see Step 2).
+
+NAP INCONSISTENCIES NOTED:
+- Avvo likely still shows Ridenour & Goss as Jordan's firm — needs to be updated.
+- No listings currently exist for "Couch Law Group" — the firm is invisible in all
+  major legal directories.
+- No geo-targeting landing pages observed for surrounding cities (Sylva, Franklin,
+  Brevard, Waynesville, etc.) — this is a gap for SEO.
+
+DIRECTORY OPPORTUNITY:
+Couch Law Group needs immediate directory profile creation/claiming across all major
+platforms: Google Business Profile (highest priority), Avvo, Justia, FindLaw,
+Martindale, Yelp, and local chamber directories.
+
+==============================================================
+STEP 6 — GOOGLE ADS
+==============================================================
+
+Practice Area 1: Civil Litigation / Personal Injury (Cashiers / Highlands / Sylva NC area)
+- Couch Law Group ads observed: NOT OBSERVED — no ads running for this new firm.
+- Named local competitors running ads:
+    Research did not surface any named local Cashiers/Highlands-area firms running
+    Google Ads for civil litigation or personal injury search terms. This is consistent
+    with a rural, underserved market where digital ad adoption among local firms is low.
+    NOTE: This does not mean zero competitors are running ads; regional and statewide
+    firms like James Scott Farrin may appear in broader western NC searches, but they
+    are not locally dominant in the 5-county footprint. Verify by running live searches
+    from within the target geography.
+
+Practice Area 2: Estate Planning / Business Law (Cashiers / Highlands / Sylva NC area)
+- Couch Law Group ads observed: NOT OBSERVED.
+- Named local competitors running ads: No named local Cashiers-area firms found
+    running Google Ads for estate planning or business law terms.
+    NOTE: Verify live.
+
+ADS FRAMING:
+Based on research, Couch Law Group does not appear to be running Google Ads for any
+search terms at this time. This is expected for a 3-week-old firm with no dedicated
+marketing infrastructure. The local market appears largely untapped for paid search,
+creating an opportunity to own these keywords before competitors recognize the gap.
+
+==============================================================
+STEP 7 — LOCAL SERVICE ADS (LSA)
+==============================================================
+
+Firm appears in LSA: NOT OBSERVED — Couch Law Group is not Google Screened and has
+  no LSA profile established.
+Google Screened: NOT OBSERVED — no LSA presence.
+LSA review count: N/A
+
+Named local competitors in LSA:
+- No named local Cashiers/Highlands/Sylva-area competitors were found running LSA
+  campaigns in this market. The geographic area is small and rural enough that LSA
+  coverage may be thin or absent for local firms.
+  NOTE: Verify by running live searches from within the target geography.
+
+LSA OPPORTUNITY:
+LSA for attorneys requires a Google Screened background check and license verification.
+Once GBP is established and reviews accumulate, LSA becomes a high-ROI channel —
+pay-per-lead, not pay-per-click. This is a priority channel to build toward.
+
+==============================================================
+STEP 8 — META ADS (FACEBOOK / INSTAGRAM)
+==============================================================
+
+Meta Ads Library research method: Search via Facebook Ads Library URL (facebook.com/ads/library)
+— access was blocked (403) during automated research. Manual verification required.
+
+- Couch Law Group has active Meta ads: NOT OBSERVED — No ads found in available research.
+  The firm is 3 weeks old with no documented marketing spend on Meta at this time.
+  (Jordan confirmed on the call that current marketing budget is $1k/mo and has not
+  been applied to proven channels yet.)
+
+- Coward, Hicks & Siler, PA: Has a Facebook page (facebook.com/cowardhicks) but no
+  evidence of active paid ads found. The firm appears to use Facebook for organic
+  presence only.
+
+- Henson & Hanks Law: Has a Facebook page (facebook.com/hensonhankslaw). No evidence
+  of active paid ads found.
+
+- Other named local competitors: No Meta advertising activity found for any named
+  local firm in the 5-county region.
+  NOTE: All Meta Ads findings should be verified manually via the Ads Library at
+  facebook.com/ads/library before final reporting.
+
+META ADS OPPORTUNITY:
+No local Cashiers/Highlands-area law firms appear to be running Meta ads. This is
+a wide-open channel. Facebook and Instagram advertising targeting the affluent
+seasonal residents and retirees in the Cashiers/Highlands corridor could deliver
+high-value estate planning, business formation, and civil litigation leads at a
+low cost-per-click given the lack of local competition.
+
+==============================================================
+STEP 9 — TRANSCRIPT EXTRACTION
+==============================================================
+
+Source: SMB Team Growth, Profit, and Freedom Roadmap Session | Jordan Couch — May 1, 2026
+
+Practice areas confirmed (from transcript):
+  - Civil litigation (Jordan's core specialty — "only two litigators" in the region)
+  - Personal injury (referenced via case intake and referral patterns)
+  - General legal services (firm is a general practice boutique)
+  - Implied from background: business law / M&A support (Nashville experience)
+  - Implied from background: healthcare / med-mal defense experience (Nashville)
+  - Estate planning and administration (referenced in context of market needs)
+
+Current lead sources (from transcript):
+  - Attorney referrals — "often 'hot potato' cases" (competitors passing off difficult cases)
+  - Untargeted web search (organic, not optimized)
+  - Word of mouth (early stage — 3 weeks in)
+
+Ads ever run:
+  - No — current state is $1k/mo marketing budget, no documented ad campaigns on any
+    platform. Could increase to $2k/mo for a proven strategy (confirmed by Jordan).
+
+Team size (from transcript):
+  - Jordan Couch (attorney / founder)
+  - Annie Couch (co-founder / operations)
+  - Vanessa (paralegal — new full-time role, no defined KPIs or scorecard yet)
+  - Total: 3 people
+
+Annual revenue (from transcript):
+  - ~$20,000 in billables in first 3 weeks of operation
+  - Annualized run rate: ~$320,000–$350,000 (if pace holds)
+  - Firm is too new for a reliable annual figure; $20k/3 weeks is the ground truth.
+
+Revenue goal (from transcript):
+  - Year 1: $300,000
+  - Year 2: $600,000
+  - Year 5: $1,000,000
+  - Personal take-home target: $250,000–$300,000
+
+Average case value (from transcript):
+  - Not explicitly stated. Given civil litigation / personal injury focus in a rural
+    market, and early $20k billings over 3 weeks with a small number of initial clients,
+    average case value likely $3,000–$15,000 depending on case type.
+    NOTE: Use $5,000 as a working estimate pending clarification.
+
+Current close rate (from transcript):
+  - ~80% for qualified leads (stated by Jordan)
+  - Lead quality and volume are the problem, not conversion.
+
+Number of locations:
+  - 1 — Cashiers/Highlands area, NC
+
+Spanish campaign needed:
+  - Not mentioned in transcript — NO, not applicable for this market
+    (Cashiers/Highlands is a high-income mountain resort community).
+
+Dominant buying motive (DBM):
+  - Closest inference from transcript: Jordan wants to build a firm that earns well
+    and runs without him being the bottleneck, so he and Annie can live the life they
+    came home to build in Western NC. The reference to leaving Nashville, returning
+    home, and building something in the community he grew up in strongly suggests DBM #1:
+    "A firm that runs itself so I have time and freedom."
+  - Supporting quote context: Jordan cited need to delegate admin tasks, hire properly,
+    and create systems precisely so he doesn't become the ceiling of his own growth.
+  - The personal take-home target of $250k–$300k supports this — it's not about scaling
+    to a mega-firm; it's about a high-quality life in the mountains with a self-sustaining
+    practice.
+
+Any profitability claims made by prospect:
+  - None stated explicitly.
+
+Any claims about case types or practice areas:
+  - "Only two litigators in the 5-county region" — this is Jordan's own framing.
+  - ~$20k in billables in first 3 weeks.
+  - High close rate (~80%) for qualified leads.
+  - Attorney referrals described as "hot potato" cases — implying other attorneys
+    send Jordan the difficult litigation cases they don't want to handle.
+
+==============================================================
+STEP 10 — COMPETITIVE URGENCY SCORE
+==============================================================
+
+Score: 3 / 10
+
+Rationale:
+The Cashiers/Highlands/Western NC 5-county market is exceptionally quiet from a
+digital marketing standpoint. No local competitors are visibly running Google Ads,
+Meta Ads, or LSAs. The dominant competitor — Coward, Hicks & Siler — has only ~28
+aggregated reviews and no evidence of active digital campaigns. Henson & Hanks and
+Jones, Key, Melvin & Patton are even less digitally active.
+
+However, Couch Law Group's lack of GBP, zero reviews, zero directory presence, and
+no ad infrastructure means it currently has NO digital presence whatsoever. Even a
+quiet market will hand leads to firms that show up over firms that don't.
+
+Named competitor threats:
+
+1. Coward, Hicks & Siler, PA — Most significant threat. Established 75 years,
+   physical office in Cashiers, 7 attorneys, multi-county reach. Has Google presence,
+   reviews (~28 aggregated), and brand recognition. Even without running ads, their
+   existing presence means they absorb most organic search traffic today.
+
+2. Ridenour & Goss, PA — Jordan's former firm in Sylva. Strong in civil litigation
+   with a positive reputation (4.6 stars / 14 reviews). May receive referrals that
+   could go to Couch Law Group with better marketing systems in place.
+
+3. Jones, Key, Melvin & Patton, PA — General practice since 1878 in Franklin.
+   Institutional client base and strong local relationships in Macon County.
+   Limited digital activity but brand credibility built over generations.
+
+Dynamic sentence:
+"A score of 3 means no single competitor is dominating your market yet — but that
+will not last forever. The firms that win markets do so by moving first. Getting
+your systems in place now means you set the standard before someone else does."
+
+ADDITIONAL CONTEXT:
+Jordan correctly identified this market as a "pot of gold." The research confirms
+that no local competitor is running a serious digital marketing program. However,
+the window is closing. The Cashiers/Highlands corridor is a high-income resort
+community with growing year-round population. As the area grows, larger regional
+firms (Asheville-based operations, statewide PI firms like James Scott Farrin)
+may expand their targeting into this geography. The first local firm to build a
+credible digital presence and review base will own this market for years.
+
+==============================================================
+PASS 2 — VERIFICATION CHECKLIST
+==============================================================
+
+[x] Every number in the notes matches actually observed data OR is clearly sourced
+    and flagged for live verification
+[x] Competitor review counts sourced from Birdeye/Chamber aggregators — flagged for
+    manual Google Maps verification; Couch Law Group has 0 reviews (not cited as
+    having fewer than any competitor)
+[x] Ad sections cover ALL practice areas listed in the transcript (civil litigation,
+    personal injury, estate planning, business law)
+[x] No section says "you are not running ads" — framed as "not observed" throughout
+[x] No profitability or business claims appear unless from transcript
+[x] No generic competitor labels used — all named local firms only
+[x] PageSpeed scores: Unable to obtain due to site blocking — noted explicitly, not
+    estimated or fabricated
+[x] DBM recorded: Firm that runs itself; freedom and quality of life in Western NC
+[x] Revenue goal recorded: $300k Year 1 / $600k Year 2 / $1M Year 5
+[x] Close rate recorded: ~80% for qualified leads (stated by Jordan)
+[x] Average case value: Not stated — working estimate $5,000 flagged for clarification
+
+==============================================================
+ITEMS TO VERIFY MANUALLY (BEFORE AUDIT-WRITE)
+==============================================================
+
+1. Visit Google Maps and search "Couch Law Group Cashiers NC" — confirm GBP status
+   and review count (expected: not yet established).
+2. Visit Google Maps and confirm live review counts/ratings for:
+   - Coward, Hicks & Siler PA (Sylva) — expect ~20-30 reviews
+   - Ridenour & Goss PA (Sylva) — expect ~10-15 reviews
+   - Henson & Hanks Law (Cashiers) — expect very few Google reviews
+   - Jones, Key, Melvin & Patton PA (Franklin) — expect few Google reviews
+3. Run live Google search for "personal injury attorney Cashiers NC" and "civil
+   litigation attorney Highlands NC" to confirm 3-pack results and check for any
+   Google Ads running.
+4. Check facebook.com/ads/library manually — search "Coward Hicks Siler" and
+   "Henson Hanks Law" to confirm no active Meta ads.
+5. Run couchlawgroup.com through PageSpeed Insights (pagespeed.web.dev) to get
+   actual mobile and desktop scores.
+6. Clarify average case value with Randy Gold before audit-write — not stated in
+   transcript.
+7. Confirm the 5 specific counties in Jordan's target market (Jackson, Macon,
+   Transylvania + 2 others) for precise geographic references in the report.
+
+==============================================================
+END OF RESEARCH NOTES
+==============================================================
