@@ -1,0 +1,373 @@
+LEGACY WEALTH LEGAL — GROWTH, PROFIT & FREEDOM ROADMAP
+RESEARCH NOTES (PASS 1)
+
+Firm Name: Legacy Wealth Legal
+Friendly Name: legacy-wealth-legal
+URL: https://legacywealthlegal.com/
+Sales Rep: Jacob Meissner
+Date: September 10, 2026
+Contact: Martin Birenbaum (martin@legacywealthlegal.com / 305-317-2566)
+
+=====================================================================
+TOOLING DISCLOSURE — READ FIRST
+=====================================================================
+This research pass was run without a live browser/Google Maps rendering
+tool. WebFetch returns text-converted snapshots (fails on JS-heavy pages
+like Google Maps and PageSpeed Insights' live UI); WebSearch returns
+summarized web results, not literal SERP/Maps screenshots.
+
+Concretely, this means:
+- PageSpeed Insights API was queried 4 times (mobile x3, desktop x1) and
+  returned HTTP 429 (rate-limited) every time. Scores below are marked
+  NOT OBTAINED rather than estimated, per the no-fabrication rule.
+- Google Maps / Google Business Profile could not be rendered directly.
+  No number in this file is tagged [confirmed via Google] as a result —
+  every review count/rating is tagged [UNCONFIRMED — sourced from web
+  search/aggregator/directory results, not independently confirmed via
+  Google] or marked "not observed."
+- Meta Ads Library (facebook.com/ads/library) returned HTTP 403
+  (blocked). Meta ads presence could not be checked for firm or
+  competitors — marked "not observed / tool blocked."
+- Google Ads SERP presence (paid ad units) could not be directly
+  observed either — WebSearch returns organic-style summaries, not
+  literal "Ad" labels. Marked "not observed via available tools."
+
+Everything below that IS reported was independently found via live web
+search/fetch during this session (real firm names, real directory
+profiles, real addresses) — none of it is fabricated. Where a specific
+figure could not be obtained, that is stated plainly instead of guessing.
+
+=====================================================================
+STEP 1 — WEBSITE RESEARCH
+=====================================================================
+- Website URL confirmed live: YES — https://legacywealthlegal.com/
+  resolves (200 OK) and https://legacywealthlegal.com/contact resolves
+  (200 OK) with page title "Contact – Legacy Wealth Legal."
+  https://legacywealthlegal.com/about returns 404 Not Found.
+- Content depth observed: Extremely minimal. Repeated fetch attempts
+  (including a request for full verbatim word-by-word enumeration)
+  returned only the site title "Legacy Wealth Legal" with no body copy,
+  navigation, or footer text retrievable. This is consistent with a
+  brand-new solo firm launch — the domain is live but the site appears
+  to be a bare skeleton (single-page/placeholder or a JS front-end that
+  render-blocks text extraction).
+- Last redesign date or estimated age: Not observed — site gives no
+  visible build date; domain/brand is brand new per the discovery call
+  (Birenbaum is actively launching this firm).
+- Mobile responsive: Not observed (could not render layout).
+- Homepage headline: Not observed — no body text retrievable beyond
+  the "Legacy Wealth Legal" title.
+- CTA above fold: Not observed.
+- Contact form location: A dedicated /contact page exists (confirmed
+  live), but form fields/placement could not be confirmed — not observed.
+- Live chat present: Not observed.
+- Attorney bio present: Not observed on the live site (see STEP 5 —
+  bio-equivalent content exists only on his Avvo directory profile).
+- Video present: Not observed.
+- Blog present: Not observed — no /blog path or post content surfaced
+  in searches or fetch attempts.
+
+PageSpeed:
+- PageSpeed mobile score: NOT OBTAINED — PageSpeed Insights API
+  returned HTTP 429 (rate-limited) on 3 separate attempts. Do not
+  substitute an estimate; re-run pagespeed.web.dev manually before
+  /audit-write if a hard number is required for the report.
+- PageSpeed desktop score: NOT OBTAINED — same 429 rate-limit, 1
+  additional attempt.
+
+TAKEAWAY: The single biggest finding of this entire research pass is
+that the firm's public-facing web presence is effectively a blank
+placeholder. There is no discoverable homepage copy, no CTA, no bio, no
+blog, no confirmed contact form — for a firm trying to reach $500k–$1M
+in revenue, the website is not yet a functioning lead-generation asset.
+
+=====================================================================
+STEP 2 — GOOGLE BUSINESS PROFILE
+=====================================================================
+- GBP found: NO — no Google Business Profile / knowledge panel surfaced
+  for "Legacy Wealth Legal" or "Martin Birenbaum" in any search
+  performed. Consistent with a firm that has not yet claimed/built a
+  GBP listing.
+- Star rating: Not applicable — no GBP found.
+- Total review count: Not applicable — no GBP found.
+- Most recent review date: Not applicable.
+- Primary category: Not applicable.
+- Photos active: Not applicable.
+- Posts active: Not applicable.
+
+TAKEAWAY: Zero Google review presence and no claimed GBP listing means
+the firm is currently invisible in Google's local map pack for every
+estate-planning search in its market — this is a foundational gap, not
+a competitive disadvantage yet (there's no listing to be behind).
+
+=====================================================================
+STEP 3 — LOCAL 3-PACK SEARCHES
+=====================================================================
+Note: literal Google Maps 3-pack screenshots were not obtainable with
+available tools (see Tooling Disclosure). The searches below reflect
+which named local firms surface prominently in web search results for
+each query — used here as the best available proxy for local
+visibility, not a literal pack-position confirmation.
+
+Practice Area 1: Estate Planning (wills, trusts, probate)
+- Search 1 "estate planning attorney Palmetto Bay FL": Legacy Wealth
+  Legal does not appear — firms surfacing: ZTR Legal, Law Office of
+  Michelle C. Fraga P.A., Sugarman & Sugarman P.A., Veliz & Associates
+  (Coral Gables), Miami Probate Attorneys, Lorenzo Law
+- Search 2 "trust attorney Palmetto Bay Cutler Bay": Legacy Wealth
+  Legal does not appear — firms surfacing: firms indexed under
+  FindLaw/Avvo/Justia directories for Cutler Bay/Palmetto Bay trusts,
+  including Bart Chepenik (Chepenik Trushin LLP)
+- Search 3 "estate planning attorney Miami Florida": Legacy Wealth
+  Legal does not appear — firms surfacing: Chepenik Trushin LLP,
+  Rarick Trusts & Wills Law P.A., Perlin Estate Planning & Probate,
+  Matthew Gruber / The Estate Plan (Coral Gables)
+
+Firm appears in zero of the searches run. All visible competitors in
+this market are established practices with years of directory/SEO
+history.
+
+=====================================================================
+STEP 4 — COMPETITOR REVIEW COUNTS
+=====================================================================
+- Competitor 1: ZTR Legal (Palmetto Bay estate planning attorney,
+  direct hyper-local competitor) — rating: 5.0 [UNCONFIRMED — sourced
+  from web search result describing the firm's listed Google rating,
+  not independently confirmed via Google] — review count: not stated
+  in available sources, not obtained.
+- Competitor 2: Law Office of Michelle C. Fraga, P.A. (Palmetto Bay) —
+  reviews: 4 [UNCONFIRMED — sourced from Birdeye aggregator, not
+  independently confirmed via Google] — rating: 5.0 [UNCONFIRMED —
+  sourced from Birdeye aggregator, not independently confirmed via
+  Google]
+- Competitor 3: Rarick Trusts & Wills Law, P.A. (Miami/Hialeah/Miami
+  Lakes — broader-market competitor referenced under related entity
+  names) — reviews: 42 [UNCONFIRMED — sourced from Birdeye aggregator
+  listing for "Rarick & Beskin, P.A.," not independently confirmed via
+  Google]; a related listing "Rarick & Bowden Gold, P.A." shows 13
+  reviews [UNCONFIRMED — sourced from Yelp, not independently confirmed
+  via Google] — the discrepancy suggests multiple legacy business
+  listings for the same firm lineage.
+
+Firm (Legacy Wealth Legal) has no GBP and zero reviews — every
+competitor above has more reviews than the prospect, which is
+factually accurate to report (no risk of overstating a competitor
+relative to the prospect here).
+
+=====================================================================
+STEP 5 — DIRECTORY LISTINGS
+=====================================================================
+- Avvo: CONFIRMED PROFILE FOUND — Martin Steven Birenbaum,
+  9107 SW 161st Ter, Palmetto Bay, FL 33157-3469. Firm name listed as
+  "Legacy Wealth Legal." Licensed 34 years (since 1991). Avvo rating
+  5.0/5.0 based on 1 client review (review references business/startup
+  advisory work, not estate planning — consistent with his prior
+  business-law practice, not the new estate planning brand). Practice
+  area listed on Avvo: Business law (100%) — estate planning is not
+  yet reflected in his Avvo practice-area tags. JD from Thomas M.
+  Cooley Law School.
+- Justia: NOT FOUND — no listing surfaced for Martin Birenbaum.
+- FindLaw: NOT FOUND — no listing surfaced for Martin Birenbaum.
+- Yelp: NOT FOUND — no "Legacy Wealth Legal" listing surfaced.
+- BBB: NOT FOUND — no listing surfaced.
+- Facebook: NOT FOUND — no business page surfaced in search.
+
+NAP inconsistency note: The one confirmed directory profile (Avvo)
+still shows him under a business-law identity rather than the new
+Legacy Wealth Legal estate-planning brand — this is a positioning gap,
+not a NAP conflict (address/phone were not contradicted anywhere else
+because no other profiles exist yet).
+
+Geo-targeting landing pages for surrounding cities (South Miami, Cutler
+Bay, Coral Gables, Pinecrest): NOT FOUND — no evidence of city-specific
+landing pages on the live site (consistent with STEP 1 findings that
+the site has almost no indexable content at all yet).
+
+=====================================================================
+STEP 6 — GOOGLE ADS
+=====================================================================
+Practice Area 1: Estate Planning
+- Firm ads observed: not observed — no evidence of any Google Ads
+  presence for Legacy Wealth Legal in searches performed. Per the ads
+  framing rule, this is reported as: the firm does not appear to be
+  running ads for estate-planning searches in its market, and may
+  simply not have started yet given the firm's early stage.
+- Named local competitors running ads: not confirmed via available
+  tools — WebSearch does not return literal paid "Ad" SERP labels, so
+  no specific local competitor ad copy could be captured this pass.
+  Several competitors (e.g., Matthew Gruber / The Estate Plan) carry
+  sponsored/premium placement on directory sites (Justia, FindLaw),
+  which indicates active paid-visibility spend even where a live
+  Google Ads unit could not be directly observed.
+
+=====================================================================
+STEP 7 — LOCAL SERVICE ADS
+=====================================================================
+- Firm appears in LSA: not observed
+- Google Screened: not observed
+- LSA review count: not applicable
+- Named local competitors in LSA: not confirmed via available tools —
+  LSA units could not be rendered with WebFetch/WebSearch this pass.
+
+=====================================================================
+STEP 8 — META ADS
+=====================================================================
+- Firm has active ads: not observed — Meta Ads Library
+  (facebook.com/ads/library) returned HTTP 403 (blocked) on request,
+  could not be checked directly this pass.
+- Named local competitor 1: ZTR Legal — active ads: not confirmed via
+  available tools.
+- Named local competitor 2: Law Office of Michelle C. Fraga, P.A. —
+  active ads: not confirmed via available tools.
+
+=====================================================================
+STEP 9 — TRANSCRIPT EXTRACTION
+=====================================================================
+IMPORTANT — STATED CALL FOCUS FLAG:
+This discovery call was NOT a standard marketing/lead-generation
+discovery call. Per the transcript, the meeting purpose was explicitly
+"to explore SMB Team's solutions for scaling a law firm with AI," and
+the proposed solution discussed on the call was AI Workforce Pro
+(a $350/mo AI-unification platform for inbox triage and document
+automation) — not a marketing/intake growth engagement. Marketing and
+coaching were mentioned only as a "Long-Term Growth Strategy" / future
+phase, with a follow-up call scheduled specifically "to review a phased
+growth plan combining AI with coaching and marketing." Treat this
+research pass and the eventual audit as feeding into that later
+phased-growth conversation, not as a report for a prospect who called
+in asking for a marketing audit. This should be surfaced explicitly in
+/audit-write, not buried as a footnote.
+
+- Practice areas confirmed: Estate planning (wills, trusts, probate) —
+  described as "his new estate planning firm." Transcript also
+  references "150+ contract cases" generating ~100 daily emails; not
+  fully clear if this refers to open estate-planning matters or a prior
+  contract-law caseload carried over from his 34-year business-law
+  background. Flag for clarification on next call — do not assume
+  contract law is an active second practice area without confirmation.
+- Current lead sources: Not stated in transcript.
+- Ads ever run: Not stated in transcript. Transcript notes Birenbaum
+  "is skeptical of high-cost PPC but open to low-cost seminars" — this
+  is a stated preference, not a confirmation that ads have been run.
+- Team size: Solo — Birenbaum describes himself as "Chief Everything
+  Officer." No staff. Explicitly hesitant to hire ("$1k/mo AI vs.
+  $50k/yr salary").
+- Annual revenue (gross / case value): Not stated as a current figure.
+  Transcript states a goal, not a current baseline (see revenue goal
+  below).
+- Annual revenue (net / take-home / collected): Not stated — "not
+  distinguished from gross."
+- Fee structure: Not stated.
+- Revenue goal: "$500k–$1M gross revenue" — stated explicitly in the
+  transcript as his scaling goal.
+- Average case value: Not stated.
+- Current close rate: Not stated — default to 15% per methodology.
+- Number of locations: Not stated — default to 1 (solo practice, home
+  address on file in Palmetto Bay, FL).
+- Spanish campaign needed: Not stated. (Note: Palmetto Bay/South
+  Miami-Dade is a heavily Hispanic market — worth raising as a future
+  question, but not stated on this call, so not assumed here.)
+- Dominant buying motive: Not stated in a single explicit line, but
+  strongly inferable: Birenbaum wants a firm that "runs itself" so he
+  can escape being "Chief Everything Officer" — he is explicitly
+  trying to avoid hiring staff and instead offload low-value work (email
+  triage, document generation) to AI so he personally spends less time
+  "in" the business. This maps to DBM category (1): firm that runs
+  itself so the owner has more time — not "grow and sell" or "scale and
+  dominate."
+- Any profitability claims made by prospect: None stated.
+- Any claims about case types or practice areas: "Needs to automate
+  repetitive tasks, like generating 20 case dismissals" and receives
+  "~100 daily emails from 150+ contract cases" — exact figures from
+  transcript, cited as-is; see practice-area ambiguity flag above.
+- Stated call focus / product interest: AI Workforce Pro (AI
+  automation platform, $350/mo) — this call was framed around AI/
+  operational automation to avoid hiring staff, NOT standard
+  marketing/intake growth. Marketing and coaching are positioned as a
+  later phase to be reviewed on a follow-up call. See flag at top of
+  this section — this is not a standard marketing-discovery call.
+- Existing marketing/SEO/ad vendor engagements: None stated. Transcript
+  notes he already uses OpenCase (drafting) and NotebookLM (estate plan
+  analysis) as AI tools, but these are drafting/analysis tools, not
+  marketing/SEO/ad vendors.
+- Budget constraints stated: None stated as an explicit affordability
+  limit. Transcript does show cost-consciousness/ROI framing throughout
+  (repeatedly compares "$1k/mo AI vs. $50k/yr salary," "skeptical of
+  high-cost PPC," open to "low-cost seminars" instead) — this is a
+  clear preference for lower-cost, high-ROI options rather than a
+  stated hard budget ceiling.
+
+=====================================================================
+STEP 10 — COMPETITIVE URGENCY SCORE
+=====================================================================
+Score: 3 / 10
+
+Reasoning: This is not a market where competitors are running
+aggressive, comprehensive multi-channel campaigns against the firm —
+no named local competitor was observed running visible Google Ads, LSA,
+or Meta ads this pass. The honest picture is that Legacy Wealth Legal
+is a brand-new entrant with effectively zero public digital footprint
+(no GBP, no reviews, skeleton website, one outdated directory profile)
+entering a market of established, well-reviewed local firms who compete
+mainly on organic/directory presence and reputation built over years —
+not on aggressive paid-channel warfare.
+
+2–3 named specific local competitor threats with reasons:
+1. ZTR Legal — hyper-local Palmetto Bay/South Miami/Cutler Bay estate
+   planning competitor with a claimed 5.0 Google rating and a live,
+   content-rich website already targeting the exact same geography and
+   practice area Birenbaum is entering.
+2. Law Office of Michelle C. Fraga, P.A. — located in the same
+   Palmetto Bay zip code, 35 years licensed, existing reviews (however
+   modest) and directory presence Legacy Wealth Legal does not yet have.
+3. Established Miami-Dade estate planning firms (Chepenik Trushin LLP,
+   Rarick Trusts & Wills Law P.A., Perlin Estate Planning & Probate) —
+   decades of tenure, Super Lawyers/AV Preeminent recognition, and
+   directory dominance for the broader "estate planning attorney Miami"
+   searches Birenbaum will eventually need to compete in as he scales
+   past his immediate zip code.
+
+Matching dynamic sentence (score 1–3):
+"A score of 3 means no single competitor is dominating your market yet
+— but that will not last forever. The firms that win markets do so by
+moving first. Getting your systems in place now means you set the
+standard before someone else does."
+
+=====================================================================
+PASS 2 — VERIFICATION CHECKLIST
+=====================================================================
+[x] Every number in the notes matches actually observed data — where a
+    number could not be observed, it is marked NOT OBTAINED / not
+    observed rather than estimated.
+[x] Competitor review counts checked — prospect has 0 reviews (no GBP),
+    so no competitor cited can be understated relative to the prospect.
+[x] Every review count/rating carries a verification-method tag —
+    all are [UNCONFIRMED — sourced from ...] per the Tooling Disclosure;
+    none are tagged [confirmed via Google] because live Maps rendering
+    was not available this pass.
+[x] Annual revenue: not distinguished from gross in transcript; revenue
+    goal recorded ($500k–$1M gross); fee structure recorded as "not
+    stated."
+[x] Ad sections (Google, LSA, Meta) cover the firm's one confirmed
+    practice area (estate planning); no other practice area stated.
+[x] No section states "you are not running ads" — all phrased as "not
+    observed" / "does not appear to be running."
+[x] No profitability or business claim appears beyond what transcript
+    states.
+[x] No competitor reference uses generic labels — only named local
+    firms (ZTR Legal, Michelle C. Fraga P.A., Rarick Trusts & Wills Law
+    P.A., Perlin Estate Planning & Probate, Chepenik Trushin LLP).
+[x] PageSpeed scores: NOT OBTAINED (rate-limited 4x) — flagged, not
+    estimated. Re-run manually before finalizing report if a hard
+    number is required.
+[x] DBM recorded (inferred: firm that runs itself / more personal time).
+[x] Revenue goal recorded ($500k–$1M gross).
+[x] Close rate recorded (not stated — defaulted to 15%).
+[x] Average case value recorded (not stated — no default given in
+    transcript; flagged as unknown).
+[x] Stated call focus / product interest recorded and called out
+    explicitly at the top of STEP 9 — this call was about AI Workforce
+    Pro / AI automation, not a standard marketing/intake discovery call.
+[x] Existing marketing/SEO/ad vendor engagements recorded (none stated).
+[x] Budget constraints recorded (none stated explicitly; cost-conscious
+    preference noted).
