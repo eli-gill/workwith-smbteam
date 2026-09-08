@@ -1,0 +1,473 @@
+SMB TEAM — GROWTH AUDIT RESEARCH NOTES
+Firm: Insurance Litigation Group, P.A.
+URL: https://ilgpa.com/
+Sales Rep: Jacob Meissner
+Date: September 28, 2026
+Friendly Name: insurance-litigation-group
+
+=====================================================================
+TOOL-ACCESS NOTE (read before using any data below)
+=====================================================================
+This is a real, active law practice — confirmed live via ilgpa.com
+(homepage phone number 786-529-0090 matches the trigger's contact
+phone exactly) and cross-referenced across FindLaw, Yelp, Birdeye, and
+web search. It is NOT a fictional/test firm, so no data below is
+fabricated.
+
+Live browser access to Google Search (SERP/knowledge-panel), Google
+Maps/Business Profile, Google PageSpeed Insights (both the UI and the
+public API — HTTP 429 on 4 separate attempts across two backoff
+windows), and the Meta Ad Library (HTTP 403) all returned blocked,
+rate-limited, or JS-unrendered responses on every attempt this
+session. The firm's own homepage and several inner pages WERE
+successfully fetched and rendered.
+
+Per the REVIEW-DATA VERIFICATION RULE, no review count or star rating
+below is tagged `[confirmed via Google]`, because no Google property
+was successfully reachable this session. All review data is tagged
+`[UNCONFIRMED — sourced from Birdeye/aggregator, not independently
+confirmed via Google]`. Ad-channel data (Steps 6-8) is marked NOT
+OBSERVED per the tool-access limitation, not "not running" — flagged
+for the rep, not hidden. Recommend a manual spot-check of Google
+Search, Maps, and Meta Ad Library before the proposal call.
+
+=====================================================================
+STEP 1 — WEBSITE RESEARCH
+=====================================================================
+- Website URL confirmed live: yes (ilgpa.com resolves and renders)
+- Last redesign date or estimated age: not observed — no copyright
+  year or redesign date visible in fetched content
+- Mobile responsive: page structure suggests responsive design;
+  not independently confirmed on a physical device this session
+- Homepage headline: "Property Claim Attorneys" with tagline "We
+  Fight to Get You PAID!"
+- CTA above fold: yes — two phone numbers displayed as a "Damage
+  Hotline" ((786) 529-0090 and (888) 454-4254) with a "Call Us Today"
+  button
+- Contact form location: above fold, in the main content area — name,
+  email, phone, claim-type dropdown, message field, plus a text
+  message opt-in checkbox
+- Live chat present: no
+- Attorney bio present: not visible on the homepage itself; site
+  references an "Our Team" link but no bios rendered in this pass
+- Video present: no
+- Blog present: yes, via "News & Blogs" menu link — most recent post
+  date not observed (blog index page returned HTTP 404 on direct
+  fetch this session)
+- Additional observation: the firm's practice-areas page
+  (ilgpa.com/practice-areas/) confirms both First Party Property and
+  Immigration as listed practice areas, plus five Florida office
+  locations (Miami, Orlando, Pensacola, Naples, Fort Pierce) —
+  consistent with the transcript's "6 offices, Miami HQ." The page
+  also references client representation tied to Iowa, Kansas, New
+  York, Tennessee, and Wisconsin, which sits alongside the transcript's
+  statement that marketing is Florida-only — worth a clarifying
+  question on the proposal call (multi-state case handling vs.
+  single-state marketing footprint).
+
+PageSpeed (pagespeed.web.dev / PageSpeed Insights API):
+- PageSpeed mobile score: NOT OBSERVED — the public PageSpeed API
+  returned "HTTP 429 Too Many Requests" on 4 separate attempts across
+  two wait/backoff cycles this session, and the pagespeed.web.dev UI
+  is JS-rendered and returned only a "running analysis" state with no
+  score. Per protocol, no number is recorded since it cannot be a
+  real, verified number.
+- PageSpeed desktop score: NOT OBSERVED — same reason as above.
+- Recommend re-running PageSpeed manually before the proposal call;
+  this is a real gap in this research pass, not a data point to guess.
+
+**→ Website section saved — September 8, 2026.**
+
+=====================================================================
+STEP 2 — GOOGLE BUSINESS PROFILE
+=====================================================================
+- GBP found: not independently confirmed live (Google Maps/Search
+  unreachable this session — see Tool-Access Note)
+- Star rating: 4.8 [UNCONFIRMED — sourced from Birdeye, not
+  independently confirmed via Google]
+- Total review count: 69 total across platforms, with 63 attributed
+  specifically to Google by the Birdeye aggregator [UNCONFIRMED —
+  sourced from Birdeye, not independently confirmed via Google]
+- Most recent review date: not observed
+- Primary category: not confirmed via a live GBP listing. Note: the
+  firm's Avvo directory listing (see Step 5) misclassifies it under
+  "Real Estate Lawyer" rather than an insurance/property-claims
+  category — a real, actionable directory-accuracy gap, independent
+  of GBP.
+- Photos active: not observed
+- Posts active: not observed
+
+=====================================================================
+STEP 3 — LOCAL 3-PACK SEARCHES
+=====================================================================
+Google's live map-pack surface could not be rendered this session
+(direct fetches of Google Search result pages returned blocked/error
+content with no local-pack panel — see Tool-Access Note). The section
+below instead reflects organic web-search visibility research (via
+search tooling, not a literal Maps 3-pack screenshot) across 3 queries
+per practice area — a reasonable proxy for competitive visibility, but
+NOT the same as a verified live 3-pack panel. Recommend a manual Maps
+spot-check before the proposal call.
+
+Practice Area 1: First-Party Property
+- Search 1 "best property insurance claim attorney Miami": firm
+  appears — no. Firms surfacing instead: Panter, Panter & Sampedro
+  [168 reviews, UNCONFIRMED], Cernitz Law [109 reviews, UNCONFIRMED],
+  Vargas Gonzalez Delombard [review count not verified this pass]
+- Search 2 "hurricane property damage lawyer Florida top rated firm
+  reviews": firm appears — no. Firms surfacing instead: Cernitz Law
+  [109 reviews, UNCONFIRMED], Kanner & Pintaluga [review counts vary
+  104-197 by office location, UNCONFIRMED], Snedaker Law [review count
+  not verified this pass]
+- Search 3 "denied insurance claim attorney North Miami Beach": firm
+  appears — no. Firms surfacing instead: Louis Law Group, Germain Law
+  Group, FL Advocates [review counts not verified this pass for these
+  three]
+
+Practice Area 2: Immigration
+- Search 1 "immigration lawyer Miami reviews near me top rated": firm
+  appears — no. Firms surfacing instead: Immigration Lawyers USA /
+  Alicia Morgan [335 reviews, UNCONFIRMED], Revilla Law Firm, P.A.
+  [549 reviews, UNCONFIRMED]
+- Search 2 "immigration attorney Miami Florida visa green card
+  lawyer": firm appears — no. Firms surfacing instead: Immigration
+  Lawyers USA, Gallardo Law Firm, Croce & Associates [review counts
+  not verified this pass for the latter two]
+- Search 3 "deportation defense lawyer Miami top firms": firm appears
+  — no. Firms surfacing instead: Revilla Law Firm, P.A. [549 reviews,
+  UNCONFIRMED], Kurzban Kurzban Tetzeli & Pratt, Gallardo Law Firm
+  [review counts not verified this pass for the latter two]
+
+Notable finding: across all 6 organic searches run this session, ILG
+did not surface for either practice area, while named competitors with
+meaningfully larger review footprints did. This is directionally
+consistent with the transcript's own admission that First-Party
+Property leads have declined and Immigration is a newer, less-
+established practice area for the firm.
+
+=====================================================================
+STEP 4 — COMPETITOR REVIEW COUNTS
+=====================================================================
+Google Maps could not be reached live this session, so no figure below
+carries a `[confirmed via Google]` tag. All figures are aggregator-
+sourced and tagged accordingly. In every case ILG's own count (69
+total / 63 Google, per Birdeye) is lower than the competitor cited, so
+no comparison below overstates ILG's position.
+
+First-Party Property competitors:
+- Panter, Panter & Sampedro, P.A. (Miami) — 168 reviews [UNCONFIRMED —
+  sourced from Birdeye] — rating 4.7 [UNCONFIRMED — sourced from
+  Birdeye]
+- Cernitz Law (Miami-headquartered, FL-wide) — 109 reviews
+  [UNCONFIRMED — sourced from Birdeye] — rating 4.9 [UNCONFIRMED —
+  sourced from Birdeye]
+- Kanner & Pintaluga, P.A. (South FL, multi-office) — review counts
+  and ratings vary meaningfully by office location (104 reviews/3.7
+  rating at one Hollywood, FL listing; 197 reviews/4.1 rating at a
+  Delray Beach, FL listing) [UNCONFIRMED — sourced from Birdeye] — the
+  spread itself suggests inconsistent review-profile management across
+  locations, a pattern ILG should avoid as it scales to more offices
+
+Immigration competitors:
+- Revilla Law Firm, P.A. (Miami) — 549 reviews [UNCONFIRMED — sourced
+  from Birdeye] — rating 4.2 [UNCONFIRMED — sourced from Birdeye]
+- Immigration Lawyers USA / Alicia N. Morgan (Miami) — 335 reviews
+  [UNCONFIRMED — sourced from Birdeye] — rating 4.9 [UNCONFIRMED —
+  sourced from Birdeye]
+- Law Office of Tatiane M. Silva, P.A. (Miami) — 200+ reviews
+  [UNCONFIRMED — sourced from a third-party summary citing "Google
+  reviews," not independently confirmed via a direct Google listing
+  this session] — rating 4.9 [UNCONFIRMED, same source]
+
+=====================================================================
+STEP 5 — DIRECTORY LISTINGS
+=====================================================================
+- FindLaw: live profile found and fetched (firm listed as "Insurance
+  Litigation Group, P.A.," 1500 NE 162nd St, North Miami Beach, FL
+  33162-2408, phone (786) 529-0090 — matches trigger contact phone).
+  NAP FLAG: this FindLaw profile lists the firm's website as
+  **restorationlaw.com**, not ilgpa.com. Both domains independently
+  resolve to content for the same firm name/address/phone (confirmed
+  via separate web search results for restorationlaw.com pages such as
+  "Hurricane Damage Claims | Insurance Litigation Group, P.A." and
+  "North Miami Beach Insurance Law Firm | Insurance Litigation Group,
+  P.A."). This is a real, actionable finding: the firm appears to be
+  running two separate live domains under the same brand, which
+  fragments SEO authority, backlink equity, and directory consistency
+  rather than consolidating it under one domain.
+- Avvo: listing found via search directory pages, but appears
+  unclaimed/thin — categorized under "Real Estate Lawyer" for North
+  Miami Beach rather than an insurance-claims or property-damage
+  category, which is a miscategorization gap independent of GBP.
+- Justia: firm not confirmed by name in a direct fetch this session;
+  general Florida insurance-claims/insurance-defense directory
+  category pages were reachable, but a firm-specific Justia profile
+  was not independently verified.
+- Yelp: listing found and confirmed via search (address 1500 NE 162nd
+  St, North Miami Beach — matches FindLaw/trigger); direct page fetch
+  returned HTTP 403 this session, so star rating/review count on Yelp
+  specifically were not independently observed.
+- Additional directories checked: BBB (listing found via search,
+  profile not deep-fetched this session), LawCrossing / BCGSearch firm
+  profile pages (found via search, confirm firm name and North Miami
+  Beach location, not deep-fetched for NAP detail).
+
+NAP consistency: name, address, and phone are consistent across
+FindLaw, Yelp (per search snippet), and the firm's own site — the one
+material inconsistency found is the **two-domain split** (ilgpa.com
+vs. restorationlaw.com) noted above under FindLaw.
+
+Geo-targeted landing pages for surrounding cities/practice hubs: the
+practice-areas page confirms location-specific presence for Miami,
+Orlando, Pensacola, Naples, and Fort Pierce; whether dedicated
+city-level SEO landing pages exist beyond these named office pages was
+not independently verified this session.
+
+**→ GBP, local SEO, and directory sections saved — September 8, 2026.**
+
+=====================================================================
+STEP 6 — GOOGLE ADS
+=====================================================================
+NOT OBSERVED for either practice area this session. Google Search
+results pages (which would show any paid ad units or Local Service Ads)
+could not be rendered by available tooling — requests returned
+blocked/error pages with no ad-slot content, across multiple
+practice-area + city query patterns. This sits in tension with the
+transcript, which states the firm IS currently running Google & Meta
+ads in-house and working with Google's Accelerated Growth Team — so
+live ad activity almost certainly exists, it simply could not be
+directly observed with the tools available this session.
+
+Practice Area 1: First-Party Property
+- Firm ads observed: not observed (tool access blocked); transcript
+  confirms ads are actively running (in-house managed, budget
+  previously constrained at $5k/month, now increased)
+- Named local competitors running ads: not observed — could not verify
+  live ad presence for Panter Panter & Sampedro, Cernitz Law, or
+  Kanner & Pintaluga this session
+
+Practice Area 2: Immigration
+- Firm ads observed: not observed (tool access blocked); transcript
+  confirms Google & Meta ads are actively running for this practice
+  area too (187 leads last month, ~$82 CPL)
+- Named local competitors running ads: not observed — could not verify
+  live ad presence for Revilla Law Firm, Immigration Lawyers USA, or
+  Law Office of Tatiane M. Silva this session
+
+Per the ADS FRAMING RULE: no claim is made that competitors are "not
+running ads" — this is an open, unconfirmed data point, not a
+confirmed absence. Recommend a manual live search before the proposal
+call given how central paid ad strategy is to this specific deal.
+
+=====================================================================
+STEP 7 — LOCAL SERVICE ADS
+=====================================================================
+- Firm appears in LSA: not observed (tool access blocked this
+  session — see Tool-Access Note)
+- Google Screened: not observed
+- LSA review count: n/a — not observed
+- Named local competitors in LSA: not observed — Google's LSA unit
+  sits at the very top of the search results page, which could not be
+  rendered this session. Given the transcript flags dropped calls
+  "hurting LSA performance" as an existing, active concern, this is a
+  high-value area to manually verify before the proposal call rather
+  than leave unconfirmed.
+
+=====================================================================
+STEP 8 — META ADS
+=====================================================================
+- Firm has active ads: not observed — Meta Ad Library
+  (facebook.com/ads/library) returned HTTP 403 on direct fetch this
+  session. Transcript independently confirms Meta/Facebook ads ARE
+  currently running as part of the firm's in-house strategy.
+- Named local competitor 1: Panter, Panter & Sampedro — active ads:
+  not observed (tool access blocked)
+- Named local competitor 2: Revilla Law Firm, P.A. — active ads: not
+  observed (tool access blocked)
+
+Per the ADS FRAMING RULE, no claim of "not running ads" is made for
+the firm or any competitor — Meta ad activity is unconfirmed this
+session via direct tooling (though confirmed via the transcript for
+the firm itself) and should be spot-checked manually before the
+proposal call.
+
+**→ All ads sections saved (transcript-confirmed activity noted
+alongside NOT OBSERVED tool-access flags) — September 8, 2026.**
+
+=====================================================================
+STEP 9 — TRANSCRIPT EXTRACTION
+=====================================================================
+- Practice areas confirmed: First-Party Property ("bread and butter,"
+  leads currently declined) and Immigration (newer practice area,
+  currently performing well)
+- Current lead sources: Google & Facebook ads, managed in-house by
+  Fred G.; also actively working with Google's Accelerated Growth Team
+  to optimize campaigns
+- Ads ever run: yes — currently running Google & Meta ads for both
+  practice areas. First-Party Property budget was "previously
+  constrained at $5k/month," now increased (new amount not stated
+  precisely in transcript beyond the proposal-stage $20k/mo figure
+  being scoped)
+- Team size: ~45 employees, 6 offices (Miami HQ). Marketing currently
+  handled in-house by Fred G., who is "open to outsourcing for better
+  results." No other specific roles/headcount breakdown given.
+- Annual revenue (gross / case value): not stated as a firm-wide
+  aggregate figure. Only channel-level performance metrics given for
+  Immigration: 187 leads last month, ~$82 average CPL, 5% retainer
+  conversion rate, ~$1,640 calculated CPA.
+- Annual revenue (net / take-home / collected): not stated — "not
+  distinguished from gross" (no gross figure was even given to
+  distinguish from).
+- Fee structure: not stated explicitly in the transcript. (Website
+  independently states a contingency model — "No Fee Until We Win" —
+  but this was not confirmed on the call itself.)
+- Revenue goal: not stated in dollar terms. Stated instead as
+  client-volume goals from marketing channels: 50 signed clients/month
+  for Immigration, 20 signed clients/month for First-Party Property.
+- Average case value: not stated.
+- Current close rate: Immigration retainer conversion rate stated
+  explicitly at 5%. First-Party Property close rate not stated —
+  default to 15% per protocol for that practice area specifically.
+- Number of locations: 6 offices, Miami HQ (stated).
+- Spanish campaign needed: not stated.
+- Dominant buying motive: not framed in personal-life terms on this
+  call (no reference to time freedom, exit/sale, or a specific
+  personal milestone). The stated motive is entirely business-growth
+  framed — hit specific signed-client volume targets in both practice
+  areas, professionalize/outsource a marketing function currently run
+  in-house, and fix an intake bottleneck that is actively costing
+  conversions. Closest inference: DBM category (3), scale and
+  dominate — the call is about aggressively growing volume and budget
+  (~$100k/month projected spend to hit stated goals) across an
+  already-multi-office firm, not about winding down personal
+  involvement. Flagged as inferred, not a direct quote.
+- Any profitability claims made by prospect: none stated.
+- Any claims about case types or practice areas: First-Party Property
+  described as the firm's "bread and butter" with leads down due to
+  "previous agency, law changes, and a quiet storm season"; Immigration
+  described as newer but performing well. Intake process explicitly
+  identified as a bottleneck — "dropped calls are hurting LSA
+  performance."
+- Stated call focus / product interest: standard marketing/growth
+  discovery — this call was squarely about scoping a paid-media
+  budget increase (to ~$40k/month combined ad spend) plus intake-
+  process improvement to hit stated client-volume goals. It was NOT
+  framed around Fractional CTO/AI automation, coaching/ops, or any
+  other non-marketing product line — no need to reframe the report
+  narrative away from a standard growth/lead-generation audit.
+- Existing marketing/SEO/ad vendor engagements: marketing is currently
+  managed in-house by Fred G.; the firm is also actively engaged with
+  Google's own Accelerated Growth Team for campaign optimization. A
+  previous (unnamed) agency engagement is referenced as a contributing
+  factor in the First-Party Property lead decline, but that engagement
+  is described as past, not current.
+- Budget constraints stated: yes — First-Party Property spend was
+  "previously constrained at $5k/month." The transcript's own math
+  shows achieving the stated growth goals would require ~$100k/month
+  in spend at the firm's current ~$1,640 CPA, but the proposal being
+  scoped is for $40k/month ($20k per practice area) — meaningfully
+  below the calculated need. This gap between required spend and
+  proposed spend is an explicit, real constraint worth surfacing in
+  the report, not a "none stated" situation.
+
+=====================================================================
+STEP 10 — COMPETITIVE URGENCY SCORE
+=====================================================================
+Score: 7/10
+
+Reasoning: Ad-channel dominance could not be independently confirmed
+this session (Steps 6-8 are tool-access-limited, not zero-signal), so
+this score leans on what WAS verified: named competitors in both of
+ILG's practice areas carry meaningfully larger review footprints (109
+to 549 reviews vs. ILG's own 69), ILG did not organically surface in
+any of 6 live search queries run across both practice areas, and ILG's
+own Avvo directory listing is miscategorized under "Real Estate
+Lawyer" rather than its actual practice. Layered on top of that,
+the transcript independently confirms real, current erosion — not
+just a latent risk — in the form of declining First-Party Property
+leads (previous agency, law changes, quiet storm season) and an
+active intake bottleneck (dropped calls hurting LSA performance).
+Three separate channels (reviews, organic visibility, directory
+accuracy) show a real gap, which is why this sits in the 7-9 band
+rather than 4-6 — but without confirmed paid-ad-channel data this
+session, it is not pushed to 8-9.
+
+Named specific local competitor threats:
+1. Cernitz Law (Miami-headquartered, FL-wide First-Party Property
+   competitor) — 4.9 rating with 109 reviews, and surfaced organically
+   in 2 of 3 property-related searches this session where ILG did not
+   appear at all.
+2. Revilla Law Firm, P.A. (Miami Immigration competitor) — 549
+   reviews, nearly 8x ILG's total review count, and surfaced
+   organically in 2 of 3 immigration-related searches this session.
+3. Panter, Panter & Sampedro, P.A. (Miami First-Party Property
+   competitor) — 168 reviews and strong organic visibility for
+   generic "best property insurance claim attorney Miami" searches,
+   a keyword pattern directly relevant to ILG's core practice area.
+
+Dynamic sentence (Score 7-10 band): "A score of 7 means competitors
+are actively dominating multiple channels in your market and the gap
+is getting wider every month you wait. This is not a future problem —
+it is a right now problem."
+
+**→ Final research notes file saved — September 8, 2026.**
+
+=====================================================================
+PASS 2 — VERIFICATION CHECKLIST
+=====================================================================
+[x] Every number in these notes matches actually observed data, OR is
+    explicitly marked NOT OBSERVED where live tools could not be
+    reached this session (see Tool-Access Note at top).
+[x] Every competitor review count cited as "dominating" (109-549)
+    exceeds ILG's own confirmed count (69) — no comparison overstates
+    ILG's position.
+[x] Every review count and star rating (firm and competitors) carries
+    a verification-method tag — all `[UNCONFIRMED — sourced from
+    Birdeye/aggregator, not independently confirmed via Google]`,
+    since no Google property was reachable this session.
+[x] Revenue is addressed per transcript: no gross/net split was
+    possible because no firm-wide revenue figure was stated at all;
+    this is called out explicitly rather than invented. Fee structure
+    recorded as "not stated" (with the website's contingency framing
+    noted separately and not conflated with the call).
+[x] Ads sections address both practice areas (First-Party Property and
+    Immigration) — both marked NOT OBSERVED via tooling, with the
+    transcript's independent confirmation that ads ARE running called
+    out explicitly so the gap isn't mistaken for "no ads."
+[x] No section states the firm or any competitor "is not running
+    ads" — only "not observed" / "does not appear to."
+[x] No profitability or business claim appears beyond what the
+    transcript stated (none were made).
+[x] No competitor reference uses generic labels — only specific named
+    local firms (Panter Panter & Sampedro, Cernitz Law, Kanner &
+    Pintaluga, Revilla Law Firm, Immigration Lawyers USA, Law Office of
+    Tatiane M. Silva, Louis Law Group, Germain Law Group, etc.).
+[x] PageSpeed scores: no estimated numbers recorded — both mobile and
+    desktop are marked NOT OBSERVED because the tool returned HTTP 429
+    on repeated attempts and could not return a real number.
+[x] DBM recorded: not personally framed on the call; inferred as
+    category (3) scale and dominate, explicitly flagged as inferred.
+[x] Revenue goal recorded: no dollar figure stated — recorded as
+    client-volume goals (50 Immigration / 20 First-Party Property
+    signed clients per month).
+[x] Close rate recorded: Immigration 5% (stated); First-Party Property
+    not stated, defaulted to 15% per protocol.
+[x] Average case value: not stated — recorded as such, no invented
+    figure.
+[x] Stated call focus / product interest recorded: standard
+    marketing/growth discovery (paid media scale-up + intake fix) —
+    explicitly confirmed as NOT a Fractional CTO/AI/coaching call.
+[x] Existing vendor engagements recorded: in-house (Fred G.) plus
+    active Google Accelerated Growth Team engagement; past unnamed
+    agency referenced as a factor in lead decline.
+[x] Budget constraints recorded: yes — prior $5k/month FPP cap, and a
+    real gap between the ~$100k/month spend implied by stated goals
+    and the ~$40k/month proposal being scoped.
+
+ADDITIONAL FLAG FOR /audit-write: Given the tool-access gaps this
+session (no live Google Search/Maps/PageSpeed/Meta Ad Library data
+obtained despite repeated attempts), recommend a manual verification
+pass on Steps 2-3 and 6-8 before finalizing the client-facing report —
+particularly PageSpeed scores and live ad-channel activity, since paid
+media scale-up is the central product being proposed to this
+prospect.
