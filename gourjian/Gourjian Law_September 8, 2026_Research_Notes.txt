@@ -1,0 +1,189 @@
+GOURJIAN LAW — GROWTH AUDIT RESEARCH NOTES
+Firm: Gourjian Law
+URL: http://gourjianlaw.com (redirects to https://gourjianlaw.com)
+Sales Rep: Nick Holderman
+Date: September 8, 2026
+Friendly Name: gourjian
+
+============================================================
+CALL FOCUS FLAG — READ FIRST
+============================================================
+This discovery call was NOT a standard marketing/intake growth discovery call in
+the usual SMB Team sense (i.e., not a firm bleeding leads that needs more
+volume). Per the transcript: this is a 21-year-old, highly profitable ($3M+
+revenue, 60% margin), zero-marketing, referral-built outside general counsel
+(GC) firm serving sophisticated, long-term business clients (10+ year
+relationships). The stated growth bottleneck is NOT lead flow — it is capacity
+to service new clients, which depends on hiring more attorneys. The rep framed
+the proposed solution as a "branded play" (high-quality content/education to
+build authority) rather than traditional PPC/local-SEO/paid lead generation,
+because the rep and prospect agree traditional consumer-facing ads do not work
+on this sophisticated B2B audience. Any audit narrative for this firm should
+foreground authority/content/branding strategy over local-pack/PPC volume
+tactics, while still reporting the standard research sections below for
+completeness and competitive context.
+
+============================================================
+STEP 1 — WEBSITE RESEARCH
+============================================================
+- Website URL confirmed live: yes (http://gourjianlaw.com returns 301 → https://gourjianlaw.com returns 200)
+- Last redesign date or estimated age: Not explicitly dated on-site. Footer copyright reads "© 2026," and the site design (modern layout, accessibility widget, mobile nav) reads as a recent build/redesign — likely within the last 1–2 years. No explicit "founded" or "redesigned" date found on the About page.
+- Mobile responsive: yes (observed responsive navigation with mobile menu functionality on page render)
+- Homepage headline: "Complex legal problems require intelligent solutions." (followed by supporting copy on rigorous analysis and effective strategy)
+- CTA above fold: yes — "Get in Touch" button, appears multiple times above the fold, links to a mailto for varand@gourjianlaw.com
+- Contact form location: not found — no embedded on-page contact form observed; CTA routes to direct email (mailto) and firm phone/address are listed instead
+- Live chat present: no
+- Attorney bio present: no (see note) — "Our Team" (/our-team/) lists 8 attorney names as linked directory entries (Varand Gourjian, Brianna Douzoglou, Armen Papazian, Tara Karamians, Grant Habata, Tiffany Hyatt Krog, Alec Galustian, Ivette Molina) but the team index page itself shows no photos and no bio copy — full bios presumably live on individual sub-pages not crawled in this pass
+- Video present: no
+- Blog present: yes — "News Feed" (/news-feed/) — most recent post dated November 26, 2025. NOTE: this feed appears to be syndicated/aggregated third-party legal news (e.g., "Dutch Court Rejects U.S. Trans Woman's Asylum Bid," "Appeals court upholds $1 million penalty against Trump...") rather than firm-authored content or case results — this is not an authority/thought-leadership blog in its current form, which is directly relevant given the rep's proposed "branded play" / content-authority strategy.
+
+PageSpeed scores: UNABLE TO OBTAIN. The PageSpeed Insights API (pagespeedonline.googleapis.com) returned HTTP 429 "Quota exceeded for quota metric 'Queries' and limit 'Queries per day'" on three separate attempts (mobile strategy, desktop strategy, retry after delay), and the pagespeed.web.dev interactive tool could not be scraped for rendered results in this environment (JS-rendered results, no scores present in fetched HTML). Per protocol, no number is fabricated or estimated here. **Action needed before /audit-write: run pagespeed.web.dev manually for gourjianlaw.com and record actual mobile/desktop scores**, or flag this gap explicitly in the client-facing report rather than presenting an invented score.
+
+============================================================
+STEP 2 — GOOGLE BUSINESS PROFILE
+============================================================
+- GBP found: not independently confirmed — direct Google Maps/GBP listing could not be loaded live in this environment (Google Maps and Google Search results pages render via JavaScript and returned no scrapeable listing data through available tools; Yelp's own listing page returned HTTP 403 to direct fetch). Best-available data below is sourced from search-engine snippets of aggregator listings, not a direct Google listing read.
+- Star rating: not confirmed [UNCONFIRMED — sourced from aggregator search snippets, not independently confirmed via Google]
+- Total review count: approx. 40 reviews on Yelp per search snippet ("GOURJIAN LAW - Updated May 2026 - 20 Photos & 40 Reviews") [UNCONFIRMED — sourced from Yelp, not independently confirmed via Google]
+- Most recent review date: not available from snippet data
+- Primary category: Yelp lists the firm under "Bankruptcy Law" — this reflects the firm's prior/legacy branding as "Gourjian Law Group" (a consumer bankruptcy practice); the current gourjianlaw.com site and current practice areas (real estate, business litigation, corporate transactions, general counsel) do not match this category, suggesting the GBP/Yelp category has not been updated since the firm's repositioning to B2B outside general counsel work. This is a notable finding regardless of the exact review count.
+- Photos active: 20 photos referenced on Yelp listing per snippet; not confirmed on Google directly
+- Posts active: not observed/not confirmed
+
+============================================================
+STEP 3 — LOCAL 3-PACK SEARCHES
+============================================================
+IMPORTANT CAVEAT: Live Google Maps 3-pack rendering was not accessible via available tools in this environment (map pack results require interactive/JS rendering not available here). Searches below reflect organic/directory search-result competitive landscape for the relevant terms as the best available substitute, not a literal verified 3-pack screenshot. This should be spot-checked live before the report is finalized, especially since this firm's target client (a business owner needing ongoing outside general counsel) is a lower-search-volume, less map-pack-driven query pattern than typical consumer legal searches (e.g., "car accident lawyer near me") — consistent with the transcript's point that traditional local/paid tactics are a weaker fit for this audience.
+
+Practice Area 1: Business Litigation
+- Search 1 "business litigation attorney Glendale CA": firm (Gourjian Law) not observed in results — competitors surfaced: Callahan & Blaine, Novian & Novian LLP, Wright Kim Douglas Law
+- Search 2 "corporate transactions lawyer Glendale CA": firm not observed — competitors surfaced: Macias Counsel Inc., Babachanian, Ling Law Group APC, Lurie & Associates, Sharp Law APC
+- Search 3 "general counsel services for businesses Glendale CA law firm": firm not observed — competitors surfaced: Babachanian (Offsite General Counsel), Allan Law Group, KAASS Law, Lurie & Associates
+
+Practice Area 2: Real Estate (Transactions & Litigation)
+- Search 1 "real estate attorney Glendale CA reviews": firm not observed — competitors surfaced: Raffy Boulgourjian (114 reviews per Yelp listing title), Alexander C. Safarian / Block LLP, Jack Kakorian, Kashfian & Kashfian LLP
+
+Note: firm does not appear in any of the organic/competitive searches run above for its own stated practice areas — consistent with a 21-year, referral-only firm that has never invested in SEO/local visibility.
+
+============================================================
+STEP 4 — COMPETITOR REVIEW COUNTS
+============================================================
+Named local competitors surfaced repeatedly across searches above, with best-available review data (Google Maps GBP could not be reached live in this environment — all figures below are third-party-sourced and tagged accordingly):
+
+- Competitor 1: KAASS Law (Glendale, CA — personal injury/business law) — reviews: 240 [UNCONFIRMED — sourced from Birdeye, not independently confirmed via Google] — also 86 reviews listed on Yelp [UNCONFIRMED — sourced from Yelp] — rating: 4.9 [UNCONFIRMED — sourced from Birdeye, not independently confirmed via Google]
+- Competitor 2: Babachanian | Legal Counsel (Glendale, CA — business/general counsel) — reviews: 43 [UNCONFIRMED — sourced from Yelp, not independently confirmed via Google] — rating: 4.8 [UNCONFIRMED — sourced from TrustAnalytica, not independently confirmed via Google]
+- Competitor 3: Novian & Novian LLP (Los Angeles/Glendale-area business litigation) — reviews: 3 [UNCONFIRMED — sourced from Birdeye, not independently confirmed via Google] — rating: 3.7 [UNCONFIRMED — sourced from Birdeye, not independently confirmed via Google]
+
+Gourjian Law's own review count (~40 on Yelp, UNCONFIRMED, see Step 2) sits ahead of Novian & Novian's Birdeye figure but behind KAASS Law's and roughly comparable to Babachanian's — none of these figures are independently Google-confirmed, so no claim should be made in the client-facing report that any specific competitor is definitively "beating" Gourjian Law on reviews. This is a directional signal only.
+
+============================================================
+STEP 5 — DIRECTORY LISTINGS
+============================================================
+Checked: Avvo, Justia, FindLaw, Yelp, Martindale, plus BBB/Birdeye/TrustAnalytica for competitor cross-reference.
+
+- Avvo: listings found for individual attorneys (Varand Gourjian at 101 N Brand Blvd., Ste. 1220, Glendale, CA 91203; also a separate Nareg Gourjian listing, criminal defense/personal injury — appears to be a related but distinct attorney/entity at the same address history)
+- FindLaw: "Gourjian Law Group" listed as a Glendale, CA law firm; also individual FindLaw profile for "Varand Gourjian — Bankruptcy & Creditors' Rights Lawyer"
+- Martindale.com: "Gourjian Law Group" listed at Glendale, CA office
+- Yelp: "Gourjian Law" listed under "Bankruptcy Law" category, 101 N Brand Blvd, Glendale, CA 91203, phone (818) 956-0100
+
+NAP CONSISTENCY: Address (101 N Brand Blvd, Suite 1220, Glendale, CA 91203) and phone ((818) 956-0100) are consistent across all directories checked and match the current website. However, there is a **firm-name inconsistency**: nearly every third-party directory (FindLaw, Martindale, Avvo cross-references, Yelp category framing) still shows the legacy name "Gourjian Law Group" and/or a bankruptcy-focused category, while the live website has rebranded to "Gourjian Law" with a repositioned focus on real estate, business litigation, corporate transactions, and general counsel. This is a concrete, fixable finding: directory listings have not been updated to reflect the firm's current name or practice focus.
+
+Geo-targeting landing pages: none found. Site navigation includes only firm-wide practice area pages (Real Estate Transactions, Real Estate Litigation, Bankruptcy, Business Litigation, Corporate Transactions, General Counsel) with no city/suburb-specific landing pages (e.g., no dedicated Pasadena, Burbank, or Los Angeles pages).
+
+============================================================
+STEP 6 — GOOGLE ADS
+============================================================
+Per the ADS FRAMING RULE, no absolute claim is made that the firm or competitors are/are not running ads — only what was and was not observed in searches conducted.
+
+Practice Area 1: Business Litigation / General Counsel
+- Firm ads observed: not observed for "business litigation attorney Glendale CA," "corporate transactions lawyer Glendale CA," or "general counsel services for businesses Glendale CA" — Gourjian Law does not appear to be running ads for these searches
+- Named local competitors running ads: not observed running ads in the searches conducted — Novian & Novian, Babachanian, Macias Counsel, KAASS Law, and Lurie & Associates all appeared via organic/directory listings only, not as paid ad placements, in this pass
+
+Practice Area 2: Real Estate
+- Firm ads observed: not observed for "real estate attorney Glendale CA"
+- Named local competitors running ads: not observed running ads in this pass; Raffy Boulgourjian, Alexander C. Safarian, and Jack Kakorian appeared via organic directory/review listings only
+
+Overall: this is consistent with the transcript's framing that this is a low-PPC-intensity market segment (sophisticated B2B GC buyers), not a market where the firm may be "getting outbid" in the traditional consumer sense — but it does mean the firm currently owns none of the paid or organic search real estate for its own core services.
+
+============================================================
+STEP 7 — LOCAL SERVICE ADS
+============================================================
+- Firm appears in LSA: not observed
+- Google Screened: not observed
+- LSA review count: n/a
+- Named local competitors in LSA: not observed in this pass
+
+Note: Local Service Ads inventory for law firms on Google skews heavily toward consumer practice areas (personal injury, bankruptcy, family law, criminal defense) rather than transactional/outside-GC business law, so a lack of LSA presence here is expected for both the firm and its true peer set and is not itself a competitive gap in this practice area.
+
+============================================================
+STEP 8 — META ADS
+============================================================
+- Firm has active ads: not observed — no Gourjian Law entries surfaced in available Meta Ad Library search attempts in this environment
+- Named local competitor 1: Babachanian — active ads: not observed
+- Named local competitor 2: KAASS Law — active ads: not observed
+
+Note: Direct interactive access to https://www.facebook.com/ads/library/ was not available in this environment; findings above reflect absence of evidence in web search results, not a confirmed empty ad library. Recommend a live manual check before the report is finalized if Meta ads competitive data becomes material to the recommendation.
+
+============================================================
+STEP 9 — TRANSCRIPT EXTRACTION
+============================================================
+- Practice areas confirmed: Outside general counsel (GC) for businesses; real estate; business litigation; corporate transactions; bankruptcy/reorganization (per website); client examples cited on call: real estate, distribution
+- Current lead sources: 100% referrals — "built entirely on referrals," zero marketing spend, 21-year-old firm
+- Ads ever run: no — "zero marketing spend" stated; no platform, budget, or ad history mentioned
+- Team size: not given as a specific number — described as "lean, top-heavy structure with attorneys and one support staff member" (website's own Our Team page lists 8 named attorneys, which appears inconsistent with "one support staff member" — this discrepancy should be clarified with the prospect/rep before finalizing team-size claims in the report; use the transcript's own words rather than resolving the discrepancy unilaterally)
+- Annual revenue (gross / case value): ~$3M+ annual revenue, from hourly billing at a ~$650–$700/hr blended rate
+- Annual revenue (net / take-home / collected): 60% profit margin stated (~$1.8M net at $3M gross); currently taken entirely as owner compensation rather than reinvested
+- Fee structure: hourly billing, ~$650–$700/hr blended rate (not contingency, not flat-fee)
+- Revenue goal: not given as a specific dollar target — growth goal framed as hiring more attorneys, each expected to generate ~$650k–$700k in revenue (3x their ~$200k compensation); rep cited a 20% of revenue reinvestment benchmark (~$600k/year) as the proposed marketing investment level, which Varand is open to
+- Average case value: not applicable in per-case terms — billing is hourly at ~$650–$700/hr blended rate; client relationships are long-term (10+ years) outside general counsel engagements rather than discrete cases
+- Current close rate: not stated — default to 15% per protocol (caveat: this default is a poor fit for this firm's actual buying motion, which is long-term referral-based relationship formation rather than a lead-to-case conversion funnel; flag this in the write-up rather than presenting 15% as meaningful)
+- Number of locations: 1 (not otherwise stated; Glendale, CA office)
+- Spanish campaign needed: not stated — no indication in transcript; not applicable to this B2B GC audience
+- Dominant buying motive: not explicitly stated in the transcript as a personal/lifestyle motive (no mention of retirement, kid's sports, vacations, exit sale, etc.). Closest inference from context: this reads as scale-and-grow-the-practice motive tied to firm capacity — Varand is focused on institutionalizing/scaling a firm that currently depends entirely on his and his attorneys' personal referral networks, by hiring attorneys who can each generate $650k–$700k, and by building a "branded play" (content/authority) that reduces reliance on word-of-mouth alone. This leans toward category (3) scale and dominate, though there is no explicit "sell the firm" or "step back personally" language — treat as an inference, not a confirmed quote.
+- Any profitability claims made by prospect: "60% profit margins" and "consistent 20%+ annual growth" (both exact figures as reported in the Fathom AI summary of the call)
+- Any claims about case types or practice areas: "Primarily long-term (10+ years) outside general counsel (GC) for businesses (e.g., real estate, distribution)"
+- Stated call focus / product interest: **This was explicitly NOT a standard marketing/intake growth discovery call.** Per the transcript's own "Meeting Purpose": "To explore marketing strategies for scaling a successful, non-marketing law firm." The proposed solution discussed was a bespoke "branded play" — high-quality content and education-led authority-building aimed at sophisticated GC buyers — explicitly because "traditional PPC ads are ineffective for this market." This should be called out explicitly in the audit write-up, not treated as a standard lead-gen/intake audit.
+- Existing marketing/SEO/ad vendor engagements: none stated
+- Budget constraints stated: none stated — to the contrary, Varand is described as "open to reinvesting a portion of profit, potentially the recommended 20% of revenue (~$600k/year)" to fund growth; the only budget-adjacent detail is that this reinvestment has not yet been made (profits currently taken as owner comp)
+
+============================================================
+STEP 10 — COMPETITIVE URGENCY SCORE
+============================================================
+Score: 3/10
+
+Named specific local competitor threats:
+1. KAASS Law (Glendale) — highest review volume of the peer set found (240 on Birdeye / 86 on Yelp, both UNCONFIRMED via Google) and active personal-injury-driven digital marketing presence, but serves a different (consumer PI) segment than Gourjian's outside-GC/business clientele, limiting direct overlap.
+2. Babachanian | Legal Counsel (Glendale) — the closest direct positioning match (explicitly markets "offsite general counsel" services to businesses) and has an active, SEO-visible web presence with dedicated service pages that outrank Gourjian Law in the searches run above.
+3. Lurie & Associates / Macias Counsel — both surfaced ahead of Gourjian Law in organic search for corporate-transactions and general-counsel-adjacent terms, indicating these firms have invested in basic SEO visibility that Gourjian Law has not.
+
+Dynamic sentence (Score 1–3): "A score of 3 means no single competitor is dominating your market yet — but that will not last forever. The firms that win markets do so by moving first. Getting your systems in place now means you set the standard before someone else does."
+
+Context note for write-up: this firm's addressable competitive risk is different in kind from a typical consumer-practice audit. The market is "quiet" less because no one is investing, and more because this buyer segment (long-term outside GC relationships for established businesses) is not won primarily through local-pack visibility or paid ads — it is won through referral networks and authority/content positioning, which is exactly the gap Babachanian is beginning to close online while Gourjian Law remains referral-only and invisible in organic search for its own core services.
+
+============================================================
+PASS 2 — VERIFICATION CHECKLIST
+============================================================
+[x] Every number in the notes matches actually observed data (or is explicitly flagged as unobtainable — see PageSpeed note)
+[x] Every competitor review count has been verified as best-available and none is claimed to definitively beat Gourjian Law's own unconfirmed figure without caveat
+[x] Every review count and star rating (firm and competitors) carries a verification-method tag — all tagged UNCONFIRMED given inability to reach live Google listings in this environment
+[x] Annual revenue is split into gross (~$3M+, hourly billing ~$650-700/hr blended) and net (60% margin, currently taken as owner comp) per transcript
+[x] Ad sections (Google Ads, LSA, Meta) cover all stated practice areas (business litigation/general counsel, real estate)
+[x] No section states "you are not running ads" — all phrased as "not observed" / "does not appear to be running ads for this search"
+[x] No profitability or business claim appears unless sourced from the transcript
+[x] No competitor reference uses generic labels — only specific named local firms (KAASS Law, Babachanian, Novian & Novian, Lurie & Associates, Macias Counsel, Raffy Boulgourjian, etc.)
+[!] PageSpeed scores are NOT real numbers obtained — tool access failed (HTTP 429, quota exhausted) after repeated attempts; explicitly flagged above, not estimated. **Must be resolved with a live manual check before /audit-write finalizes the report**, or the report must state the gap rather than inventing a score.
+[x] DBM recorded as an inference (not an exact quote) with reasoning shown
+[x] Revenue goal recorded (not stated as a number; reinvestment benchmark of ~$600k/year noted instead)
+[x] Close rate recorded (not stated — defaulted to 15% per protocol, with an explicit caveat that this default poorly fits this firm's actual business model)
+[x] Average case value recorded (not applicable — hourly blended rate noted instead)
+[x] Stated call focus explicitly called out as a non-standard, "branded play" / authority-content strategy conversation, not a standard marketing/intake growth call
+[x] Existing vendor engagements recorded (none stated)
+[x] Budget constraints recorded (none stated; prospect open to significant reinvestment)
+
+============================================================
+OUTSTANDING ITEMS FOR /audit-write OR MANUAL FOLLOW-UP
+============================================================
+1. PageSpeed mobile/desktop scores were not obtainable in this environment — get real numbers before finalizing.
+2. Direct Google Business Profile star rating/review count for Gourjian Law could not be confirmed live — all figures in this file are UNCONFIRMED aggregator-sourced; a live Google Maps check is recommended before printing any specific number in the client-facing report.
+3. Team-size discrepancy: transcript says "one support staff member" with a top-heavy attorney structure, but the firm's own website lists 8 named attorneys — reconcile before making specific team-size claims.
+4. Firm-name/category inconsistency across directories (legacy "Gourjian Law Group" / "Bankruptcy Law" category vs. current "Gourjian Law" / GC-business-litigation-real estate positioning) is a concrete, low-cost fixable finding worth including in the report.
