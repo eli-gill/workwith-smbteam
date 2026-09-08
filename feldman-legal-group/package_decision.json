@@ -13,15 +13,15 @@
   ],
   "marketing_tier": "Growth",
   "marketing_name": "Web + SEO Growth",
-  "marketing_price_bundled": 4897,
-  "marketing_price_retail": 4897,
+  "marketing_price_bundled": 5897,
+  "marketing_price_retail": 5897,
   "marketing_savings": 0,
   "coaching_name": null,
   "coaching_price_bundled": null,
   "coaching_price_retail": null,
   "coaching_savings": null,
   "law_tier": null,
-  "total_bundled": 4897,
+  "total_bundled": 5897,
   "total_savings": 0,
   "ad_spend_conservative": null,
   "ad_spend_aggressive": null,
@@ -31,6 +31,7 @@
     "Web + SEO Growth priced at $4,897/mo per Design Files/Scoping_and_Ad_Spend_Guide.md Section 14 numeric reference — no distinct stand-alone premium is listed for Web+SEO sub-packages (dash in the Stand-Alone column), so the listed $4,897/mo bundled rate was used as-is with $0 savings; consistent with prior standalone-override precedent (see diehl-law/package_decision.json, runion-injury-law/package_decision.json).",
     "Coaching dropped per seller's 'standalone' request — this is a marketing-only (Web + SEO Growth) engagement with no non-marketing package attached, an exception to the Step 6 default that every client have at least one non-marketing package; flagged for sales rep awareness.",
     "Web + SEO sub-packages carry no ad spend cap or allocation per the guide (no PPC/LSA included) — ad_spend fields left null.",
-    "Revenue and team size remain unconfirmed — no discovery call transcript exists yet for this firm; this tier was set directly from the seller's explicit package name request, not from revenue-based default logic. Sales rep should verify eligibility/fit once revenue is confirmed."
+    "Revenue and team size remain unconfirmed — no discovery call transcript exists yet for this firm; this tier was set directly from the seller's explicit package name request, not from revenue-based default logic. Sales rep should verify eligibility/fit once revenue is confirmed.",
+    "Seller override: Jacob Meissner requested via Slack on September 8, 2026 to change the Web + SEO Growth price to $5,897/mo (from the $4,897/mo guide rate)."
   ]
 }
