@@ -1,0 +1,221 @@
+SECTION 11 WORKINGS — Legacy Wealth Legal (September 10, 2026)
+======================================================================
+
+PACKAGE DECISION FILE REVIEW
+----------------------------
+legacy-wealth-legal/package_decision.json does NOT exist. select-package.mjs
+was deliberately NOT run for this firm — it has no override logic for the
+call-purpose flag below, and running it would have produced a Full Service
+Marketing + coaching bundle that directly contradicts what this call was
+actually about. Full eligibility rules and MANDATORY PRICE LOOKUP applied
+by hand below, per the "if it does not exist" branch of Pass 2 instructions.
+
+TRANSCRIPT-STATED NEED OVERRIDE ANALYSIS (required check, all four)
+----------------------------------------------------------------------
+1. Call-purpose override — TRIGGERED. The research notes flag this
+   explicitly at the top of STEP 9: the discovery call's stated purpose was
+   "to explore SMB Team's solutions for scaling a law firm with AI," and the
+   product actually discussed was AI Workforce Pro. Marketing and coaching
+   were mentioned only as a "Long-Term Growth Strategy" to be reviewed on a
+   separate follow-up call. This firm did not ask about marketing on this
+   call. Per the override, Full Service Marketing is NOT the lead
+   recommendation — checked the LAW table and non-marketing table first,
+   per instructions.
+2. Existing-vendor override — NOT TRIGGERED. Martin uses OpenCase (drafting)
+   and NotebookLM (analysis), but these are not marketing/SEO/ad vendors.
+   No existing marketing engagement stated.
+3. Budget-reality override — NOT TRIGGERED as a hard ceiling, but strongly
+   informs package selection (see below). No explicit budget stated, but
+   the transcript shows a clear cost-consciousness/ROI-first preference
+   ("$1k/mo AI vs. $50k/yr salary," skeptical of high-cost PPC).
+4. Effective-revenue override — NOT APPLICABLE. Not a contingency-fee
+   practice; no net-vs-gross distinction to apply.
+
+CRITICAL CONFLICT — LAW/AI Workforce Pro is DISQUALIFIED despite being the
+actual subject of the call
+----------------------------------------------------------------------
+The call was literally about AI Workforce Pro. However, the LAW eligibility
+rules state plainly: "Do NOT recommend LAW if ... Firm is solo with no
+support staff (minimum 1-2 staff needed to engage with implementation)."
+Legacy Wealth Legal is solo with zero staff ("Chief Everything Officer," no
+hires). This is an unconditional disqualifier and is not overridden by
+confidence level or by the fact that the client asked about this exact
+product. Current revenue is also not confirmed at the $500K floor LAW
+requires — only a $500k-$1M GOAL was stated, not a current baseline
+("Annual revenue: not stated as a current figure. Transcript states a
+goal, not a current baseline"). Two independent disqualifiers apply.
+
+ALSO FLAG: the transcript records the AI Workforce Pro price discussed on
+the call as "$350/mo." The approved pricing table lists AI Workforce Pro
+(AI Essentials tier) at $1,597/mo bundled / $2,497/mo standalone. These do
+not match. Per Price Integrity rules, only approved-table prices may ever
+appear in a client report — $350/mo does NOT appear anywhere in this audit.
+Jacob should reconcile this discrepancy with the client directly (was $350
+a rep-side estimate, an older price point, or a misunderstanding?) before
+the phased-growth follow-up call.
+
+RESOLUTION: Because LAW cannot be recommended today, and marketing was not
+the stated need, this proposal leads with a single non-marketing package
+(Elite Coach) focused on building the operational foundation — a revenue
+baseline, a defined process, and a staffing plan — that gets Martin to the
+point where LAW becomes both available (1-2 staff) and useful. The Growth
+Roadmap (Block 6) sequences Legal AI Workforce into Phase 2 once he brings
+on a first support hire, and defers Full Service Marketing to Phase 3 once
+a revenue baseline is confirmed — this mirrors, almost exactly, what the
+transcript says was promised for the already-scheduled follow-up call
+("a phased growth plan combining AI with coaching and marketing"). Flag for
+Jacob: confirm this sequencing lines up with what was actually promised on
+the call before presenting.
+
+Non-marketing tier selection: revenue table bands on $250K-$400K (Elite
+Coach, $2,600/mo) vs. $400K-$1M (Elite Coach Plus, $3,200/mo). No current
+revenue figure exists at all for this firm — only the $500k-$1M GOAL. Given
+a brand-new practice with zero confirmed current revenue, Elite Coach (the
+lower, $250K-$400K tier) was selected as the more defensible, conservative
+starting point rather than assuming the firm already qualifies for the
+$400K-$1M tier before any baseline is confirmed. This still clears the
+$2,497/mo minimum MRR floor. FLAG FOR SALES: confirm actual current revenue
+with Martin before finalizing — if he is in fact closer to the $400K-$1M
+band already, Elite Coach Plus may be the better fit.
+
+MANDATORY PRICE LOOKUP
+-----------------------
+Marketing package selected: none (excluded per call-purpose override — no
+marketing gap stated on this call; deferred to Phase 3, see roadmap)
+
+Non-marketing package selected: Elite Coach
+  - Bundled price (from table): $2,600/mo
+  - Stand-alone price (from table): $3,497/mo
+  - Savings (stand-alone minus bundled): $897/mo
+
+Legal AI Workforce (LAW) package selected: none in current proposal —
+DISQUALIFIED today (solo, no support staff; revenue not confirmed at $500K
+floor). Positioned in Phase 2 roadmap only, once a first support hire is
+in place — AI Workforce Pro / AI Essentials, $1,597/mo bundled / $2,497/mo
+standalone, for future reference once eligible.
+
+AI Avatar / Video Growth add-on selected: none
+Attorney Assistant selected: none (not a fit — this is a per-seat AI
+intake-agent product; Martin's stated need is email/document automation,
+not call-answering capacity)
+
+Total monthly investment (sum of all bundled/recurring prices): $2,600/mo
+Total savings (sum of all savings): $897/mo
+
+PACKAGE ELIGIBILITY CHECK
+--------------------------
+- Practice area: Estate Planning, single location, single practice area
+  (contract-law caseload ambiguity noted below) — no marketing package is
+  being recommended this pass, so Essentials/Starter restrictions are moot.
+- Revenue: not confirmed current; goal only. Elite Coach selected as the
+  conservative tier — see note above.
+- Team: solo, zero staff — Master's Circle and all fractional (FCOO/FCFO)
+  products correctly excluded; LAW correctly excluded per its own
+  solo/no-staff disqualifier.
+- Minimum MRR $2,497/mo: $2,600/mo total, compliant.
+- Single-product recommendation used (not the marketing+coaching default) —
+  justified because the transcript clearly shows this call's stated need
+  was AI/ops, not marketing, and marketing was explicitly deferred to a
+  future call.
+- 35% cap check: revenue not confirmed, cannot compute precisely. Using the
+  low end of the stated GOAL ($500K/yr = $41,667/mo) as a ceiling check,
+  35% = $14,583/mo — the $2,600/mo recommendation is well under any
+  plausible cap. Flag for sales: re-run this check once actual current
+  revenue is confirmed.
+
+ESCALATION FLAGS (internal — do not appear in client report)
+--------------------------------------------------------------
+- Revenue not confirmed / likely under $300K given brand-new practice with
+  no established client base yet under this brand → scoping approval may be
+  required; confirm actual current revenue with Martin before finalizing.
+- LAW/AI Workforce Pro was the actual subject of this discovery call but is
+  disqualified today under current eligibility rules (solo practice, zero
+  support staff). Confirm with Martin that Phase 2 sequencing (LAW once he
+  hires) is an acceptable answer before the phased-growth follow-up call.
+- Price discrepancy: transcript records "$350/mo" for AI Workforce Pro;
+  approved table price is $1,597/mo bundled / $2,497/mo standalone. Do not
+  quote $350/mo anywhere — reconcile with the client directly.
+- Review counts unconfirmed — verify live before the call. (Every
+  competitor review count/rating in the research notes is tagged
+  UNCONFIRMED; none appear as specific figures in the client report.)
+- PageSpeed scores NOT OBTAINED (rate-limited 4x this pass) — re-run
+  pagespeed.web.dev manually before the next call if a hard number is
+  needed.
+- Practice-area ambiguity: "150+ contract cases" generating ~100 daily
+  emails may be a legacy contract-law caseload carried over from Martin's
+  34-year business-law background, not active estate-planning matters —
+  needs clarification before the follow-up call. Do not assume contract
+  law is a second active practice area.
+- Spanish-language campaign not discussed on this call but worth raising
+  given Palmetto Bay/South Miami-Dade demographics — relevant to the
+  Phase 3 marketing conversation, not this proposal.
+
+DBM STATEMENT (Block 1)
+-------------------------
+"We help solo attorneys launching a new practice get the operational
+structure and financial clarity they need so they can build a firm that
+runs on systems and AI instead of their own two hands."
+
+QUICK WIN OPPORTUNITIES (6 identified, spanning all 4 pillars)
+------------------------------------------------------------
+1. [Lead Gen / Quick Win] Claim and build a Google Business Profile —
+   competitor: ZTR Legal.
+2. [Lead Gen / Long-Term Play] Build out a real website with actual content
+   — competitors: Chepenik Trushin LLP, Rarick Trusts & Wills Law P.A.
+3. [Intake / Quick Win] Put a triage system around the inbox — no named
+   competitor comparison, omit "who" row.
+4. [Team / Long-Term Play] Define what the first hire looks like — no named
+   competitor comparison, omit "who" row.
+5. [Profit / Quick Win] Establish a revenue and case-value baseline — no
+   named competitor comparison, omit "who" row.
+6. [Lead Gen / Long-Term Play] Refresh the Avvo profile to reflect the new
+   estate planning brand — competitor: Law Office of Michelle C. Fraga, P.A.
+
+FIRST 90 DAYS (4 bullets)
+---------------------------
+1. Claim and fully build out a Google Business Profile for Legacy Wealth
+   Legal.
+2. Kick off Elite Coach sessions with Martin to begin establishing a
+   revenue/case-value baseline and a first-hire staffing plan.
+3. Put a lightweight triage structure around the ~100 daily case emails.
+4. Update the Avvo profile to reflect the estate planning brand instead of
+   the legacy business-law identity.
+
+Note: no ad spend launch appears in the First 90 Days list — no marketing
+package is being recommended this pass. Block 4 (ad spend) in section 11
+is presented as a Phase 3 preview only, clearly labeled as not part of
+this proposal.
+
+AD SPEND & ROI PROJECTIONS (Phase 3 preview only — NOT part of this
+proposal; included for the phased-growth follow-up call)
+----------------------------------------------------------------------
+Practice area: Estate Planning. Close rate: 15% (not stated — default).
+Average case value: not stated — using practice-area default $1,500-$3,000,
+midpoint $2,250 (disclosed as an estimate).
+
+Conservative scenario — Ad spend (sum of channel minimums: Google PPC
+$3,500 + LSA $2,000 + Meta Retargeting $1,200 + Meta Lead Gen $3,500) =
+$10,200/mo:
+  - Blended CPL: estate planning midpoints (Google $135, LSA $65, Meta
+    retargeting $52.50, Meta cold $55), evenly weighted ≈ $77, + 20%
+    conservative cushion ≈ $92
+  - Leads: $10,200 / $92 ≈ 111 leads/mo
+  - Cases: 111 × 15% ≈ 17 cases/mo
+  - Revenue: 17 × $2,250 ≈ $38,250/mo
+  - Return: $38,250 / $10,200 ≈ 3.7x
+
+Aggressive scenario — 20% rule: revenue GOAL midpoint $750,000 × 20% ÷ 12 =
+$12,500/mo × Miami Tier 2 multiplier (1.3x) = $16,250/mo. Reverse math
+check: ($750,000 ÷ 12) ÷ $2,250 avg case value ≈ 27.8 cases/mo ÷ 15% close
+rate ≈ 185 leads/mo × ~$90 blended CPL (no cushion) ≈ $16,650/mo — higher
+of the two, so aggressive = ~$16,500/mo (rounded), within the Starter tier
+ad cap ($20,000) that would apply once a marketing package is added in
+Phase 3.
+  - Leads: $16,500 / $90 ≈ 183 leads/mo
+  - Cases: 183 × 15% ≈ 27 cases/mo
+  - Revenue: 27 × $2,250 ≈ $60,750/mo
+  - Return: $60,750 / $16,500 ≈ 3.7x
+
+All figures are estimates based on industry averages, disclosed as such,
+and clearly framed in the client report as a future-phase preview — not a
+recommendation SMB Team is making today.
