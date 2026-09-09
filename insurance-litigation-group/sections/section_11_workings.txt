@@ -1,0 +1,263 @@
+SECTION 11 — WORKINGS (INTERNAL — NOT FOR CLIENT REPORT)
+Insurance Litigation Group, P.A. | September 28, 2026 | Rep: Jacob Meissner
+
+=====================================================================
+NO package_decision.json EXISTS FOR THIS FIRM — full eligibility rules applied.
+TRANSCRIPT-STATED NEED OVERRIDE CHECK (all four checked, none apply):
+1. Call-purpose override — does not apply. Call focus recorded explicitly as
+   standard marketing/growth discovery (paid media scale-up + intake fix),
+   NOT Fractional CTO/AI or coaching-only.
+2. Existing-vendor override — does not apply. Marketing is in-house (Fred G.);
+   Google's Accelerated Growth Team is a free Google resource, not a paid
+   vendor contract. A prior unnamed agency is referenced as a past, not
+   current, factor in FPP's decline.
+3. Budget-reality override — does not apply. No stated inability to afford;
+   the firm is already discussing a ~$40K/month ad spend increase, which is
+   itself a large commitment, not evidence of budget constraint on the
+   management-fee side.
+4. Effective-revenue override — does not apply. No net/gross revenue split
+   was stated (no revenue figure was given at all).
+=====================================================================
+
+MANDATORY PRICE LOOKUP (confirmed character-by-character against
+.claude/commands/audit-write.md on-disk tables):
+
+- Marketing package selected: Full Service Marketing Platinum
+  - Bundled price (from table): $15,997/mo
+  - Stand-alone price (from table): $18,997/mo
+  - Savings (stand-alone minus bundled): $3,000/mo
+
+- Non-marketing package selected: Master's Circle + FCOO Director
+  - Bundled price (from table): $8,394/mo
+  - Stand-alone price (component sum — Master's Circle $4,997 + FCOO Director
+    $5,797, both individually listed in the approved stand-alone table): $10,794/mo
+  - Savings (stand-alone minus bundled): $2,400/mo
+
+- Legal AI Workforce (LAW) package selected: none. No AI-readiness signal
+  (openness to staff training/technology adoption) was present in the
+  transcript, and the call was explicitly confirmed NOT to be an AI/FCTO
+  discussion. Not recommended.
+
+- AI Avatar / Video Growth add-on selected: none. No interest in video/social
+  brand-building was expressed on the call.
+
+- Total monthly investment (sum of bundled/recurring mgmt-fee prices):
+  $15,997 + $8,394 = $24,391/mo
+
+- Total savings (sum of all stand-alone minus bundled):
+  $3,000 + $2,400 = $5,400/mo
+
+=====================================================================
+WHY PLATINUM (NOT DOMINATE) AND WHY FCOO DIRECTOR (NOT FCOO PARTNER)
+=====================================================================
+
+REVENUE — NOT STATED ON THE CALL. No gross or net revenue figure was given
+in the transcript (confirmed in research notes, Step 9). Per the Scoping
+Guide's Tier-1 "infer from context" rule, revenue is inferred at $3M+ from:
+  - 45 employees, 6 offices (Miami HQ + 5 additional FL offices)
+  - Current combined ad spend already in the ~$35K+/month range (Immigration
+    alone: 187 leads x ~$82 CPL = ~$15,334/mo; FPP being scaled from a prior
+    $5K/month floor toward the ~$20K/mo now being scoped)
+This is a disclosed ASSUMPTION, not a stated fact. CONFIRM ACTUAL REVENUE
+WITH THE CLIENT before the proposal call — see escalation flags below.
+
+MARKETING TIER — boundary rule forces Platinum. The reverse-math ad spend
+required to hit the firm's own stated volume goals (see AD SPEND below)
+totals ~$132,800/month combined, which exceeds Dominate's $100,000/month
+tier cap. Per the boundary rule ("if calculated ad spend exceeds the tier's
+cap, move to the higher tier"), this pushes the recommendation to Platinum
+($150,000/month cap), which the inferred $3M+ revenue also qualifies for.
+
+NON-MARKETING PACKAGE — Master's Circle + FCOO Director chosen over Master's
+Circle + FCOO Partner. Team size (45 employees, 5+ with a dedicated marketing
+staffer in Fred G.) qualifies for Master's Circle either way. FCOO Partner
+($12,394/mo bundled, "$3M+ Large team" row) has NO stand-alone price listed
+anywhere in the approved pricing tables — quoting a stand-alone/savings
+figure for it would require inventing a number, which the Price Integrity
+rule forbids. FCOO Director ($8,394/mo bundled, "$2M+" row) has both bundled
+AND stand-alone figures fully specified ($4,997 + $5,797 = $10,794), so it
+was selected instead. This is the more conservative, fully price-table-
+compliant choice given the uncertainty in the exact revenue figure.
+
+=====================================================================
+AD SPEND — CONSERVATIVE AND AGGRESSIVE
+=====================================================================
+
+Practice area mapping note: audit-write.md's channel-minimum and CPL tables
+have no "First-Party Property" row. FPP is mapped to the closest analog,
+"Accident & Injury (General)," since both are contingency/settlement-based
+claims practices. This is a disclosed assumption, not a stated fact.
+
+CONSERVATIVE (sum of channel minimums for PPC + LSA + Meta Retargeting +
+Meta Lead Gen — the full channel set, matching what's already running):
+  FPP (Accident/Injury analog): PPC $6,000 + LSA $2,000 + Meta Retarget
+    $1,200 + Meta Lead Gen $5,500 = $14,700/mo
+  Immigration: PPC $3,000 + LSA $2,000 + Meta Retarget $1,200 + Meta Lead
+    Gen $3,000 = $9,200/mo
+  TOTAL CONSERVATIVE = $23,900/month
+
+AGGRESSIVE (reverse math from the firm's own stated volume goals — no
+dollar revenue GOAL was stated, so the 20%-rule inputs are unavailable;
+per protocol ("use whichever of the 20% rule or reverse math is higher"),
+reverse math is used directly since it's the only computable path):
+  Immigration: goal 50 signed/mo ÷ 5% stated close rate = 1,000 leads/mo
+    required x $82 actual stated CPL = $82,000/mo
+  FPP: goal 20 signed/mo ÷ 15% default close rate (not stated) = 133.3
+    leads/mo required x $381 blended analog CPL (Google Search $705 x 40%
+    + LSA $235 x 20% + Meta Retarget $90 x 20% + Meta Cold $170 x 20%,
+    client-facing midpoints, no cushion) = $50,800/mo
+  TOTAL AGGRESSIVE = $132,800/month
+  (Both fit under Platinum's $150,000/month ad spend cap — no overage fee
+  needed.)
+
+Note: this reverse-math total independently corroborates the research
+notes' own back-of-envelope "~$100K/month" figure (computed there via a
+single blended $1,640 CPA applied to the combined 70-signed-client goal);
+the more granular per-practice-area calculation here lands somewhat higher
+because FPP's blended CPL is materially more expensive than Immigration's.
+
+PRESENTED RANGE FOR CLIENT REPORT: $23,900 – $132,800/month (labeled as
+estimates, per protocol).
+
+=====================================================================
+ROI PROJECTIONS
+=====================================================================
+
+CONSERVATIVE SCENARIO ($23,900/month combined ad spend):
+  FPP: $14,700 / $457.20 blended CPL (w/ 20% cushion) = 32 leads
+       32 x 15% = 5 cases x $6,500 case value = $32,500 revenue
+  Immigration: $9,200 / $98.40 blended CPL (w/ 20% cushion) = 93 leads
+       93 x 5% = 5 cases x $4,500 case value = $22,500 revenue
+  COMBINED: 125 leads, 10 cases, $55,000/month revenue
+  Return = $55,000 / $23,900 = 2.3x
+
+AGGRESSIVE SCENARIO ($132,800/month combined ad spend):
+  FPP: $50,800 / $381 blended CPL (no cushion) = 133 leads
+       133 x 15% = 20 cases x $6,500 case value = $130,000 revenue
+  Immigration: $82,000 / $82 actual CPL (no cushion) = 1,000 leads
+       1,000 x 5% = 50 cases x $4,500 case value = $225,000 revenue
+  COMBINED: 1,133 leads, 70 cases, $355,000/month revenue
+  Return = $355,000 / $132,800 = 2.7x
+  (Note: 70 combined cases exactly matches the firm's stated combined
+  volume goal of 50 Immigration + 20 FPP signed clients/month — this
+  scenario is, by construction, "what it costs to hit the goals you told
+  us you want.")
+
+Case value note: FPP uses the Accident/Injury default ($5K-$8K midpoint
+$6,500); Immigration uses its own default ($3K-$6K midpoint $4,500), since
+neither was stated on the call. Disclosed in the client report per protocol.
+
+=====================================================================
+35% CAP CHECK (documented for sales — not resolved with certainty because
+revenue itself is inferred, not stated)
+=====================================================================
+
+At the $3M/year revenue floor used for tier eligibility ($250,000/mo):
+  35% cap = $87,500/month max total spend (mgmt fees + ad spend)
+  Conservative total: $24,391 (mgmt fees) + $23,900 (ad spend) = $48,291/mo
+    → well within the $87,500 cap at the $3M floor.
+  Aggressive total: $24,391 + $132,800 = $157,191/mo
+    → EXCEEDS the $87,500 cap at the $3M floor. Satisfying the 35% cap at
+    the aggressive spend level requires ~$5.39M/year in actual revenue
+    ($157,191 x 12 / 0.35).
+ACTION FOR SALES: confirm actual revenue before presenting the aggressive
+scenario as a firm recommendation. If actual revenue is closer to the $3M
+floor, scale the aggressive ad-spend figure back accordingly on the call.
+
+=====================================================================
+DBM STATEMENT (Block 1)
+=====================================================================
+DBM: inferred, not personally framed on the call — category (3) scale and
+dominate. Statement: "We help multi-office, multi-practice-area law firms
+convert their existing lead volume and ad budget into signed clients so
+they can scale into the dominant First-Party Property and Immigration firm
+their 45-person, 6-office platform is already built to become."
+
+=====================================================================
+QUICK WIN OPPORTUNITIES (9 identified — min 6 required)
+=====================================================================
+1. [Lead Gen] Consolidate the split domain — ilgpa.com and restorationlaw.com
+   both serve live content under the same brand per the firm's own FindLaw
+   profile, fragmenting SEO authority. No competitor named (structural/
+   technical issue). Opportunity: consolidate to one domain to compound
+   authority instead of splitting it.
+2. [Lead Gen] Fix the Avvo miscategorization — listed under "Real Estate
+   Lawyer" instead of an insurance/property-claims category. No competitor
+   named. Opportunity: correct every directory listing so prospects
+   searching by practice area actually find the firm.
+3. [Lead Gen] Close the organic visibility gap — ILG did not surface in any
+   of 6 live search queries this session. Competitor: Cernitz Law (surfaced
+   in 2 of 3 property searches). Opportunity: local SEO content + GBP
+   optimization.
+4. [Lead Gen] Grow review volume — ILG's review footprint trails several
+   named competitors by a wide margin. Competitor: Revilla Law Firm, P.A.
+   Opportunity: systematic review-generation tied to case closings.
+5. [Intake] Stop dropped calls from hurting LSA performance — active,
+   current, transcript-confirmed problem. No competitor named (internal
+   issue). Opportunity: professionalized intake coverage.
+6. [Intake] Raise the Immigration close rate — 5% conversion means hitting
+   the 50-signed/month goal requires ~1,000 leads/month at current spend.
+   No competitor named. Opportunity: intake fixes lower the ad spend needed
+   to hit volume goals.
+7. [Lead Gen/Ads] Scale paid media deliberately — FPP budget was previously
+   capped at $5K/month while leads declined. Competitor: Panter, Panter &
+   Sampedro, P.A. (strong organic visibility in the same searches).
+   Opportunity: professionally managed PPC/LSA/Meta campaigns to rebuild
+   lost FPP lead volume.
+8. [Team] Bring in dedicated marketing expertise — Fred G. runs marketing
+   alone across 6 offices and says he's open to outsourcing. No competitor
+   named. Opportunity: free internal bandwidth, add a full marketing team's
+   expertise across all offices.
+9. [Profit] Build visibility into case economics — no CPA/revenue visibility
+   beyond Immigration's channel-level numbers. No competitor named.
+   Opportunity: FCOO Director-level operational reporting so the next
+   marketing dollar is data-driven, not guesswork.
+
+=====================================================================
+FIRST 90 DAYS
+=====================================================================
+1. Launch scaled Google PPC + LSA + Meta campaigns for both practice areas
+   within the conservative ad-spend range immediately, prioritizing
+   recovering First-Party Property's lost lead volume.
+2. Run manual PageSpeed, GBP, and directory audits (consolidate ilgpa.com/
+   restorationlaw.com, fix the Avvo miscategorization) to close the
+   visibility gaps found in this research pass.
+3. Kick off Master's Circle group coaching and the FCOO Director engagement
+   to build accountable intake and operations processes across all 6
+   offices.
+4. Stand up a defined intake workflow to eliminate the dropped calls
+   currently hurting LSA performance.
+5. Launch a systematic review-generation process tied to case closings to
+   close the review-count gap against Revilla Law Firm and Cernitz Law.
+
+=====================================================================
+ESCALATION FLAGS (INTERNAL ONLY — NEVER IN CLIENT REPORT)
+=====================================================================
+- Revenue not stated on the call — recommendation is based on an inferred
+  $3M+ scale (45 employees, 6 offices, current combined ad spend already
+  ~$35K+/month). CONFIRM ACTUAL REVENUE WITH CLIENT before finalizing the
+  proposal — the aggressive ad-spend scenario requires ~$5.39M+/year in
+  revenue to satisfy the 35% cap; if actual revenue is lower, scale back
+  the aggressive figure accordingly on the call.
+- Marketing MRR ($15,997/mo) exceeds $10K → scoping approval required.
+- Ad spend (aggressive end, $132,800/mo) exceeds $25K → scoping approval
+  required.
+- Revenue goal (client-volume based; 70 signed/mo combined) exceeds what's
+  currently being proposed on the call (~$40K/mo) → paid ads team review
+  (also independently flagged in the research notes).
+- First-Party Property (mapped as a Personal-Injury-adjacent analog
+  practice for ad-spend/CPL purposes) sits in Miami, a top-15 metro →
+  flagging "Personal Injury-adjacent practice in a top-40 metro — approval
+  may be required" for sales awareness, even though FPP is not literally
+  categorized as PI under the eligibility filters.
+- Review counts and star ratings (firm and all named competitors) are
+  UNCONFIRMED — sourced from Birdeye/aggregators, no Google property was
+  reachable this research session. Verify live before the proposal call.
+- Attorney Assistant (AI intake agent) — strong fit signal given the
+  dropped-calls/intake bottleneck and 5% Immigration close rate, but NOT
+  included as a hard Block 2/3 recommendation. Flag: "Attorney Assistant
+  fit — confirm qualification with sales rep before including in proposal."
+- PageSpeed scores and live ad-channel data (Google Ads, LSA, Meta) were
+  NOT OBSERVED this research session due to tool-access blocks (already
+  flagged in the research notes) — recommend manual verification before
+  the proposal call, given how central paid media scale-up is to this deal.
